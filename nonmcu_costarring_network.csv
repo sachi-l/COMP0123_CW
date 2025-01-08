@@ -1,0 +1,842 @@
+source,source_name,target,target_name,title,weight
+nm0000949,Cate Blanchett,nm0935653,Ray Winstone,Indiana Jones and the Kingdom of the Crystal Skull,-1
+nm0695435,Chris Pratt,nm0339460,Judy Greer,Jurassic World,-1
+nm0001838,Rachel Weisz,nm0001804,Stanley Tucci,The Lovely Bones,-1
+nm0001570,Edward Norton,nm0000353,Willem Dafoe,Motherless Brooklyn,-1
+nm0001570,Edward Norton,nm0134072,Bobby Cannavale,Motherless Brooklyn,-1
+nm0000353,Willem Dafoe,nm0134072,Bobby Cannavale,Motherless Brooklyn,-1
+nm0000949,Cate Blanchett,nm0842770,Tilda Swinton,The Curious Case of Benjamin Button,-1
+nm0252961,Idris Elba,nm0252961,Idris Elba,Masters of the Universe,-1
+nm1093951,Aaron Taylor-Johnson,nm2810287,David Dastmalchian,A Million Little Pieces,-1
+nm0413168,Hugh Jackman,nm1431940,Evangeline Lilly,Real Steel,-1
+nm0413168,Hugh Jackman,nm1107001,Anthony Mackie,Real Steel,-1
+nm1431940,Evangeline Lilly,nm1107001,Anthony Mackie,Real Steel,-1
+nm0000474,Michael Keaton,nm0000474,Michael Keaton,The Flash,-1
+nm0000652,James Spader,nm0000169,Tommy Lee Jones,Lincoln,-1
+nm0757855,Zoe Saldana,nm0000458,William Hurt,Vantage Point,-1
+nm1157048,Zachary Levi,nm0005023,Djimon Hounsou,Shazam!,-1
+nm0000604,John C. Reilly,nm0000161,Salma Hayek,Cirque du Freak: The Vampire's Assistant,-1
+nm0000604,John C. Reilly,nm0829032,Ray Stevenson,Cirque du Freak: The Vampire's Assistant,-1
+nm0000161,Salma Hayek,nm0829032,Ray Stevenson,Cirque du Freak: The Vampire's Assistant,-1
+nm0413168,Hugh Jackman,nm0413168,Hugh Jackman,X-Men Origins: Wolverine,-1
+nm0413168,Hugh Jackman,nm0005351,Ryan Reynolds,X-Men Origins: Wolverine,-1
+nm0413168,Hugh Jackman,nm0005351,Ryan Reynolds,X-Men Origins: Wolverine,-1
+nm0262635,Chris Evans,nm0005023,Djimon Hounsou,Push,-1
+nm0000204,Natalie Portman,nm0424060,Scarlett Johansson,The Other Boleyn Girl,-1
+nm0000204,Natalie Portman,nm1212722,Benedict Cumberbatch,The Other Boleyn Girl,-1
+nm0424060,Scarlett Johansson,nm1212722,Benedict Cumberbatch,The Other Boleyn Girl,-1
+nm0000288,Christian Bale,nm0000288,Christian Bale,The Dark Knight,-1
+nm0000128,Russell Crowe,nm1046097,Rachel McAdams,State of Play,-1
+nm0424060,Scarlett Johansson,nm0842770,Tilda Swinton,"Hail, Caesar!",-1
+nm0424060,Scarlett Johansson,nm0842770,Tilda Swinton,"Hail, Caesar!",-1
+nm0842770,Tilda Swinton,nm0842770,Tilda Swinton,"Hail, Caesar!",-1
+nm0000156,Jeff Goldblum,nm0000353,Willem Dafoe,Adam Resurrected,-1
+nm0252961,Idris Elba,nm0757855,Zoe Saldana,The Losers,-1
+nm0252961,Idris Elba,nm0262635,Chris Evans,The Losers,-1
+nm0757855,Zoe Saldana,nm0262635,Chris Evans,The Losers,-1
+nm0001570,Edward Norton,nm0342029,Frank Grillo,Pride and Glory,-1
+nm0000168,Samuel L. Jackson,nm0740264,Michael Rooker,Jumper,-1
+nm1659221,Sebastian Stan,nm0000458,William Hurt,The Last Full Measure,-1
+nm0005351,Ryan Reynolds,nm0000313,Jeff Bridges,R.I.P.D.,-1
+nm0000332,Don Cheadle,nm0836121,Michael Stuhlbarg,Miles Ahead,-1
+nm0881631,Karl Urban,nm0757855,Zoe Saldana,Star Trek,-1
+nm0177896,Bradley Cooper,nm0004753,Leslie Bibb,The Midnight Meat Train,-1
+nm0000204,Natalie Portman,nm0177896,Bradley Cooper,"New York, I Love You",-1
+nm0004937,Jamie Foxx,nm0177896,Bradley Cooper,Valentine's Day,-1
+nm0004950,Jennifer Garner,nm0000140,Michael Douglas,Ghosts of Girlfriends Past,-1
+nm0004937,Jamie Foxx,nm0000375,Robert Downey Jr.,The Soloist,-1
+nm0079273,Paul Bettany,nm0881631,Karl Urban,Priest,-1
+nm0001401,Angelina Jolie,nm0272173,Colm Feore,Changeling,-1
+nm1385871,Olga Kurylenko,nm1092086,David Harbour,Quantum of Solace,-1
+nm1093951,Aaron Taylor-Johnson,nm0647634,Elizabeth Olsen,Godzilla,-1
+nm0000168,Samuel L. Jackson,nm0424060,Scarlett Johansson,The Spirit,-1
+nm0005351,Ryan Reynolds,nm0001838,Rachel Weisz,"Definitely, Maybe",-1
+nm0000906,Annette Bening,nm0749263,Mark Ruffalo,The Kids Are All Right,-1
+nm0001838,Rachel Weisz,nm0749263,Mark Ruffalo,The Brothers Bloom,-1
+nm0935653,Ray Winstone,nm2017943,Hayley Atwell,The Sweeney,-1
+nm0586568,Mads Mikkelsen,nm0507207,Gary Lewis,Valhalla Rising,-1
+nm1002641,Dominic Cooper,nm2017943,Hayley Atwell,The Duchess,-1
+nm0005377,Sam Rockwell,nm0532193,Matthew Macfadyen,Frost/Nixon,-1
+nm0005377,Sam Rockwell,nm0429363,Toby Jones,Frost/Nixon,-1
+nm0532193,Matthew Macfadyen,nm0429363,Toby Jones,Frost/Nixon,-1
+nm0719637,Jeremy Renner,nm1107001,Anthony Mackie,The Hurt Locker,-1
+nm0719637,Jeremy Renner,nm1431940,Evangeline Lilly,The Hurt Locker,-1
+nm1107001,Anthony Mackie,nm1431940,Evangeline Lilly,The Hurt Locker,-1
+nm0915989,Hugo Weaving,nm0339460,Judy Greer,The Key Man,-1
+nm0293509,Martin Freeman,nm0035514,Richard Armitage,The Hobbit: An Unexpected Journey,-1
+nm0001401,Angelina Jolie,nm0252230,Chiwetel Ejiofor,Salt,-1
+nm0000204,Natalie Portman,nm0000204,Natalie Portman,Black Swan,-1
+nm0000204,Natalie Portman,nm1659221,Sebastian Stan,Black Swan,-1
+nm0000204,Natalie Portman,nm1659221,Sebastian Stan,Black Swan,-1
+nm0000204,Natalie Portman,nm1659221,Sebastian Stan,Black Swan,-1
+nm0000204,Natalie Portman,nm1659221,Sebastian Stan,Black Swan,-1
+nm1659221,Sebastian Stan,nm1659221,Sebastian Stan,Black Swan,-1
+nm0000128,Russell Crowe,nm0000949,Cate Blanchett,Robin Hood,-1
+nm0000128,Russell Crowe,nm0532193,Matthew Macfadyen,Robin Hood,-1
+nm0000128,Russell Crowe,nm0000458,William Hurt,Robin Hood,-1
+nm0000949,Cate Blanchett,nm0532193,Matthew Macfadyen,Robin Hood,-1
+nm0000949,Cate Blanchett,nm0000458,William Hurt,Robin Hood,-1
+nm0532193,Matthew Macfadyen,nm0000458,William Hurt,Robin Hood,-1
+nm0005351,Ryan Reynolds,nm0000353,Willem Dafoe,Fireflies in the Garden,-1
+nm0000474,Michael Keaton,nm0134072,Bobby Cannavale,The Merry Gentleman,-1
+nm0935653,Ray Winstone,nm0836121,Michael Stuhlbarg,Hugo,-1
+nm0000164,Anthony Hopkins,nm0424060,Scarlett Johansson,Hitchcock,-1
+nm0000164,Anthony Hopkins,nm0836121,Michael Stuhlbarg,Hitchcock,-1
+nm0424060,Scarlett Johansson,nm0836121,Michael Stuhlbarg,Hitchcock,-1
+nm1046097,Rachel McAdams,nm0671567,Michael Peña,The Lucky Ones,-1
+nm0671567,Michael Peña,nm0740264,Michael Rooker,Fantasy Island,-1
+nm0000375,Robert Downey Jr.,nm0000179,Jude Law,Sherlock Holmes,-1
+nm0000375,Robert Downey Jr.,nm1046097,Rachel McAdams,Sherlock Holmes,-1
+nm0000179,Jude Law,nm1046097,Rachel McAdams,Sherlock Holmes,-1
+nm0134072,Bobby Cannavale,nm2962353,Pom Klementieff,Thunder Force,-1
+nm0001804,Stanley Tucci,nm0134072,Bobby Cannavale,Jolt,-1
+nm0262635,Chris Evans,nm0169806,Taika Waititi,Lightyear,-1
+nm0842770,Tilda Swinton,nm0842770,Tilda Swinton,Suspiria,-1
+nm0842770,Tilda Swinton,nm0842770,Tilda Swinton,Suspiria,-1
+nm0842770,Tilda Swinton,nm0842770,Tilda Swinton,Suspiria,-1
+nm0757855,Zoe Saldana,nm0757855,Zoe Saldana,The Absence of Eden,-1
+nm6328300,Winston Duke,nm0938950,Benedict Wong,Nine Days,-1
+nm0001172,Christopher Eccleston,nm0001172,Christopher Eccleston,G.I. Joe: The Rise of Cobra,-1
+nm1212722,Benedict Cumberbatch,nm0429363,Toby Jones,The Electrical Life of Louis Wain,-1
+nm6073955,Florence Pugh,nm2110418,Gemma Chan,Don't Worry Darling,-1
+nm1659221,Sebastian Stan,nm1659221,Sebastian Stan,Rachel Getting Married,-1
+nm1107001,Anthony Mackie,nm0740264,Michael Rooker,Louis,-1
+nm0748620,Paul Rudd,nm0748620,Paul Rudd,Ant-Man and the Wasp: Quantumania,-1
+nm0748620,Paul Rudd,nm1431940,Evangeline Lilly,Ant-Man and the Wasp: Quantumania,-1
+nm0748620,Paul Rudd,nm1431940,Evangeline Lilly,Ant-Man and the Wasp: Quantumania,-1
+nm0748620,Paul Rudd,nm0000140,Michael Douglas,Ant-Man and the Wasp: Quantumania,-1
+nm0748620,Paul Rudd,nm1015684,Corey Stoll,Ant-Man and the Wasp: Quantumania,-1
+nm0748620,Paul Rudd,nm1431940,Evangeline Lilly,Ant-Man and the Wasp: Quantumania,-1
+nm0748620,Paul Rudd,nm1431940,Evangeline Lilly,Ant-Man and the Wasp: Quantumania,-1
+nm0748620,Paul Rudd,nm0000140,Michael Douglas,Ant-Man and the Wasp: Quantumania,-1
+nm0748620,Paul Rudd,nm1015684,Corey Stoll,Ant-Man and the Wasp: Quantumania,-1
+nm1431940,Evangeline Lilly,nm1431940,Evangeline Lilly,Ant-Man and the Wasp: Quantumania,-1
+nm1431940,Evangeline Lilly,nm0000140,Michael Douglas,Ant-Man and the Wasp: Quantumania,-1
+nm1431940,Evangeline Lilly,nm1015684,Corey Stoll,Ant-Man and the Wasp: Quantumania,-1
+nm1431940,Evangeline Lilly,nm0000140,Michael Douglas,Ant-Man and the Wasp: Quantumania,-1
+nm1431940,Evangeline Lilly,nm1015684,Corey Stoll,Ant-Man and the Wasp: Quantumania,-1
+nm0000140,Michael Douglas,nm1015684,Corey Stoll,Ant-Man and the Wasp: Quantumania,-1
+nm0000652,James Spader,nm0993507,Kat Dennings,Shorts,-1
+nm0000313,Jeff Bridges,nm0000313,Jeff Bridges,Tron: Legacy,-1
+nm0012078,Scott Adkins,nm2333360,Zara Phythian,Real Men,-1
+nm0430107,Michael B. Jordan,nm1935086,Tessa Thompson,Creed III,-1
+nm0000313,Jeff Bridges,nm3229685,Kit Harington,Seventh Son,-1
+nm0000313,Jeff Bridges,nm0005023,Djimon Hounsou,Seventh Son,-1
+nm3229685,Kit Harington,nm0005023,Djimon Hounsou,Seventh Son,-1
+nm0000906,Annette Bening,nm0000168,Samuel L. Jackson,Mother and Child,-1
+nm0000620,Mickey Rourke,nm0000673,Marisa Tomei,The Wrestler,-1
+nm0079273,Paul Bettany,nm0339460,Judy Greer,Uncle Frank,-1
+nm0005351,Ryan Reynolds,nm0005351,Ryan Reynolds,Green Lantern,-1
+nm0005351,Ryan Reynolds,nm0169806,Taika Waititi,Green Lantern,-1
+nm0005351,Ryan Reynolds,nm0000291,Angela Bassett,Green Lantern,-1
+nm0005351,Ryan Reynolds,nm0169806,Taika Waititi,Green Lantern,-1
+nm0005351,Ryan Reynolds,nm0000291,Angela Bassett,Green Lantern,-1
+nm0169806,Taika Waititi,nm0000291,Angela Bassett,Green Lantern,-1
+nm0001570,Edward Norton,nm0001570,Edward Norton,Leaves of Grass,-1
+nm0001570,Edward Norton,nm0625789,Tim Blake Nelson,Leaves of Grass,-1
+nm0001570,Edward Norton,nm0625789,Tim Blake Nelson,Leaves of Grass,-1
+nm0000332,Don Cheadle,nm1092086,David Harbour,No Sudden Move,-1
+nm0748620,Paul Rudd,nm0269463,Jon Favreau,"I Love You, Man",-1
+nm0001570,Edward Norton,nm1176985,Dave Bautista,Glass Onion,-1
+nm3918035,Zendaya,nm0001745,Stellan Skarsgård,Dune: Part One,-1
+nm0740264,Michael Rooker,nm0740264,Michael Rooker,Super Capers: The Origins of Ed and the Missing Bullion,-1
+nm0000164,Anthony Hopkins,nm0429363,Toby Jones,The Rite,-1
+nm0293509,Martin Freeman,nm0035514,Richard Armitage,The Hobbit: The Desolation of Smaug,-1
+nm0000620,Mickey Rourke,nm0000620,Mickey Rourke,Take Back,-1
+nm0005377,Sam Rockwell,nm0938950,Benedict Wong,Moon,-1
+nm0000673,Marisa Tomei,nm0671567,Michael Peña,The Lincoln Lawyer,-1
+nm0000547,Alfred Molina,nm0935653,Ray Winstone,Rango,-1
+nm0719637,Jeremy Renner,nm0001838,Rachel Weisz,The Bourne Legacy,-1
+nm0719637,Jeremy Renner,nm0001570,Edward Norton,The Bourne Legacy,-1
+nm0719637,Jeremy Renner,nm1015684,Corey Stoll,The Bourne Legacy,-1
+nm0001838,Rachel Weisz,nm0001570,Edward Norton,The Bourne Legacy,-1
+nm0001838,Rachel Weisz,nm1015684,Corey Stoll,The Bourne Legacy,-1
+nm0001570,Edward Norton,nm1015684,Corey Stoll,The Bourne Legacy,-1
+nm0004937,Jamie Foxx,nm0004753,Leslie Bibb,Law Abiding Citizen,-1
+nm0000288,Christian Bale,nm0757855,Zoe Saldana,Out of the Furnace,-1
+nm0000168,Samuel L. Jackson,nm1385871,Olga Kurylenko,Afterburn,-1
+nm0000168,Samuel L. Jackson,nm1176985,Dave Bautista,Afterburn,-1
+nm1385871,Olga Kurylenko,nm1176985,Dave Bautista,Afterburn,-1
+nm0429363,Toby Jones,nm1534698,Zawe Ashton,St Trinian's 2: The Legend of Fritton's Gold,-1
+nm0000230,Sylvester Stallone,nm0846687,Faran Tahir,Escape Plan,-1
+nm0000458,William Hurt,nm0252230,Chiwetel Ejiofor,Endgame,-1
+nm0915989,Hugo Weaving,nm0915989,Hugo Weaving,Legend of the Guardians: The Owls of Ga'Hoole,-1
+nm0000375,Robert Downey Jr.,nm0004937,Jamie Foxx,Due Date,-1
+nm0000353,Willem Dafoe,nm0671567,Michael Peña,"My Son, My Son, What Have Ye Done",-1
+nm0000474,Michael Keaton,nm0000168,Samuel L. Jackson,RoboCop,-1
+nm0000204,Natalie Portman,nm0429363,Toby Jones,Your Highness,-1
+nm0842770,Tilda Swinton,nm0000604,John C. Reilly,We Need to Talk About Kevin,-1
+nm0001401,Angelina Jolie,nm0079273,Paul Bettany,The Tourist,-1
+nm0177896,Bradley Cooper,nm1046097,Rachel McAdams,Aloha,-1
+nm0177896,Bradley Cooper,nm0429363,Toby Jones,Serena,-1
+nm1093951,Aaron Taylor-Johnson,nm1093951,Aaron Taylor-Johnson,Kick-Ass,-1
+nm2110418,Gemma Chan,nm1030244,Chukwudi Iwuji,Exam,-1
+nm0000128,Russell Crowe,nm1176985,Dave Bautista,The Man with the Iron Fists,-1
+nm1093951,Aaron Taylor-Johnson,nm3109964,Brian Tyree Henry,Bullet Train,-1
+nm1002641,Dominic Cooper,nm1002641,Dominic Cooper,The Devil's Double,-1
+nm2110418,Gemma Chan,nm1526352,Jaimie Alexander,London Fields,-1
+nm2394794,Karen Gillan,nm0252230,Chiwetel Ejiofor,The Life of Chuck,-1
+nm2394794,Karen Gillan,nm1089991,Tom Hiddleston,The Life of Chuck,-1
+nm2394794,Karen Gillan,nm2810287,David Dastmalchian,The Life of Chuck,-1
+nm0252230,Chiwetel Ejiofor,nm1089991,Tom Hiddleston,The Life of Chuck,-1
+nm0252230,Chiwetel Ejiofor,nm2810287,David Dastmalchian,The Life of Chuck,-1
+nm1089991,Tom Hiddleston,nm2810287,David Dastmalchian,The Life of Chuck,-1
+nm0342029,Frank Grillo,nm0380073,Maximiliano Hernández,Warrior,-1
+nm0004874,Vin Diesel,nm0000168,Samuel L. Jackson,xXx: Return of Xander Cage,-1
+nm0293509,Martin Freeman,nm0429363,Toby Jones,Rembrandt's J'Accuse,-1
+nm0647634,Elizabeth Olsen,nm0000168,Samuel L. Jackson,Oldboy,-1
+nm0647634,Elizabeth Olsen,nm2962353,Pom Klementieff,Oldboy,-1
+nm0000168,Samuel L. Jackson,nm2962353,Pom Klementieff,Oldboy,-1
+nm0035514,Richard Armitage,nm0429363,Toby Jones,Uncle Vanya,-1
+nm0004937,Jamie Foxx,nm0012078,Scott Adkins,Day Shift,-1
+nm0000604,John C. Reilly,nm0000673,Marisa Tomei,Cyrus,-1
+nm2143282,Lupita Nyong'o,nm0005023,Djimon Hounsou,A Quiet Place: Day One,-1
+nm0935653,Ray Winstone,nm0000291,Angela Bassett,Damsel,-1
+nm0000288,Christian Bale,nm0000288,Christian Bale,The Dark Knight Rises,-1
+nm0004950,Jennifer Garner,nm0123092,Ty Burrell,Butter,-1
+nm1212722,Benedict Cumberbatch,nm1092086,David Harbour,Black Mass,-1
+nm2394794,Karen Gillan,nm3008739,Rob Delaney,The Bubble,-1
+nm0671567,Michael Peña,nm3008739,Rob Delaney,Tom & Jerry,-1
+nm1157048,Zachary Levi,nm1157048,Zachary Levi,Night at the Museum: Kahmunrah Rises Again,-1
+nm0915989,Hugo Weaving,nm0915989,Hugo Weaving,Cloud Atlas,-1
+nm0915989,Hugo Weaving,nm0915989,Hugo Weaving,Cloud Atlas,-1
+nm0915989,Hugo Weaving,nm0915989,Hugo Weaving,Cloud Atlas,-1
+nm0000602,Robert Redford,nm0000602,Robert Redford,The Company You Keep,-1
+nm0000602,Robert Redford,nm0001804,Stanley Tucci,The Company You Keep,-1
+nm0000602,Robert Redford,nm0005024,Terrence Howard,The Company You Keep,-1
+nm0000602,Robert Redford,nm0001804,Stanley Tucci,The Company You Keep,-1
+nm0000602,Robert Redford,nm0005024,Terrence Howard,The Company You Keep,-1
+nm0001804,Stanley Tucci,nm0005024,Terrence Howard,The Company You Keep,-1
+nm0000474,Michael Keaton,nm0829032,Ray Stevenson,The Other Guys,-1
+nm0000474,Michael Keaton,nm0000168,Samuel L. Jackson,The Other Guys,-1
+nm0829032,Ray Stevenson,nm0000168,Samuel L. Jackson,The Other Guys,-1
+nm0842770,Tilda Swinton,nm0842770,Tilda Swinton,The Eternal Daughter,-1
+nm1165110,Chris Hemsworth,nm4043618,Tom Holland,In the Heart of the Sea,-1
+nm0339460,Judy Greer,nm1195855,Lee Pace,Marmaduke,-1
+nm0413168,Hugh Jackman,nm0005024,Terrence Howard,Prisoners,-1
+nm1935086,Tessa Thompson,nm1935086,Tessa Thompson,For Colored Girls,-1
+nm0757855,Zoe Saldana,nm1212722,Benedict Cumberbatch,Star Trek Into Darkness,-1
+nm0757855,Zoe Saldana,nm0881631,Karl Urban,Star Trek Into Darkness,-1
+nm1212722,Benedict Cumberbatch,nm0881631,Karl Urban,Star Trek Into Darkness,-1
+nm0000169,Tommy Lee Jones,nm0836121,Michael Stuhlbarg,Men in Black³,-1
+nm0004874,Vin Diesel,nm0881631,Karl Urban,Riddick,-1
+nm0004874,Vin Diesel,nm1176985,Dave Bautista,Riddick,-1
+nm0881631,Karl Urban,nm1176985,Dave Bautista,Riddick,-1
+nm1165110,Chris Hemsworth,nm0671567,Michael Peña,12 Strong,-1
+nm0000288,Christian Bale,nm0429363,Toby Jones,The Pale Blue Eye,-1
+nm0424060,Scarlett Johansson,nm0001570,Edward Norton,Asteroid City,-1
+nm0749263,Mark Ruffalo,nm0000353,Willem Dafoe,Poor Things,-1
+nm0000161,Salma Hayek,nm0293509,Martin Freeman,The Pirates! Band of Misfits,-1
+nm0005351,Ryan Reynolds,nm0005351,Ryan Reynolds,Deadpool,-1
+nm0005351,Ryan Reynolds,nm1072555,Morena Baccarin,Deadpool,-1
+nm0005351,Ryan Reynolds,nm1072555,Morena Baccarin,Deadpool,-1
+nm2810287,David Dastmalchian,nm2810287,David Dastmalchian,"Batman: The Long Halloween, Part Two",-1
+nm0413168,Hugh Jackman,nm0000179,Jude Law,Rise of the Guardians,-1
+nm0252961,Idris Elba,nm0938950,Benedict Wong,Prometheus,-1
+nm2204178,Tenoch Huerta,nm2204178,Tenoch Huerta,Days of Grace,-1
+nm0000239,Liv Tyler,nm1107001,Anthony Mackie,Captain America: Brave New World,-1
+nm0000239,Liv Tyler,nm1107001,Anthony Mackie,Captain America: Brave New World,-1
+nm0000239,Liv Tyler,nm0625789,Tim Blake Nelson,Captain America: Brave New World,-1
+nm0000239,Liv Tyler,nm0625789,Tim Blake Nelson,Captain America: Brave New World,-1
+nm1107001,Anthony Mackie,nm1107001,Anthony Mackie,Captain America: Brave New World,-1
+nm1107001,Anthony Mackie,nm0625789,Tim Blake Nelson,Captain America: Brave New World,-1
+nm1107001,Anthony Mackie,nm0625789,Tim Blake Nelson,Captain America: Brave New World,-1
+nm1107001,Anthony Mackie,nm0625789,Tim Blake Nelson,Captain America: Brave New World,-1
+nm1107001,Anthony Mackie,nm0625789,Tim Blake Nelson,Captain America: Brave New World,-1
+nm0625789,Tim Blake Nelson,nm0625789,Tim Blake Nelson,Captain America: Brave New World,-1
+nm0740264,Michael Rooker,nm1385871,Olga Kurylenko,White Elephant,-1
+nm0413168,Hugh Jackman,nm3918035,Zendaya,The Greatest Showman,-1
+nm0000156,Jeff Goldblum,nm0000168,Samuel L. Jackson,Adventures in Zambezia,-1
+nm0000949,Cate Blanchett,nm0625789,Tim Blake Nelson,Guillermo del Toro's Pinocchio,-1
+nm0000353,Willem Dafoe,nm0000973,Benjamin Bratt,Dead for a Dollar,-1
+nm1089991,Tom Hiddleston,nm0647634,Elizabeth Olsen,I Saw the Light,-1
+nm0000620,Mickey Rourke,nm0012078,Scott Adkins,Section 8,-1
+nm0005023,Djimon Hounsou,nm0000164,Anthony Hopkins,Rebel Moon - Part One: A Child of Fire,-1
+nm0430107,Michael B. Jordan,nm0625789,Tim Blake Nelson,Fantastic Four,-1
+nm0532193,Matthew Macfadyen,nm0829032,Ray Stevenson,The Three Musketeers,-1
+nm0000239,Liv Tyler,nm0740264,Michael Rooker,Super,-1
+nm0000239,Liv Tyler,nm0002888,Stephen Blackehart,Super,-1
+nm0740264,Michael Rooker,nm0002888,Stephen Blackehart,Super,-1
+nm0000375,Robert Downey Jr.,nm0000179,Jude Law,Sherlock Holmes: A Game of Shadows,-1
+nm0000375,Robert Downey Jr.,nm1046097,Rachel McAdams,Sherlock Holmes: A Game of Shadows,-1
+nm0000179,Jude Law,nm1046097,Rachel McAdams,Sherlock Holmes: A Game of Shadows,-1
+nm3918035,Zendaya,nm6073955,Florence Pugh,Dune: Part Two,-1
+nm3918035,Zendaya,nm1176985,Dave Bautista,Dune: Part Two,-1
+nm6073955,Florence Pugh,nm1176985,Dave Bautista,Dune: Part Two,-1
+nm0671567,Michael Peña,nm0005023,Djimon Hounsou,The Vatican Tapes,-1
+nm0000288,Christian Bale,nm0578853,Ben Mendelsohn,Exodus: Gods and Kings,-1
+nm4810527,Jett Klyne,nm0035514,Richard Armitage,The Boy in the Woods,-1
+nm0262635,Chris Evans,nm1107001,Anthony Mackie,Ghosted,-1
+nm0005024,Terrence Howard,nm0000239,Liv Tyler,The Ledge,-1
+nm0005351,Ryan Reynolds,nm0005351,Ryan Reynolds,The Voices,-1
+nm0005351,Ryan Reynolds,nm0005351,Ryan Reynolds,The Voices,-1
+nm0005351,Ryan Reynolds,nm0005351,Ryan Reynolds,The Voices,-1
+nm1212722,Benedict Cumberbatch,nm1089991,Tom Hiddleston,War Horse,-1
+nm1385871,Olga Kurylenko,nm1046097,Rachel McAdams,To the Wonder,-1
+nm0000179,Jude Law,nm0000569,Gwyneth Paltrow,Contagion,-1
+nm0001745,Stellan Skarsgård,nm0001745,Stellan Skarsgård,Moomins and the Comet Chase,-1
+nm0001745,Stellan Skarsgård,nm0586568,Mads Mikkelsen,Moomins and the Comet Chase,-1
+nm0001745,Stellan Skarsgård,nm0586568,Mads Mikkelsen,Moomins and the Comet Chase,-1
+nm1157048,Zachary Levi,nm0000547,Alfred Molina,Harold and the Purple Crayon,-1
+nm1002641,Dominic Cooper,nm1107001,Anthony Mackie,Abraham Lincoln: Vampire Hunter,-1
+nm0001804,Stanley Tucci,nm0079273,Paul Bettany,Margin Call,-1
+nm0342029,Frank Grillo,nm0012078,Scott Adkins,Lights Out,-1
+nm0000161,Salma Hayek,nm0000547,Alfred Molina,Kahlil Gibran's The Prophet,-1
+nm0000604,John C. Reilly,nm0046223,Sayed Badreya,The Dictator,-1
+nm0000949,Cate Blanchett,nm0005023,Djimon Hounsou,How to Train Your Dragon 2,-1
+nm1093951,Aaron Taylor-Johnson,nm1093951,Aaron Taylor-Johnson,Kick-Ass 2,-1
+nm0000949,Cate Blanchett,nm0534635,Richard Madden,Cinderella,-1
+nm0000949,Cate Blanchett,nm0001745,Stellan Skarsgård,Cinderella,-1
+nm0534635,Richard Madden,nm0001745,Stellan Skarsgård,Cinderella,-1
+nm0001838,Rachel Weisz,nm0000179,Jude Law,360,-1
+nm0001838,Rachel Weisz,nm0000164,Anthony Hopkins,360,-1
+nm0000179,Jude Law,nm0000164,Anthony Hopkins,360,-1
+nm0342029,Frank Grillo,nm1526352,Jaimie Alexander,Collision,-1
+nm1093951,Aaron Taylor-Johnson,nm6328300,Winston Duke,The Fall Guy,-1
+nm0000973,Benjamin Bratt,nm0000973,Benjamin Bratt,Despicable Me 2,-1
+nm0001838,Rachel Weisz,nm1089991,Tom Hiddleston,The Deep Blue Sea,-1
+nm0262635,Chris Evans,nm0842770,Tilda Swinton,Snowpiercer,-1
+nm0413168,Hugh Jackman,nm0000128,Russell Crowe,Les Misérables,-1
+nm1569276,Chadwick Boseman,nm0000547,Alfred Molina,Message from the King,-1
+nm0252230,Chiwetel Ejiofor,nm1107001,Anthony Mackie,Triple 9,-1
+nm0842770,Tilda Swinton,nm1089991,Tom Hiddleston,Only Lovers Left Alive,-1
+nm0000547,Alfred Molina,nm0000353,Willem Dafoe,A Family Man,-1
+nm1165110,Chris Hemsworth,nm0935653,Ray Winstone,Snow White and the Huntsman,-1
+nm0252230,Chiwetel Ejiofor,nm0000547,Alfred Molina,Secret in Their Eyes,-1
+nm0001570,Edward Norton,nm0842770,Tilda Swinton,Moonrise Kingdom,-1
+nm0647634,Elizabeth Olsen,nm0429363,Toby Jones,Red Lights,-1
+nm0881631,Karl Urban,nm0038355,Tadanobu Asano,Mortal Kombat 2,-1
+nm0000313,Jeff Bridges,nm1046097,Rachel McAdams,The Little Prince,-1
+nm0000906,Annette Bening,nm0004950,Jennifer Garner,Danny Collins,-1
+nm0000906,Annette Bening,nm0134072,Bobby Cannavale,Danny Collins,-1
+nm0004950,Jennifer Garner,nm0134072,Bobby Cannavale,Danny Collins,-1
+nm0000179,Jude Law,nm1093951,Aaron Taylor-Johnson,Anna Karenina,-1
+nm0000179,Jude Law,nm0532193,Matthew Macfadyen,Anna Karenina,-1
+nm1093951,Aaron Taylor-Johnson,nm0532193,Matthew Macfadyen,Anna Karenina,-1
+nm1212722,Benedict Cumberbatch,nm1212722,Benedict Cumberbatch,National Theatre Live: Frankenstein,-1
+nm0252230,Chiwetel Ejiofor,nm1526352,Jaimie Alexander,Savannah,-1
+nm0424060,Scarlett Johansson,nm0695435,Chris Pratt,Her,-1
+nm0000288,Christian Bale,nm0177896,Bradley Cooper,American Hustle,-1
+nm0000288,Christian Bale,nm0719637,Jeremy Renner,American Hustle,-1
+nm0000288,Christian Bale,nm0671567,Michael Peña,American Hustle,-1
+nm0000288,Christian Bale,nm0671567,Michael Peña,American Hustle,-1
+nm0177896,Bradley Cooper,nm0719637,Jeremy Renner,American Hustle,-1
+nm0177896,Bradley Cooper,nm0671567,Michael Peña,American Hustle,-1
+nm0177896,Bradley Cooper,nm0671567,Michael Peña,American Hustle,-1
+nm0719637,Jeremy Renner,nm0671567,Michael Peña,American Hustle,-1
+nm0719637,Jeremy Renner,nm0671567,Michael Peña,American Hustle,-1
+nm0671567,Michael Peña,nm0671567,Michael Peña,American Hustle,-1
+nm2394794,Karen Gillan,nm0507207,Gary Lewis,Not Another Happy Ending,-1
+nm0000168,Samuel L. Jackson,nm0004753,Leslie Bibb,Meeting Evil,-1
+nm0177896,Bradley Cooper,nm0578853,Ben Mendelsohn,The Place Beyond the Pines,-1
+nm0004937,Jamie Foxx,nm0134072,Bobby Cannavale,Annie,-1
+nm0177896,Bradley Cooper,nm0757855,Zoe Saldana,The Words,-1
+nm0342029,Frank Grillo,nm0741893,Terence Rosemore,Demonic,-1
+nm0004937,Jamie Foxx,nm0000168,Samuel L. Jackson,Django Unchained,-1
+nm0671567,Michael Peña,nm1092086,David Harbour,End of Watch,-1
+nm0671567,Michael Peña,nm0342029,Frank Grillo,End of Watch,-1
+nm1092086,David Harbour,nm0342029,Frank Grillo,End of Watch,-1
+nm1176985,Dave Bautista,nm2810287,David Dastmalchian,Blade Runner 2049,-1
+nm0005351,Ryan Reynolds,nm0000168,Samuel L. Jackson,Turbo,-1
+nm0005351,Ryan Reynolds,nm0671567,Michael Peña,Turbo,-1
+nm0000168,Samuel L. Jackson,nm0671567,Michael Peña,Turbo,-1
+nm0004937,Jamie Foxx,nm0004937,Jamie Foxx,The Amazing Spider-Man 2,-1
+nm0004937,Jamie Foxx,nm0272173,Colm Feore,The Amazing Spider-Man 2,-1
+nm0004937,Jamie Foxx,nm0272173,Colm Feore,The Amazing Spider-Man 2,-1
+nm0413168,Hugh Jackman,nm0413168,Hugh Jackman,X-Men: Days of Future Past,-1
+nm0749263,Mark Ruffalo,nm0000474,Michael Keaton,Spotlight,-1
+nm0749263,Mark Ruffalo,nm1046097,Rachel McAdams,Spotlight,-1
+nm0749263,Mark Ruffalo,nm0805476,John Slattery,Spotlight,-1
+nm0749263,Mark Ruffalo,nm0001804,Stanley Tucci,Spotlight,-1
+nm0000474,Michael Keaton,nm1046097,Rachel McAdams,Spotlight,-1
+nm0000474,Michael Keaton,nm0805476,John Slattery,Spotlight,-1
+nm0000474,Michael Keaton,nm0001804,Stanley Tucci,Spotlight,-1
+nm1046097,Rachel McAdams,nm0805476,John Slattery,Spotlight,-1
+nm1046097,Rachel McAdams,nm0001804,Stanley Tucci,Spotlight,-1
+nm0805476,John Slattery,nm0001804,Stanley Tucci,Spotlight,-1
+nm0005377,Sam Rockwell,nm0836121,Michael Stuhlbarg,Seven Psychopaths,-1
+nm0647634,Elizabeth Olsen,nm0163988,Clark Gregg,Very Good Girls,-1
+nm0749263,Mark Ruffalo,nm0000569,Gwyneth Paltrow,Thanks for Sharing,-1
+nm0719637,Jeremy Renner,nm0719637,Jeremy Renner,The Immigrant,-1
+nm0000128,Russell Crowe,nm0000164,Anthony Hopkins,Noah,-1
+nm0000128,Russell Crowe,nm0935653,Ray Winstone,Noah,-1
+nm0000164,Anthony Hopkins,nm0935653,Ray Winstone,Noah,-1
+nm0005351,Ryan Reynolds,nm0000168,Samuel L. Jackson,The Hitman's Bodyguard,-1
+nm0749263,Mark Ruffalo,nm0757855,Zoe Saldana,Infinitely Polar Bear,-1
+nm0000179,Jude Law,nm0005023,Djimon Hounsou,King Arthur: Legend of the Sword,-1
+nm0252961,Idris Elba,nm0004753,Leslie Bibb,No Good Deed,-1
+nm1015684,Corey Stoll,nm2143282,Lupita Nyong'o,Non-Stop,-1
+nm0000474,Michael Keaton,nm0000353,Willem Dafoe,Beetlejuice Beetlejuice,-1
+nm0000204,Natalie Portman,nm0000949,Cate Blanchett,Song to Song,-1
+nm0004937,Jamie Foxx,nm1092086,David Harbour,Sleepless,-1
+nm4043618,Tom Holland,nm0586568,Mads Mikkelsen,Chaos Walking,-1
+nm0000168,Samuel L. Jackson,nm0829032,Ray Stevenson,Big Game,-1
+nm0005377,Sam Rockwell,nm0000619,Tim Roth,Mr. Right,-1
+nm0005377,Sam Rockwell,nm0000619,Tim Roth,Mr. Right,-1
+nm0000619,Tim Roth,nm0000619,Tim Roth,Mr. Right,-1
+nm6073955,Florence Pugh,nm1659221,Sebastian Stan,Thunderbolts*,-1
+nm6073955,Florence Pugh,nm0001838,Rachel Weisz,Thunderbolts*,-1
+nm6073955,Florence Pugh,nm1385871,Olga Kurylenko,Thunderbolts*,-1
+nm6073955,Florence Pugh,nm1385871,Olga Kurylenko,Thunderbolts*,-1
+nm6073955,Florence Pugh,nm1092086,David Harbour,Thunderbolts*,-1
+nm6073955,Florence Pugh,nm1092086,David Harbour,Thunderbolts*,-1
+nm6073955,Florence Pugh,nm0000506,Julia Louis-Dreyfus,Thunderbolts*,-1
+nm1659221,Sebastian Stan,nm0001838,Rachel Weisz,Thunderbolts*,-1
+nm1659221,Sebastian Stan,nm1385871,Olga Kurylenko,Thunderbolts*,-1
+nm1659221,Sebastian Stan,nm1385871,Olga Kurylenko,Thunderbolts*,-1
+nm1659221,Sebastian Stan,nm1092086,David Harbour,Thunderbolts*,-1
+nm1659221,Sebastian Stan,nm1092086,David Harbour,Thunderbolts*,-1
+nm1659221,Sebastian Stan,nm0000506,Julia Louis-Dreyfus,Thunderbolts*,-1
+nm0001838,Rachel Weisz,nm1385871,Olga Kurylenko,Thunderbolts*,-1
+nm0001838,Rachel Weisz,nm1385871,Olga Kurylenko,Thunderbolts*,-1
+nm0001838,Rachel Weisz,nm1092086,David Harbour,Thunderbolts*,-1
+nm0001838,Rachel Weisz,nm1092086,David Harbour,Thunderbolts*,-1
+nm0001838,Rachel Weisz,nm0000506,Julia Louis-Dreyfus,Thunderbolts*,-1
+nm1385871,Olga Kurylenko,nm1385871,Olga Kurylenko,Thunderbolts*,-1
+nm1385871,Olga Kurylenko,nm1092086,David Harbour,Thunderbolts*,-1
+nm1385871,Olga Kurylenko,nm1092086,David Harbour,Thunderbolts*,-1
+nm1385871,Olga Kurylenko,nm0000506,Julia Louis-Dreyfus,Thunderbolts*,-1
+nm1385871,Olga Kurylenko,nm1092086,David Harbour,Thunderbolts*,-1
+nm1385871,Olga Kurylenko,nm1092086,David Harbour,Thunderbolts*,-1
+nm1385871,Olga Kurylenko,nm0000506,Julia Louis-Dreyfus,Thunderbolts*,-1
+nm1092086,David Harbour,nm1092086,David Harbour,Thunderbolts*,-1
+nm1092086,David Harbour,nm0000506,Julia Louis-Dreyfus,Thunderbolts*,-1
+nm1092086,David Harbour,nm0000506,Julia Louis-Dreyfus,Thunderbolts*,-1
+nm1002641,Dominic Cooper,nm0005024,Terrence Howard,Dead Man Down,-1
+nm0000288,Christian Bale,nm0000949,Cate Blanchett,Knight of Cups,-1
+nm0000288,Christian Bale,nm0000204,Natalie Portman,Knight of Cups,-1
+nm0000949,Cate Blanchett,nm0000204,Natalie Portman,Knight of Cups,-1
+nm0748620,Paul Rudd,nm3529685,Kumail Nanjiani,Ghostbusters: Frozen Empire,-1
+nm2017943,Hayley Atwell,nm0262635,Chris Evans,Avengers: Doomsday,-1
+nm2017943,Hayley Atwell,nm0000375,Robert Downey Jr.,Avengers: Doomsday,-1
+nm2017943,Hayley Atwell,nm1212722,Benedict Cumberbatch,Avengers: Doomsday,-1
+nm2017943,Hayley Atwell,nm1107001,Anthony Mackie,Avengers: Doomsday,-1
+nm2017943,Hayley Atwell,nm1107001,Anthony Mackie,Avengers: Doomsday,-1
+nm0262635,Chris Evans,nm0000375,Robert Downey Jr.,Avengers: Doomsday,-1
+nm0262635,Chris Evans,nm1212722,Benedict Cumberbatch,Avengers: Doomsday,-1
+nm0262635,Chris Evans,nm1107001,Anthony Mackie,Avengers: Doomsday,-1
+nm0262635,Chris Evans,nm1107001,Anthony Mackie,Avengers: Doomsday,-1
+nm0000375,Robert Downey Jr.,nm1212722,Benedict Cumberbatch,Avengers: Doomsday,-1
+nm0000375,Robert Downey Jr.,nm1107001,Anthony Mackie,Avengers: Doomsday,-1
+nm0000375,Robert Downey Jr.,nm1107001,Anthony Mackie,Avengers: Doomsday,-1
+nm1212722,Benedict Cumberbatch,nm1107001,Anthony Mackie,Avengers: Doomsday,-1
+nm1212722,Benedict Cumberbatch,nm1107001,Anthony Mackie,Avengers: Doomsday,-1
+nm1107001,Anthony Mackie,nm1107001,Anthony Mackie,Avengers: Doomsday,-1
+nm0000375,Robert Downey Jr.,nm0000375,Robert Downey Jr.,Avengers: Secret Wars,-1
+nm0000375,Robert Downey Jr.,nm1107001,Anthony Mackie,Avengers: Secret Wars,-1
+nm0000375,Robert Downey Jr.,nm1107001,Anthony Mackie,Avengers: Secret Wars,-1
+nm0000375,Robert Downey Jr.,nm0938950,Benedict Wong,Avengers: Secret Wars,-1
+nm0000375,Robert Downey Jr.,nm9584861,Dominique Thorne,Avengers: Secret Wars,-1
+nm0000375,Robert Downey Jr.,nm7961780,Xochitl Gomez,Avengers: Secret Wars,-1
+nm0000375,Robert Downey Jr.,nm11940123,Iman Vellani,Avengers: Secret Wars,-1
+nm0000375,Robert Downey Jr.,nm1107001,Anthony Mackie,Avengers: Secret Wars,-1
+nm0000375,Robert Downey Jr.,nm1107001,Anthony Mackie,Avengers: Secret Wars,-1
+nm0000375,Robert Downey Jr.,nm0938950,Benedict Wong,Avengers: Secret Wars,-1
+nm0000375,Robert Downey Jr.,nm9584861,Dominique Thorne,Avengers: Secret Wars,-1
+nm0000375,Robert Downey Jr.,nm7961780,Xochitl Gomez,Avengers: Secret Wars,-1
+nm0000375,Robert Downey Jr.,nm11940123,Iman Vellani,Avengers: Secret Wars,-1
+nm1107001,Anthony Mackie,nm1107001,Anthony Mackie,Avengers: Secret Wars,-1
+nm1107001,Anthony Mackie,nm0938950,Benedict Wong,Avengers: Secret Wars,-1
+nm1107001,Anthony Mackie,nm9584861,Dominique Thorne,Avengers: Secret Wars,-1
+nm1107001,Anthony Mackie,nm7961780,Xochitl Gomez,Avengers: Secret Wars,-1
+nm1107001,Anthony Mackie,nm11940123,Iman Vellani,Avengers: Secret Wars,-1
+nm1107001,Anthony Mackie,nm0938950,Benedict Wong,Avengers: Secret Wars,-1
+nm1107001,Anthony Mackie,nm9584861,Dominique Thorne,Avengers: Secret Wars,-1
+nm1107001,Anthony Mackie,nm7961780,Xochitl Gomez,Avengers: Secret Wars,-1
+nm1107001,Anthony Mackie,nm11940123,Iman Vellani,Avengers: Secret Wars,-1
+nm0938950,Benedict Wong,nm9584861,Dominique Thorne,Avengers: Secret Wars,-1
+nm0938950,Benedict Wong,nm7961780,Xochitl Gomez,Avengers: Secret Wars,-1
+nm0938950,Benedict Wong,nm11940123,Iman Vellani,Avengers: Secret Wars,-1
+nm9584861,Dominique Thorne,nm7961780,Xochitl Gomez,Avengers: Secret Wars,-1
+nm9584861,Dominique Thorne,nm11940123,Iman Vellani,Avengers: Secret Wars,-1
+nm7961780,Xochitl Gomez,nm11940123,Iman Vellani,Avengers: Secret Wars,-1
+nm0262635,Chris Evans,nm1107001,Anthony Mackie,Playing It Cool,-1
+nm1212722,Benedict Cumberbatch,nm4043618,Tom Holland,The Current War,-1
+nm1212722,Benedict Cumberbatch,nm0532193,Matthew Macfadyen,The Current War,-1
+nm4043618,Tom Holland,nm0532193,Matthew Macfadyen,The Current War,-1
+nm0000547,Alfred Molina,nm0000547,Alfred Molina,Poe,-1
+nm0578853,Ben Mendelsohn,nm9584861,Dominique Thorne,Freaky Tales,-1
+nm4043618,Tom Holland,nm4043618,Tom Holland,Untitled Spider-Man Sequel,-1
+nm1569276,Chadwick Boseman,nm0004950,Jennifer Garner,Draft Day,-1
+nm0424060,Scarlett Johansson,nm0488953,Brie Larson,Don Jon,-1
+nm1935086,Tessa Thompson,nm3500582,Teyonah Parris,Dear White People,-1
+nm0000353,Willem Dafoe,nm0000353,Willem Dafoe,Kinds of Kindness,-1
+nm0000353,Willem Dafoe,nm0000353,Willem Dafoe,Kinds of Kindness,-1
+nm0000353,Willem Dafoe,nm0000353,Willem Dafoe,Kinds of Kindness,-1
+nm2204178,Tenoch Huerta,nm2204178,Tenoch Huerta,El Más Buscado,-1
+nm0000179,Jude Law,nm0578853,Ben Mendelsohn,Black Sea,-1
+nm0123092,Ty Burrell,nm0252961,Idris Elba,Finding Dory,-1
+nm0000353,Willem Dafoe,nm0000156,Jeff Goldblum,The Grand Budapest Hotel,-1
+nm0000353,Willem Dafoe,nm0000179,Jude Law,The Grand Budapest Hotel,-1
+nm0000353,Willem Dafoe,nm0001570,Edward Norton,The Grand Budapest Hotel,-1
+nm0000156,Jeff Goldblum,nm0000179,Jude Law,The Grand Budapest Hotel,-1
+nm0000156,Jeff Goldblum,nm0001570,Edward Norton,The Grand Budapest Hotel,-1
+nm0000179,Jude Law,nm0001570,Edward Norton,The Grand Budapest Hotel,-1
+nm1165110,Chris Hemsworth,nm1935086,Tessa Thompson,Men in Black: International,-1
+nm1165110,Chris Hemsworth,nm3529685,Kumail Nanjiani,Men in Black: International,-1
+nm1935086,Tessa Thompson,nm3529685,Kumail Nanjiani,Men in Black: International,-1
+nm2394794,Karen Gillan,nm0134072,Bobby Cannavale,Jumanji: Welcome to the Jungle,-1
+nm1002641,Dominic Cooper,nm0000168,Samuel L. Jackson,Reasonable Doubt,-1
+nm0293509,Martin Freeman,nm0035514,Richard Armitage,The Hobbit: The Battle of the Five Armies,-1
+nm0293509,Martin Freeman,nm0000949,Cate Blanchett,The Hobbit: The Battle of the Five Armies,-1
+nm0035514,Richard Armitage,nm0000949,Cate Blanchett,The Hobbit: The Battle of the Five Armies,-1
+nm0005023,Djimon Hounsou,nm0000164,Anthony Hopkins,Rebel Moon - Part Two: The Scargiver,-1
+nm0488953,Brie Larson,nm0000168,Samuel L. Jackson,Unicorn Store,-1
+nm0578853,Ben Mendelsohn,nm0005351,Ryan Reynolds,Mississippi Grind,-1
+nm1107001,Anthony Mackie,nm1072555,Morena Baccarin,Elevation,-1
+nm0880081,Leslie Uggams,nm1250791,Sterling K. Brown,American Fiction,-1
+nm0252961,Idris Elba,nm0534635,Richard Madden,The Take,-1
+nm1002641,Dominic Cooper,nm0000474,Michael Keaton,Need for Speed,-1
+nm1165110,Chris Hemsworth,nm1165110,Chris Hemsworth,The Huntsman: Winter's War,-1
+nm0001745,Stellan Skarsgård,nm0000353,Willem Dafoe,Nymphomaniac: Vol. II,-1
+nm0000949,Cate Blanchett,nm3229685,Kit Harington,How to Train Your Dragon: The Hidden World,-1
+nm0695435,Chris Pratt,nm1130627,Cobie Smulders,Delivery Man,-1
+nm0000288,Christian Bale,nm0000949,Cate Blanchett,Mowgli: Legend of the Jungle,-1
+nm0000288,Christian Bale,nm1212722,Benedict Cumberbatch,Mowgli: Legend of the Jungle,-1
+nm0000949,Cate Blanchett,nm1212722,Benedict Cumberbatch,Mowgli: Legend of the Jungle,-1
+nm0000673,Marisa Tomei,nm0005377,Sam Rockwell,Loitering with Intent,-1
+nm0748620,Paul Rudd,nm1130627,Cobie Smulders,They Came Together,-1
+nm1385871,Olga Kurylenko,nm0810488,Bill Smitrovich,The November Man,-1
+nm0836121,Michael Stuhlbarg,nm0000547,Alfred Molina,The Instigators,-1
+nm0163988,Clark Gregg,nm0005377,Sam Rockwell,Trust Me,-1
+nm0005351,Ryan Reynolds,nm0749263,Mark Ruffalo,The Adam Project,-1
+nm0005351,Ryan Reynolds,nm0004950,Jennifer Garner,The Adam Project,-1
+nm0005351,Ryan Reynolds,nm0757855,Zoe Saldana,The Adam Project,-1
+nm0749263,Mark Ruffalo,nm0004950,Jennifer Garner,The Adam Project,-1
+nm0749263,Mark Ruffalo,nm0757855,Zoe Saldana,The Adam Project,-1
+nm0004950,Jennifer Garner,nm0757855,Zoe Saldana,The Adam Project,-1
+nm0342029,Frank Grillo,nm1107001,Anthony Mackie,Point Blank,-1
+nm0342029,Frank Grillo,nm3500582,Teyonah Parris,Point Blank,-1
+nm1107001,Anthony Mackie,nm3500582,Teyonah Parris,Point Blank,-1
+nm0252961,Idris Elba,nm0935653,Ray Winstone,The Gunman,-1
+nm0719637,Jeremy Renner,nm0836121,Michael Stuhlbarg,Arrival,-1
+nm3109964,Brian Tyree Henry,nm0938950,Benedict Wong,The Magician's Elephant,-1
+nm0000474,Michael Keaton,nm0001570,Edward Norton,Birdman or (The Unexpected Virtue of Ignorance),-1
+nm0424060,Scarlett Johansson,nm0169806,Taika Waititi,Jojo Rabbit,-1
+nm0424060,Scarlett Johansson,nm0005377,Sam Rockwell,Jojo Rabbit,-1
+nm0169806,Taika Waititi,nm0005377,Sam Rockwell,Jojo Rabbit,-1
+nm8349839,Ever Anderson,nm8349839,Ever Anderson,Resident Evil: The Final Chapter,-1
+nm0000547,Alfred Molina,nm0000673,Marisa Tomei,Love Is Strange,-1
+nm0000949,Cate Blanchett,nm1046097,Rachel McAdams,Harrison Ford: Hollywood Hero,-1
+nm0881631,Karl Urban,nm0757855,Zoe Saldana,Star Trek Beyond,-1
+nm0881631,Karl Urban,nm0252961,Idris Elba,Star Trek Beyond,-1
+nm0757855,Zoe Saldana,nm0252961,Idris Elba,Star Trek Beyond,-1
+nm0038355,Tadanobu Asano,nm0038355,Tadanobu Asano,My Man,-1
+nm0000602,Robert Redford,nm0881631,Karl Urban,Pete's Dragon,-1
+nm0000204,Natalie Portman,nm1935086,Tessa Thompson,Annihilation,-1
+nm0000204,Natalie Portman,nm0938950,Benedict Wong,Annihilation,-1
+nm1935086,Tessa Thompson,nm0938950,Benedict Wong,Annihilation,-1
+nm0004874,Vin Diesel,nm0000621,Kurt Russell,Furious 7,-1
+nm0269463,Jon Favreau,nm0000375,Robert Downey Jr.,Chef,-1
+nm0269463,Jon Favreau,nm0424060,Scarlett Johansson,Chef,-1
+nm0269463,Jon Favreau,nm0134072,Bobby Cannavale,Chef,-1
+nm0000375,Robert Downey Jr.,nm0424060,Scarlett Johansson,Chef,-1
+nm0000375,Robert Downey Jr.,nm0134072,Bobby Cannavale,Chef,-1
+nm0424060,Scarlett Johansson,nm0134072,Bobby Cannavale,Chef,-1
+nm0000949,Cate Blanchett,nm3008739,Rob Delaney,The School for Good and Evil,-1
+nm0842770,Tilda Swinton,nm0842770,Tilda Swinton,The Room Next Door,-1
+nm0004937,Jamie Foxx,nm0000291,Angela Bassett,Soul,-1
+nm2143282,Lupita Nyong'o,nm2143282,Lupita Nyong'o,The Wild Robot,-1
+nm0005024,Terrence Howard,nm0269463,Jon Favreau,Term Life,-1
+nm0000128,Russell Crowe,nm1385871,Olga Kurylenko,The Water Diviner,-1
+nm0293509,Martin Freeman,nm1072555,Morena Baccarin,Ode to Joy,-1
+nm3529685,Kumail Nanjiani,nm0671567,Michael Peña,The Lego Ninjago Movie,-1
+nm0005351,Ryan Reynolds,nm0000169,Tommy Lee Jones,Criminal,-1
+nm0252961,Idris Elba,nm2143282,Lupita Nyong'o,The Jungle Book,-1
+nm0252961,Idris Elba,nm0424060,Scarlett Johansson,The Jungle Book,-1
+nm0252961,Idris Elba,nm0788009,Garry Shandling,The Jungle Book,-1
+nm2143282,Lupita Nyong'o,nm0424060,Scarlett Johansson,The Jungle Book,-1
+nm2143282,Lupita Nyong'o,nm0788009,Garry Shandling,The Jungle Book,-1
+nm0424060,Scarlett Johansson,nm0788009,Garry Shandling,The Jungle Book,-1
+nm0000569,Gwyneth Paltrow,nm0079273,Paul Bettany,Mortdecai,-1
+nm0429363,Toby Jones,nm0938950,Benedict Wong,Words of Everest,-1
+nm0430107,Michael B. Jordan,nm0000230,Sylvester Stallone,Creed,-1
+nm0430107,Michael B. Jordan,nm1935086,Tessa Thompson,Creed,-1
+nm0000230,Sylvester Stallone,nm1935086,Tessa Thompson,Creed,-1
+nm0424060,Scarlett Johansson,nm1212722,Benedict Cumberbatch,The Phoenician Scheme,-1
+nm0000288,Christian Bale,nm0000906,Annette Bening,The Bride,-1
+nm1072555,Morena Baccarin,nm3008739,Rob Delaney,The Good House,-1
+nm0005351,Ryan Reynolds,nm0005351,Ryan Reynolds,Once Upon a Deadpool,-1
+nm0005351,Ryan Reynolds,nm0005351,Ryan Reynolds,Once Upon a Deadpool,-1
+nm0005351,Ryan Reynolds,nm1072555,Morena Baccarin,Once Upon a Deadpool,-1
+nm0005351,Ryan Reynolds,nm0880081,Leslie Uggams,Once Upon a Deadpool,-1
+nm0005351,Ryan Reynolds,nm0005351,Ryan Reynolds,Once Upon a Deadpool,-1
+nm0005351,Ryan Reynolds,nm1072555,Morena Baccarin,Once Upon a Deadpool,-1
+nm0005351,Ryan Reynolds,nm0880081,Leslie Uggams,Once Upon a Deadpool,-1
+nm0005351,Ryan Reynolds,nm1072555,Morena Baccarin,Once Upon a Deadpool,-1
+nm0005351,Ryan Reynolds,nm0880081,Leslie Uggams,Once Upon a Deadpool,-1
+nm1072555,Morena Baccarin,nm0880081,Leslie Uggams,Once Upon a Deadpool,-1
+nm0430107,Michael B. Jordan,nm0430107,Michael B. Jordan,Sinners,-1
+nm0004950,Jennifer Garner,nm0339460,Judy Greer,"Men, Women & Children",-1
+nm1212722,Benedict Cumberbatch,nm1212722,Benedict Cumberbatch,The Wonderful Story of Henry Sugar and Three More,-1
+nm1212722,Benedict Cumberbatch,nm1212722,Benedict Cumberbatch,The Wonderful Story of Henry Sugar and Three More,-1
+nm1212722,Benedict Cumberbatch,nm1212722,Benedict Cumberbatch,The Wonderful Story of Henry Sugar and Three More,-1
+nm0915989,Hugo Weaving,nm4422686,Barry Keoghan,Black '47,-1
+nm1072555,Morena Baccarin,nm0000973,Benjamin Bratt,Millers in Marriage,-1
+nm0000161,Salma Hayek,nm0429363,Toby Jones,Tale of Tales,-1
+nm0000161,Salma Hayek,nm0000604,John C. Reilly,Tale of Tales,-1
+nm0429363,Toby Jones,nm0000604,John C. Reilly,Tale of Tales,-1
+nm0413168,Hugh Jackman,nm0413168,Hugh Jackman,Logan,-1
+nm0413168,Hugh Jackman,nm6748436,Dafne Keen,Logan,-1
+nm0413168,Hugh Jackman,nm6748436,Dafne Keen,Logan,-1
+nm1015684,Corey Stoll,nm0625789,Tim Blake Nelson,Anesthesia,-1
+nm0000164,Anthony Hopkins,nm0001804,Stanley Tucci,Transformers: The Last Knight,-1
+nm3918035,Zendaya,nm4043618,Tom Holland,The Odyssey,-1
+nm3918035,Zendaya,nm2143282,Lupita Nyong'o,The Odyssey,-1
+nm4043618,Tom Holland,nm2143282,Lupita Nyong'o,The Odyssey,-1
+nm0134072,Bobby Cannavale,nm0134072,Bobby Cannavale,Ferdinand,-1
+nm0000168,Samuel L. Jackson,nm0000621,Kurt Russell,The Hateful Eight,-1
+nm0000168,Samuel L. Jackson,nm0000619,Tim Roth,The Hateful Eight,-1
+nm0000621,Kurt Russell,nm0000619,Tim Roth,The Hateful Eight,-1
+nm0424060,Scarlett Johansson,nm0000604,John C. Reilly,Sing,-1
+nm0695435,Chris Pratt,nm0695435,Chris Pratt,The Lego Movie 2: The Second Part,-1
+nm4043618,Tom Holland,nm0035514,Richard Armitage,Pilgrimage,-1
+nm0005377,Sam Rockwell,nm0004753,Leslie Bibb,Don Verdean,-1
+nm0293509,Martin Freeman,nm0000547,Alfred Molina,Whiskey Tango Foxtrot,-1
+nm1002641,Dominic Cooper,nm2110418,Gemma Chan,Stratton,-1
+nm0000168,Samuel L. Jackson,nm0000168,Samuel L. Jackson,Incredibles 2,-1
+nm0671567,Michael Peña,nm1659221,Sebastian Stan,The Martian,-1
+nm0671567,Michael Peña,nm0252230,Chiwetel Ejiofor,The Martian,-1
+nm1659221,Sebastian Stan,nm0252230,Chiwetel Ejiofor,The Martian,-1
+nm0005377,Sam Rockwell,nm0001401,Angelina Jolie,The One and Only Ivan,-1
+nm0671567,Michael Peña,nm1935086,Tessa Thompson,War on Everyone,-1
+nm1089991,Tom Hiddleston,nm0000168,Samuel L. Jackson,Kong: Skull Island,-1
+nm1089991,Tom Hiddleston,nm0488953,Brie Larson,Kong: Skull Island,-1
+nm1089991,Tom Hiddleston,nm0000604,John C. Reilly,Kong: Skull Island,-1
+nm0000168,Samuel L. Jackson,nm0488953,Brie Larson,Kong: Skull Island,-1
+nm0000168,Samuel L. Jackson,nm0000604,John C. Reilly,Kong: Skull Island,-1
+nm0488953,Brie Larson,nm0000604,John C. Reilly,Kong: Skull Island,-1
+nm0578853,Ben Mendelsohn,nm0586568,Mads Mikkelsen,Rogue One: A Star Wars Story,-1
+nm0000973,Benjamin Bratt,nm0000973,Benjamin Bratt,A Score to Settle,-1
+nm2255973,Donald Glover,nm0079273,Paul Bettany,Solo: A Star Wars Story,-1
+nm2255973,Donald Glover,nm0269463,Jon Favreau,Solo: A Star Wars Story,-1
+nm0079273,Paul Bettany,nm0269463,Jon Favreau,Solo: A Star Wars Story,-1
+nm0342029,Frank Grillo,nm0342029,Frank Grillo,Stephanie,-1
+nm0000619,Tim Roth,nm2810287,David Dastmalchian,Chronic,-1
+nm0000949,Cate Blanchett,nm0000602,Robert Redford,Truth,-1
+nm0671567,Michael Peña,nm0000332,Don Cheadle,Unstoppable,-1
+nm0671567,Michael Peña,nm0134072,Bobby Cannavale,Unstoppable,-1
+nm0000332,Don Cheadle,nm0134072,Bobby Cannavale,Unstoppable,-1
+nm0000161,Salma Hayek,nm6073955,Florence Pugh,Puss in Boots: The Last Wish,-1
+nm0000161,Salma Hayek,nm0935653,Ray Winstone,Puss in Boots: The Last Wish,-1
+nm6073955,Florence Pugh,nm0935653,Ray Winstone,Puss in Boots: The Last Wish,-1
+nm0842770,Tilda Swinton,nm0842770,Tilda Swinton,Okja,-1
+nm0339460,Judy Greer,nm3529685,Kumail Nanjiani,Addicted to Fresno,-1
+nm3229685,Kit Harington,nm0000204,Natalie Portman,The Death & Life of John F. Donovan,-1
+nm0000179,Jude Law,nm0586568,Mads Mikkelsen,Fantastic Beasts: The Secrets of Dumbledore,-1
+nm0000168,Samuel L. Jackson,nm0005023,Djimon Hounsou,Paws of Fury: The Legend of Hank,-1
+nm0935653,Ray Winstone,nm0000128,Russell Crowe,Prizefighter: The Life of Jem Belcher,-1
+nm1092086,David Harbour,nm0005023,Djimon Hounsou,Gran Turismo,-1
+nm0000949,Cate Blanchett,nm0000949,Cate Blanchett,Manifesto,-1
+nm0000949,Cate Blanchett,nm0000949,Cate Blanchett,Manifesto,-1
+nm0000949,Cate Blanchett,nm0000949,Cate Blanchett,Manifesto,-1
+nm1250791,Sterling K. Brown,nm0000547,Alfred Molina,Frozen II,-1
+nm0004937,Jamie Foxx,nm0004937,Jamie Foxx,Robin Hood,-1
+nm0004937,Jamie Foxx,nm0578853,Ben Mendelsohn,Robin Hood,-1
+nm0004937,Jamie Foxx,nm0578853,Ben Mendelsohn,Robin Hood,-1
+nm3500582,Teyonah Parris,nm0000291,Angela Bassett,Chi-Raq,-1
+nm3500582,Teyonah Parris,nm0000168,Samuel L. Jackson,Chi-Raq,-1
+nm0000291,Angela Bassett,nm0000168,Samuel L. Jackson,Chi-Raq,-1
+nm0578853,Ben Mendelsohn,nm1727825,Tony Revolori,Roofman,-1
+nm0004874,Vin Diesel,nm0000621,Kurt Russell,The Fate of the Furious,-1
+nm0000906,Annette Bening,nm1015684,Corey Stoll,The Seagull,-1
+nm0001570,Edward Norton,nm0671567,Michael Peña,Collateral Beauty,-1
+nm0001401,Angelina Jolie,nm0252230,Chiwetel Ejiofor,Maleficent: Mistress of Evil,-1
+nm0424060,Scarlett Johansson,nm0123092,Ty Burrell,Rough Night,-1
+nm0000353,Willem Dafoe,nm0000353,Willem Dafoe,Nelson Algren Live,-1
+nm0000353,Willem Dafoe,nm0000353,Willem Dafoe,Nelson Algren Live,-1
+nm0000353,Willem Dafoe,nm0000353,Willem Dafoe,Nelson Algren Live,-1
+nm0695435,Chris Pratt,nm0429363,Toby Jones,Jurassic World: Fallen Kingdom,-1
+nm0695435,Chris Pratt,nm0000156,Jeff Goldblum,Jurassic World: Fallen Kingdom,-1
+nm0429363,Toby Jones,nm0000156,Jeff Goldblum,Jurassic World: Fallen Kingdom,-1
+nm0430107,Michael B. Jordan,nm0004937,Jamie Foxx,Just Mercy,-1
+nm0430107,Michael B. Jordan,nm0488953,Brie Larson,Just Mercy,-1
+nm0004937,Jamie Foxx,nm0488953,Brie Larson,Just Mercy,-1
+nm0000602,Robert Redford,nm0339460,Judy Greer,Our Souls at Night,-1
+nm1093951,Aaron Taylor-Johnson,nm0000353,Willem Dafoe,Nosferatu,-1
+nm1093951,Aaron Taylor-Johnson,nm10128408,Emma Corrin,Nosferatu,-1
+nm0000353,Willem Dafoe,nm10128408,Emma Corrin,Nosferatu,-1
+nm0748620,Paul Rudd,nm0748620,Paul Rudd,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm1431940,Evangeline Lilly,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm1431940,Evangeline Lilly,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm0671567,Michael Peña,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm0134072,Bobby Cannavale,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm0339460,Judy Greer,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm2810287,David Dastmalchian,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm5338858,Abby Ryder Fortson,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm1431940,Evangeline Lilly,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm1431940,Evangeline Lilly,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm0671567,Michael Peña,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm0134072,Bobby Cannavale,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm0339460,Judy Greer,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm2810287,David Dastmalchian,Ant-Man and the Wasp,-1
+nm0748620,Paul Rudd,nm5338858,Abby Ryder Fortson,Ant-Man and the Wasp,-1
+nm1431940,Evangeline Lilly,nm1431940,Evangeline Lilly,Ant-Man and the Wasp,-1
+nm1431940,Evangeline Lilly,nm0671567,Michael Peña,Ant-Man and the Wasp,-1
+nm1431940,Evangeline Lilly,nm0134072,Bobby Cannavale,Ant-Man and the Wasp,-1
+nm1431940,Evangeline Lilly,nm0339460,Judy Greer,Ant-Man and the Wasp,-1
+nm1431940,Evangeline Lilly,nm2810287,David Dastmalchian,Ant-Man and the Wasp,-1
+nm1431940,Evangeline Lilly,nm5338858,Abby Ryder Fortson,Ant-Man and the Wasp,-1
+nm1431940,Evangeline Lilly,nm0671567,Michael Peña,Ant-Man and the Wasp,-1
+nm1431940,Evangeline Lilly,nm0134072,Bobby Cannavale,Ant-Man and the Wasp,-1
+nm1431940,Evangeline Lilly,nm0339460,Judy Greer,Ant-Man and the Wasp,-1
+nm1431940,Evangeline Lilly,nm2810287,David Dastmalchian,Ant-Man and the Wasp,-1
+nm1431940,Evangeline Lilly,nm5338858,Abby Ryder Fortson,Ant-Man and the Wasp,-1
+nm0671567,Michael Peña,nm0134072,Bobby Cannavale,Ant-Man and the Wasp,-1
+nm0671567,Michael Peña,nm0339460,Judy Greer,Ant-Man and the Wasp,-1
+nm0671567,Michael Peña,nm2810287,David Dastmalchian,Ant-Man and the Wasp,-1
+nm0671567,Michael Peña,nm5338858,Abby Ryder Fortson,Ant-Man and the Wasp,-1
+nm0134072,Bobby Cannavale,nm0339460,Judy Greer,Ant-Man and the Wasp,-1
+nm0134072,Bobby Cannavale,nm2810287,David Dastmalchian,Ant-Man and the Wasp,-1
+nm0134072,Bobby Cannavale,nm5338858,Abby Ryder Fortson,Ant-Man and the Wasp,-1
+nm0339460,Judy Greer,nm2810287,David Dastmalchian,Ant-Man and the Wasp,-1
+nm0339460,Judy Greer,nm5338858,Abby Ryder Fortson,Ant-Man and the Wasp,-1
+nm2810287,David Dastmalchian,nm5338858,Abby Ryder Fortson,Ant-Man and the Wasp,-1
+nm0001570,Edward Norton,nm0000156,Jeff Goldblum,Isle of Dogs,-1
+nm2110418,Gemma Chan,nm0938950,Benedict Wong,Raya and the Last Dragon,-1
+nm0004950,Jennifer Garner,nm3529685,Kumail Nanjiani,A Happening of Monumental Proportions,-1
+nm0829032,Ray Stevenson,nm1176985,Dave Bautista,Final Score,-1
+nm1569276,Chadwick Boseman,nm1250791,Sterling K. Brown,Marshall,-1
+nm0647634,Elizabeth Olsen,nm0719637,Jeremy Renner,Wind River,-1
+nm3529685,Kumail Nanjiani,nm2801210,Zenobia Shroff,The Big Sick,-1
+nm0005351,Ryan Reynolds,nm0005351,Ryan Reynolds,Deadpool 2,-1
+nm0005351,Ryan Reynolds,nm0005351,Ryan Reynolds,Deadpool 2,-1
+nm0005351,Ryan Reynolds,nm1072555,Morena Baccarin,Deadpool 2,-1
+nm0005351,Ryan Reynolds,nm0880081,Leslie Uggams,Deadpool 2,-1
+nm0005351,Ryan Reynolds,nm0005351,Ryan Reynolds,Deadpool 2,-1
+nm0005351,Ryan Reynolds,nm1072555,Morena Baccarin,Deadpool 2,-1
+nm0005351,Ryan Reynolds,nm0880081,Leslie Uggams,Deadpool 2,-1
+nm0005351,Ryan Reynolds,nm1072555,Morena Baccarin,Deadpool 2,-1
+nm0005351,Ryan Reynolds,nm0880081,Leslie Uggams,Deadpool 2,-1
+nm1072555,Morena Baccarin,nm0880081,Leslie Uggams,Deadpool 2,-1
+nm0293509,Martin Freeman,nm0293509,Martin Freeman,Ghost Stories,-1
+nm0000169,Tommy Lee Jones,nm0741893,Terence Rosemore,Shock and Awe,-1
+nm1659221,Sebastian Stan,nm0134072,Bobby Cannavale,"I, Tonya",-1
+nm1195855,Lee Pace,nm0339460,Judy Greer,Driven,-1
+nm8349839,Ever Anderson,nm0000179,Jude Law,Peter Pan & Wendy,-1
+nm0004937,Jamie Foxx,nm0000169,Tommy Lee Jones,The Burial,-1
+nm2810287,David Dastmalchian,nm2394794,Karen Gillan,All Creatures Here Below,-1
+nm0695435,Chris Pratt,nm0000168,Samuel L. Jackson,The Garfield Movie,-1
+nm1176985,Dave Bautista,nm1250791,Sterling K. Brown,Hotel Artemis,-1
+nm1176985,Dave Bautista,nm0000156,Jeff Goldblum,Hotel Artemis,-1
+nm1176985,Dave Bautista,nm3109964,Brian Tyree Henry,Hotel Artemis,-1
+nm1250791,Sterling K. Brown,nm0000156,Jeff Goldblum,Hotel Artemis,-1
+nm1250791,Sterling K. Brown,nm3109964,Brian Tyree Henry,Hotel Artemis,-1
+nm0000156,Jeff Goldblum,nm3109964,Brian Tyree Henry,Hotel Artemis,-1
+nm0000604,John C. Reilly,nm0000547,Alfred Molina,Ralph Breaks the Internet,-1
+nm0000204,Natalie Portman,nm0000179,Jude Law,Vox Lux,-1
+nm0647634,Elizabeth Olsen,nm2962353,Pom Klementieff,Ingrid Goes West,-1
+nm0134072,Bobby Cannavale,nm0625789,Tim Blake Nelson,The Jesus Rolls,-1
+nm0000474,Michael Keaton,nm0000168,Samuel L. Jackson,The Protégé,-1
+nm2255973,Donald Glover,nm0252230,Chiwetel Ejiofor,The Lion King,-1
+nm0001838,Rachel Weisz,nm1046097,Rachel McAdams,Disobedience,-1
+nm1107001,Anthony Mackie,nm3109964,Brian Tyree Henry,The Woman in the Window,-1
+nm2394794,Karen Gillan,nm1195855,Lee Pace,The Party's Just Beginning,-1
+nm0012078,Scott Adkins,nm0829032,Ray Stevenson,Accident Man,-1
+nm0005351,Ryan Reynolds,nm0169806,Taika Waititi,Free Guy,-1
+nm0000288,Christian Bale,nm0005377,Sam Rockwell,Vice,-1
+nm1107001,Anthony Mackie,nm0000168,Samuel L. Jackson,The Banker,-1
+nm4043618,Tom Holland,nm4043618,Tom Holland,Spider-Man: Far from Home,-1
+nm4043618,Tom Holland,nm0000168,Samuel L. Jackson,Spider-Man: Far from Home,-1
+nm4043618,Tom Holland,nm0000673,Marisa Tomei,Spider-Man: Far from Home,-1
+nm4043618,Tom Holland,nm0269463,Jon Favreau,Spider-Man: Far from Home,-1
+nm4043618,Tom Holland,nm3918035,Zendaya,Spider-Man: Far from Home,-1
+nm4043618,Tom Holland,nm8188622,Jacob Batalon,Spider-Man: Far from Home,-1
+nm4043618,Tom Holland,nm1727825,Tony Revolori,Spider-Man: Far from Home,-1
+nm4043618,Tom Holland,nm0000168,Samuel L. Jackson,Spider-Man: Far from Home,-1
+nm4043618,Tom Holland,nm0000673,Marisa Tomei,Spider-Man: Far from Home,-1
+nm4043618,Tom Holland,nm0269463,Jon Favreau,Spider-Man: Far from Home,-1
+nm4043618,Tom Holland,nm3918035,Zendaya,Spider-Man: Far from Home,-1
+nm4043618,Tom Holland,nm8188622,Jacob Batalon,Spider-Man: Far from Home,-1
+nm4043618,Tom Holland,nm1727825,Tony Revolori,Spider-Man: Far from Home,-1
+nm0000168,Samuel L. Jackson,nm0000673,Marisa Tomei,Spider-Man: Far from Home,-1
+nm0000168,Samuel L. Jackson,nm0269463,Jon Favreau,Spider-Man: Far from Home,-1
+nm0000168,Samuel L. Jackson,nm3918035,Zendaya,Spider-Man: Far from Home,-1
+nm0000168,Samuel L. Jackson,nm8188622,Jacob Batalon,Spider-Man: Far from Home,-1
+nm0000168,Samuel L. Jackson,nm1727825,Tony Revolori,Spider-Man: Far from Home,-1
+nm0000673,Marisa Tomei,nm0269463,Jon Favreau,Spider-Man: Far from Home,-1
+nm0000673,Marisa Tomei,nm3918035,Zendaya,Spider-Man: Far from Home,-1
+nm0000673,Marisa Tomei,nm8188622,Jacob Batalon,Spider-Man: Far from Home,-1
+nm0000673,Marisa Tomei,nm1727825,Tony Revolori,Spider-Man: Far from Home,-1
+nm0269463,Jon Favreau,nm3918035,Zendaya,Spider-Man: Far from Home,-1
+nm0269463,Jon Favreau,nm8188622,Jacob Batalon,Spider-Man: Far from Home,-1
+nm0269463,Jon Favreau,nm1727825,Tony Revolori,Spider-Man: Far from Home,-1
+nm3918035,Zendaya,nm8188622,Jacob Batalon,Spider-Man: Far from Home,-1
+nm3918035,Zendaya,nm1727825,Tony Revolori,Spider-Man: Far from Home,-1
+nm8188622,Jacob Batalon,nm1727825,Tony Revolori,Spider-Man: Far from Home,-1
+nm0252961,Idris Elba,nm0740264,Michael Rooker,The Suicide Squad,-1
+nm0757855,Zoe Saldana,nm3109964,Brian Tyree Henry,Vivo,-1
+nm0757855,Zoe Saldana,nm0740264,Michael Rooker,Vivo,-1
+nm3109964,Brian Tyree Henry,nm0740264,Michael Rooker,Vivo,-1
+nm0430107,Michael B. Jordan,nm0000230,Sylvester Stallone,Creed II,-1
+nm0430107,Michael B. Jordan,nm1935086,Tessa Thompson,Creed II,-1
+nm0000230,Sylvester Stallone,nm1935086,Tessa Thompson,Creed II,-1
+nm0413168,Hugh Jackman,nm0757855,Zoe Saldana,Missing Link,-1
+nm0424060,Scarlett Johansson,nm0134072,Bobby Cannavale,Sing 2,-1
+nm0000230,Sylvester Stallone,nm1176985,Dave Bautista,Escape Plan 2: Hades,-1
+nm0000313,Jeff Bridges,nm0000313,Jeff Bridges,Bad Times at the El Royale,-1
+nm0000313,Jeff Bridges,nm1165110,Chris Hemsworth,Bad Times at the El Royale,-1
+nm0000313,Jeff Bridges,nm1165110,Chris Hemsworth,Bad Times at the El Royale,-1
+nm0252230,Chiwetel Ejiofor,nm0429363,Toby Jones,Infinite,-1
+nm0000375,Robert Downey Jr.,nm3529685,Kumail Nanjiani,Dolittle,-1
+nm0000230,Sylvester Stallone,nm1176985,Dave Bautista,Escape Plan: The Extractors,-1
+nm0000547,Alfred Molina,nm3109964,Brian Tyree Henry,Don't Let Go,-1
+nm2143282,Lupita Nyong'o,nm2143282,Lupita Nyong'o,Us,-1
+nm2143282,Lupita Nyong'o,nm6328300,Winston Duke,Us,-1
+nm2143282,Lupita Nyong'o,nm6328300,Winston Duke,Us,-1
+nm2143282,Lupita Nyong'o,nm6328300,Winston Duke,Us,-1
+nm2143282,Lupita Nyong'o,nm6328300,Winston Duke,Us,-1
+nm6328300,Winston Duke,nm6328300,Winston Duke,Us,-1
+nm0625789,Tim Blake Nelson,nm8188622,Jacob Batalon,The True Don Quixote,-1
+nm0000353,Willem Dafoe,nm0586568,Mads Mikkelsen,At Eternity's Gate,-1
+nm8188622,Jacob Batalon,nm8188622,Jacob Batalon,Every Day,-1
+nm3500582,Teyonah Parris,nm9584861,Dominique Thorne,If Beale Street Could Talk,-1
+nm4043618,Tom Holland,nm0695435,Chris Pratt,Onward,-1
+nm4043618,Tom Holland,nm0000506,Julia Louis-Dreyfus,Onward,-1
+nm0695435,Chris Pratt,nm0000506,Julia Louis-Dreyfus,Onward,-1
+nm0134072,Bobby Cannavale,nm3109964,Brian Tyree Henry,Superintelligence,-1
+nm7186321,Lia McHugh,nm0035514,Richard Armitage,The Lodge,-1
+nm4043618,Tom Holland,nm1659221,Sebastian Stan,The Devil All the Time,-1
+nm0000353,Willem Dafoe,nm0429363,Toby Jones,The Last Thing He Wanted,-1
+nm1176985,Dave Bautista,nm3529685,Kumail Nanjiani,Stuber,-1
+nm1176985,Dave Bautista,nm2394794,Karen Gillan,Stuber,-1
+nm3529685,Kumail Nanjiani,nm2394794,Karen Gillan,Stuber,-1
+nm0177896,Bradley Cooper,nm0000949,Cate Blanchett,Nightmare Alley,-1
+nm0177896,Bradley Cooper,nm0000353,Willem Dafoe,Nightmare Alley,-1
+nm0000949,Cate Blanchett,nm0000353,Willem Dafoe,Nightmare Alley,-1
+nm1092086,David Harbour,nm1107001,Anthony Mackie,We Have a Ghost,-1
+nm0000474,Michael Keaton,nm0001804,Stanley Tucci,Worth,-1
+nm0695435,Chris Pratt,nm0000156,Jeff Goldblum,Jurassic World Dominion,-1
+nm1935086,Tessa Thompson,nm0938950,Benedict Wong,Lady and the Tramp,-1
+nm0000906,Annette Bening,nm1015684,Corey Stoll,The Report,-1
+nm2143282,Lupita Nyong'o,nm1659221,Sebastian Stan,The 355,-1
+nm0005351,Ryan Reynolds,nm0000168,Samuel L. Jackson,Hitman's Wife's Bodyguard,-1
+nm0005351,Ryan Reynolds,nm0000161,Salma Hayek,Hitman's Wife's Bodyguard,-1
+nm0000168,Samuel L. Jackson,nm0000161,Salma Hayek,Hitman's Wife's Bodyguard,-1
+nm0000164,Anthony Hopkins,nm0000164,Anthony Hopkins,The Two Popes,-1
+nm0000128,Russell Crowe,nm2394794,Karen Gillan,Sleeping Dogs,-1
+nm0000128,Russell Crowe,nm2394794,Karen Gillan,Sleeping Dogs,-1
+nm2394794,Karen Gillan,nm2394794,Karen Gillan,Sleeping Dogs,-1
+nm1093951,Aaron Taylor-Johnson,nm1093951,Aaron Taylor-Johnson,Kraven: The Hunter,-1
+nm1093951,Aaron Taylor-Johnson,nm0000128,Russell Crowe,Kraven: The Hunter,-1
+nm1093951,Aaron Taylor-Johnson,nm0000128,Russell Crowe,Kraven: The Hunter,-1
+nm2255973,Donald Glover,nm4004793,Letitia Wright,Guava Island,-1
+nm1165110,Chris Hemsworth,nm1165110,Chris Hemsworth,Transformers One,-1
+nm1165110,Chris Hemsworth,nm3109964,Brian Tyree Henry,Transformers One,-1
+nm1165110,Chris Hemsworth,nm3109964,Brian Tyree Henry,Transformers One,-1
+nm1165110,Chris Hemsworth,nm0424060,Scarlett Johansson,Transformers One,-1
+nm1165110,Chris Hemsworth,nm3109964,Brian Tyree Henry,Transformers One,-1
+nm1165110,Chris Hemsworth,nm3109964,Brian Tyree Henry,Transformers One,-1
+nm1165110,Chris Hemsworth,nm0424060,Scarlett Johansson,Transformers One,-1
+nm3109964,Brian Tyree Henry,nm3109964,Brian Tyree Henry,Transformers One,-1
+nm3109964,Brian Tyree Henry,nm0424060,Scarlett Johansson,Transformers One,-1
+nm3109964,Brian Tyree Henry,nm0424060,Scarlett Johansson,Transformers One,-1
+nm1092086,David Harbour,nm0671567,Michael Peña,A Working Man,-1
+nm5338858,Abby Ryder Fortson,nm1046097,Rachel McAdams,"Are You There God? It's Me, Margaret.",-1
+nm0842770,Tilda Swinton,nm0252961,Idris Elba,Three Thousand Years of Longing,-1
+nm3109964,Brian Tyree Henry,nm2257207,Daniel Kaluuya,Spider-Man: Across the Spider-Verse,-1
+nm2017943,Hayley Atwell,nm2962353,Pom Klementieff,Mission: Impossible - The Final Reckoning,-1
+nm2017943,Hayley Atwell,nm2962353,Pom Klementieff,Mission: Impossible - Dead Reckoning Part One,-1
+nm0012078,Scott Adkins,nm0829032,Ray Stevenson,Accident Man: Hitman's Holiday,-1
+nm2257207,Daniel Kaluuya,nm9584861,Dominique Thorne,Judas and the Black Messiah,-1
+nm0004937,Jamie Foxx,nm3500582,Teyonah Parris,They Cloned Tyrone,-1

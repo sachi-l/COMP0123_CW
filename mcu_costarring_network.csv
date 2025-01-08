@@ -1,0 +1,1306 @@
+source,source_name,target,target_name,title,weight
+nm0000375,Robert Downey Jr.,nm0000569,Gwyneth Paltrow,Iron Man,1
+nm0000375,Robert Downey Jr.,nm0005024,Terrence Howard,Iron Man,1
+nm0000375,Robert Downey Jr.,nm0000313,Jeff Bridges,Iron Man,1
+nm0000375,Robert Downey Jr.,nm0004753,Leslie Bibb,Iron Man,1
+nm0000375,Robert Downey Jr.,nm0869467,Shaun Toub,Iron Man,1
+nm0000375,Robert Downey Jr.,nm0846687,Faran Tahir,Iron Man,1
+nm0000375,Robert Downey Jr.,nm0163988,Clark Gregg,Iron Man,1
+nm0000375,Robert Downey Jr.,nm0810488,Bill Smitrovich,Iron Man,1
+nm0000375,Robert Downey Jr.,nm0046223,Sayed Badreya,Iron Man,1
+nm0000569,Gwyneth Paltrow,nm0005024,Terrence Howard,Iron Man,1
+nm0000569,Gwyneth Paltrow,nm0000313,Jeff Bridges,Iron Man,1
+nm0000569,Gwyneth Paltrow,nm0004753,Leslie Bibb,Iron Man,1
+nm0000569,Gwyneth Paltrow,nm0869467,Shaun Toub,Iron Man,1
+nm0000569,Gwyneth Paltrow,nm0846687,Faran Tahir,Iron Man,1
+nm0000569,Gwyneth Paltrow,nm0163988,Clark Gregg,Iron Man,1
+nm0000569,Gwyneth Paltrow,nm0810488,Bill Smitrovich,Iron Man,1
+nm0000569,Gwyneth Paltrow,nm0046223,Sayed Badreya,Iron Man,1
+nm0005024,Terrence Howard,nm0000313,Jeff Bridges,Iron Man,1
+nm0005024,Terrence Howard,nm0004753,Leslie Bibb,Iron Man,1
+nm0005024,Terrence Howard,nm0869467,Shaun Toub,Iron Man,1
+nm0005024,Terrence Howard,nm0846687,Faran Tahir,Iron Man,1
+nm0005024,Terrence Howard,nm0163988,Clark Gregg,Iron Man,1
+nm0005024,Terrence Howard,nm0810488,Bill Smitrovich,Iron Man,1
+nm0005024,Terrence Howard,nm0046223,Sayed Badreya,Iron Man,1
+nm0000313,Jeff Bridges,nm0004753,Leslie Bibb,Iron Man,1
+nm0000313,Jeff Bridges,nm0869467,Shaun Toub,Iron Man,1
+nm0000313,Jeff Bridges,nm0846687,Faran Tahir,Iron Man,1
+nm0000313,Jeff Bridges,nm0163988,Clark Gregg,Iron Man,1
+nm0000313,Jeff Bridges,nm0810488,Bill Smitrovich,Iron Man,1
+nm0000313,Jeff Bridges,nm0046223,Sayed Badreya,Iron Man,1
+nm0004753,Leslie Bibb,nm0869467,Shaun Toub,Iron Man,1
+nm0004753,Leslie Bibb,nm0846687,Faran Tahir,Iron Man,1
+nm0004753,Leslie Bibb,nm0163988,Clark Gregg,Iron Man,1
+nm0004753,Leslie Bibb,nm0810488,Bill Smitrovich,Iron Man,1
+nm0004753,Leslie Bibb,nm0046223,Sayed Badreya,Iron Man,1
+nm0869467,Shaun Toub,nm0846687,Faran Tahir,Iron Man,1
+nm0869467,Shaun Toub,nm0163988,Clark Gregg,Iron Man,1
+nm0869467,Shaun Toub,nm0810488,Bill Smitrovich,Iron Man,1
+nm0869467,Shaun Toub,nm0046223,Sayed Badreya,Iron Man,1
+nm0846687,Faran Tahir,nm0163988,Clark Gregg,Iron Man,1
+nm0846687,Faran Tahir,nm0810488,Bill Smitrovich,Iron Man,1
+nm0846687,Faran Tahir,nm0046223,Sayed Badreya,Iron Man,1
+nm0163988,Clark Gregg,nm0810488,Bill Smitrovich,Iron Man,1
+nm0163988,Clark Gregg,nm0046223,Sayed Badreya,Iron Man,1
+nm0810488,Bill Smitrovich,nm0046223,Sayed Badreya,Iron Man,1
+nm0262635,Chris Evans,nm0915989,Hugo Weaving,Captain America: The First Avenger,1
+nm0262635,Chris Evans,nm0000168,Samuel L. Jackson,Captain America: The First Avenger,1
+nm0262635,Chris Evans,nm2017943,Hayley Atwell,Captain America: The First Avenger,1
+nm0262635,Chris Evans,nm1659221,Sebastian Stan,Captain America: The First Avenger,1
+nm0262635,Chris Evans,nm0000169,Tommy Lee Jones,Captain America: The First Avenger,1
+nm0262635,Chris Evans,nm1002641,Dominic Cooper,Captain America: The First Avenger,1
+nm0262635,Chris Evans,nm0035514,Richard Armitage,Captain America: The First Avenger,1
+nm0262635,Chris Evans,nm0001804,Stanley Tucci,Captain America: The First Avenger,1
+nm0262635,Chris Evans,nm0429363,Toby Jones,Captain America: The First Avenger,1
+nm0915989,Hugo Weaving,nm0000168,Samuel L. Jackson,Captain America: The First Avenger,1
+nm0915989,Hugo Weaving,nm2017943,Hayley Atwell,Captain America: The First Avenger,1
+nm0915989,Hugo Weaving,nm1659221,Sebastian Stan,Captain America: The First Avenger,1
+nm0915989,Hugo Weaving,nm0000169,Tommy Lee Jones,Captain America: The First Avenger,1
+nm0915989,Hugo Weaving,nm1002641,Dominic Cooper,Captain America: The First Avenger,1
+nm0915989,Hugo Weaving,nm0035514,Richard Armitage,Captain America: The First Avenger,1
+nm0915989,Hugo Weaving,nm0001804,Stanley Tucci,Captain America: The First Avenger,1
+nm0915989,Hugo Weaving,nm0429363,Toby Jones,Captain America: The First Avenger,1
+nm0000168,Samuel L. Jackson,nm2017943,Hayley Atwell,Captain America: The First Avenger,1
+nm0000168,Samuel L. Jackson,nm1659221,Sebastian Stan,Captain America: The First Avenger,1
+nm0000168,Samuel L. Jackson,nm0000169,Tommy Lee Jones,Captain America: The First Avenger,1
+nm0000168,Samuel L. Jackson,nm1002641,Dominic Cooper,Captain America: The First Avenger,1
+nm0000168,Samuel L. Jackson,nm0035514,Richard Armitage,Captain America: The First Avenger,1
+nm0000168,Samuel L. Jackson,nm0001804,Stanley Tucci,Captain America: The First Avenger,1
+nm0000168,Samuel L. Jackson,nm0429363,Toby Jones,Captain America: The First Avenger,1
+nm2017943,Hayley Atwell,nm1659221,Sebastian Stan,Captain America: The First Avenger,1
+nm2017943,Hayley Atwell,nm0000169,Tommy Lee Jones,Captain America: The First Avenger,1
+nm2017943,Hayley Atwell,nm1002641,Dominic Cooper,Captain America: The First Avenger,1
+nm2017943,Hayley Atwell,nm0035514,Richard Armitage,Captain America: The First Avenger,1
+nm2017943,Hayley Atwell,nm0001804,Stanley Tucci,Captain America: The First Avenger,1
+nm2017943,Hayley Atwell,nm0429363,Toby Jones,Captain America: The First Avenger,1
+nm1659221,Sebastian Stan,nm0000169,Tommy Lee Jones,Captain America: The First Avenger,1
+nm1659221,Sebastian Stan,nm1002641,Dominic Cooper,Captain America: The First Avenger,1
+nm1659221,Sebastian Stan,nm0035514,Richard Armitage,Captain America: The First Avenger,1
+nm1659221,Sebastian Stan,nm0001804,Stanley Tucci,Captain America: The First Avenger,1
+nm1659221,Sebastian Stan,nm0429363,Toby Jones,Captain America: The First Avenger,1
+nm0000169,Tommy Lee Jones,nm1002641,Dominic Cooper,Captain America: The First Avenger,1
+nm0000169,Tommy Lee Jones,nm0035514,Richard Armitage,Captain America: The First Avenger,1
+nm0000169,Tommy Lee Jones,nm0001804,Stanley Tucci,Captain America: The First Avenger,1
+nm0000169,Tommy Lee Jones,nm0429363,Toby Jones,Captain America: The First Avenger,1
+nm1002641,Dominic Cooper,nm0035514,Richard Armitage,Captain America: The First Avenger,1
+nm1002641,Dominic Cooper,nm0001804,Stanley Tucci,Captain America: The First Avenger,1
+nm1002641,Dominic Cooper,nm0429363,Toby Jones,Captain America: The First Avenger,1
+nm0035514,Richard Armitage,nm0001804,Stanley Tucci,Captain America: The First Avenger,1
+nm0035514,Richard Armitage,nm0429363,Toby Jones,Captain America: The First Avenger,1
+nm0001804,Stanley Tucci,nm0429363,Toby Jones,Captain America: The First Avenger,1
+nm0748620,Paul Rudd,nm0000140,Michael Douglas,Ant-Man,1
+nm0748620,Paul Rudd,nm1015684,Corey Stoll,Ant-Man,1
+nm0748620,Paul Rudd,nm1431940,Evangeline Lilly,Ant-Man,1
+nm0748620,Paul Rudd,nm0134072,Bobby Cannavale,Ant-Man,1
+nm0748620,Paul Rudd,nm1107001,Anthony Mackie,Ant-Man,1
+nm0748620,Paul Rudd,nm0339460,Judy Greer,Ant-Man,1
+nm0748620,Paul Rudd,nm5338858,Abby Ryder Fortson,Ant-Man,1
+nm0748620,Paul Rudd,nm0671567,Michael Peña,Ant-Man,1
+nm0748620,Paul Rudd,nm2810287,David Dastmalchian,Ant-Man,1
+nm0000140,Michael Douglas,nm1015684,Corey Stoll,Ant-Man,1
+nm0000140,Michael Douglas,nm1431940,Evangeline Lilly,Ant-Man,1
+nm0000140,Michael Douglas,nm0134072,Bobby Cannavale,Ant-Man,1
+nm0000140,Michael Douglas,nm1107001,Anthony Mackie,Ant-Man,1
+nm0000140,Michael Douglas,nm0339460,Judy Greer,Ant-Man,1
+nm0000140,Michael Douglas,nm5338858,Abby Ryder Fortson,Ant-Man,1
+nm0000140,Michael Douglas,nm0671567,Michael Peña,Ant-Man,1
+nm0000140,Michael Douglas,nm2810287,David Dastmalchian,Ant-Man,1
+nm1015684,Corey Stoll,nm1431940,Evangeline Lilly,Ant-Man,1
+nm1015684,Corey Stoll,nm0134072,Bobby Cannavale,Ant-Man,1
+nm1015684,Corey Stoll,nm1107001,Anthony Mackie,Ant-Man,1
+nm1015684,Corey Stoll,nm0339460,Judy Greer,Ant-Man,1
+nm1015684,Corey Stoll,nm5338858,Abby Ryder Fortson,Ant-Man,1
+nm1015684,Corey Stoll,nm0671567,Michael Peña,Ant-Man,1
+nm1015684,Corey Stoll,nm2810287,David Dastmalchian,Ant-Man,1
+nm1431940,Evangeline Lilly,nm0134072,Bobby Cannavale,Ant-Man,1
+nm1431940,Evangeline Lilly,nm1107001,Anthony Mackie,Ant-Man,1
+nm1431940,Evangeline Lilly,nm0339460,Judy Greer,Ant-Man,1
+nm1431940,Evangeline Lilly,nm5338858,Abby Ryder Fortson,Ant-Man,1
+nm1431940,Evangeline Lilly,nm0671567,Michael Peña,Ant-Man,1
+nm1431940,Evangeline Lilly,nm2810287,David Dastmalchian,Ant-Man,1
+nm0134072,Bobby Cannavale,nm1107001,Anthony Mackie,Ant-Man,1
+nm0134072,Bobby Cannavale,nm0339460,Judy Greer,Ant-Man,1
+nm0134072,Bobby Cannavale,nm5338858,Abby Ryder Fortson,Ant-Man,1
+nm0134072,Bobby Cannavale,nm0671567,Michael Peña,Ant-Man,1
+nm0134072,Bobby Cannavale,nm2810287,David Dastmalchian,Ant-Man,1
+nm1107001,Anthony Mackie,nm0339460,Judy Greer,Ant-Man,1
+nm1107001,Anthony Mackie,nm5338858,Abby Ryder Fortson,Ant-Man,1
+nm1107001,Anthony Mackie,nm0671567,Michael Peña,Ant-Man,1
+nm1107001,Anthony Mackie,nm2810287,David Dastmalchian,Ant-Man,1
+nm0339460,Judy Greer,nm5338858,Abby Ryder Fortson,Ant-Man,1
+nm0339460,Judy Greer,nm0671567,Michael Peña,Ant-Man,1
+nm0339460,Judy Greer,nm2810287,David Dastmalchian,Ant-Man,1
+nm5338858,Abby Ryder Fortson,nm0671567,Michael Peña,Ant-Man,1
+nm5338858,Abby Ryder Fortson,nm2810287,David Dastmalchian,Ant-Man,1
+nm0671567,Michael Peña,nm2810287,David Dastmalchian,Ant-Man,1
+nm0001570,Edward Norton,nm0000239,Liv Tyler,The Incredible Hulk,1
+nm0001570,Edward Norton,nm0000619,Tim Roth,The Incredible Hulk,1
+nm0001570,Edward Norton,nm0000458,William Hurt,The Incredible Hulk,1
+nm0001570,Edward Norton,nm0625789,Tim Blake Nelson,The Incredible Hulk,1
+nm0001570,Edward Norton,nm0123092,Ty Burrell,The Incredible Hulk,1
+nm0001570,Edward Norton,nm0127680,Christina Cabot,The Incredible Hulk,1
+nm0001570,Edward Norton,nm0579795,Peter Mensah,The Incredible Hulk,1
+nm0001570,Edward Norton,nm0002073,Lou Ferrigno,The Incredible Hulk,1
+nm0001570,Edward Norton,nm0813015,Paul Soles,The Incredible Hulk,1
+nm0000239,Liv Tyler,nm0000619,Tim Roth,The Incredible Hulk,1
+nm0000239,Liv Tyler,nm0000458,William Hurt,The Incredible Hulk,1
+nm0000239,Liv Tyler,nm0625789,Tim Blake Nelson,The Incredible Hulk,1
+nm0000239,Liv Tyler,nm0123092,Ty Burrell,The Incredible Hulk,1
+nm0000239,Liv Tyler,nm0127680,Christina Cabot,The Incredible Hulk,1
+nm0000239,Liv Tyler,nm0579795,Peter Mensah,The Incredible Hulk,1
+nm0000239,Liv Tyler,nm0002073,Lou Ferrigno,The Incredible Hulk,1
+nm0000239,Liv Tyler,nm0813015,Paul Soles,The Incredible Hulk,1
+nm0000619,Tim Roth,nm0000458,William Hurt,The Incredible Hulk,1
+nm0000619,Tim Roth,nm0625789,Tim Blake Nelson,The Incredible Hulk,1
+nm0000619,Tim Roth,nm0123092,Ty Burrell,The Incredible Hulk,1
+nm0000619,Tim Roth,nm0127680,Christina Cabot,The Incredible Hulk,1
+nm0000619,Tim Roth,nm0579795,Peter Mensah,The Incredible Hulk,1
+nm0000619,Tim Roth,nm0002073,Lou Ferrigno,The Incredible Hulk,1
+nm0000619,Tim Roth,nm0813015,Paul Soles,The Incredible Hulk,1
+nm0000458,William Hurt,nm0625789,Tim Blake Nelson,The Incredible Hulk,1
+nm0000458,William Hurt,nm0123092,Ty Burrell,The Incredible Hulk,1
+nm0000458,William Hurt,nm0127680,Christina Cabot,The Incredible Hulk,1
+nm0000458,William Hurt,nm0579795,Peter Mensah,The Incredible Hulk,1
+nm0000458,William Hurt,nm0002073,Lou Ferrigno,The Incredible Hulk,1
+nm0000458,William Hurt,nm0813015,Paul Soles,The Incredible Hulk,1
+nm0625789,Tim Blake Nelson,nm0123092,Ty Burrell,The Incredible Hulk,1
+nm0625789,Tim Blake Nelson,nm0127680,Christina Cabot,The Incredible Hulk,1
+nm0625789,Tim Blake Nelson,nm0579795,Peter Mensah,The Incredible Hulk,1
+nm0625789,Tim Blake Nelson,nm0002073,Lou Ferrigno,The Incredible Hulk,1
+nm0625789,Tim Blake Nelson,nm0813015,Paul Soles,The Incredible Hulk,1
+nm0123092,Ty Burrell,nm0127680,Christina Cabot,The Incredible Hulk,1
+nm0123092,Ty Burrell,nm0579795,Peter Mensah,The Incredible Hulk,1
+nm0123092,Ty Burrell,nm0002073,Lou Ferrigno,The Incredible Hulk,1
+nm0123092,Ty Burrell,nm0813015,Paul Soles,The Incredible Hulk,1
+nm0127680,Christina Cabot,nm0579795,Peter Mensah,The Incredible Hulk,1
+nm0127680,Christina Cabot,nm0002073,Lou Ferrigno,The Incredible Hulk,1
+nm0127680,Christina Cabot,nm0813015,Paul Soles,The Incredible Hulk,1
+nm0579795,Peter Mensah,nm0002073,Lou Ferrigno,The Incredible Hulk,1
+nm0579795,Peter Mensah,nm0813015,Paul Soles,The Incredible Hulk,1
+nm0002073,Lou Ferrigno,nm0813015,Paul Soles,The Incredible Hulk,1
+nm1165110,Chris Hemsworth,nm0000164,Anthony Hopkins,Thor,1
+nm1165110,Chris Hemsworth,nm0000204,Natalie Portman,Thor,1
+nm1165110,Chris Hemsworth,nm1089991,Tom Hiddleston,Thor,1
+nm1165110,Chris Hemsworth,nm0001745,Stellan Skarsgård,Thor,1
+nm1165110,Chris Hemsworth,nm0993507,Kat Dennings,Thor,1
+nm1165110,Chris Hemsworth,nm0163988,Clark Gregg,Thor,1
+nm1165110,Chris Hemsworth,nm0272173,Colm Feore,Thor,1
+nm1165110,Chris Hemsworth,nm0252961,Idris Elba,Thor,1
+nm1165110,Chris Hemsworth,nm0829032,Ray Stevenson,Thor,1
+nm0000164,Anthony Hopkins,nm0000204,Natalie Portman,Thor,1
+nm0000164,Anthony Hopkins,nm1089991,Tom Hiddleston,Thor,1
+nm0000164,Anthony Hopkins,nm0001745,Stellan Skarsgård,Thor,1
+nm0000164,Anthony Hopkins,nm0993507,Kat Dennings,Thor,1
+nm0000164,Anthony Hopkins,nm0163988,Clark Gregg,Thor,1
+nm0000164,Anthony Hopkins,nm0272173,Colm Feore,Thor,1
+nm0000164,Anthony Hopkins,nm0252961,Idris Elba,Thor,1
+nm0000164,Anthony Hopkins,nm0829032,Ray Stevenson,Thor,1
+nm0000204,Natalie Portman,nm1089991,Tom Hiddleston,Thor,1
+nm0000204,Natalie Portman,nm0001745,Stellan Skarsgård,Thor,1
+nm0000204,Natalie Portman,nm0993507,Kat Dennings,Thor,1
+nm0000204,Natalie Portman,nm0163988,Clark Gregg,Thor,1
+nm0000204,Natalie Portman,nm0272173,Colm Feore,Thor,1
+nm0000204,Natalie Portman,nm0252961,Idris Elba,Thor,1
+nm0000204,Natalie Portman,nm0829032,Ray Stevenson,Thor,1
+nm1089991,Tom Hiddleston,nm0001745,Stellan Skarsgård,Thor,1
+nm1089991,Tom Hiddleston,nm0993507,Kat Dennings,Thor,1
+nm1089991,Tom Hiddleston,nm0163988,Clark Gregg,Thor,1
+nm1089991,Tom Hiddleston,nm0272173,Colm Feore,Thor,1
+nm1089991,Tom Hiddleston,nm0252961,Idris Elba,Thor,1
+nm1089991,Tom Hiddleston,nm0829032,Ray Stevenson,Thor,1
+nm0001745,Stellan Skarsgård,nm0993507,Kat Dennings,Thor,1
+nm0001745,Stellan Skarsgård,nm0163988,Clark Gregg,Thor,1
+nm0001745,Stellan Skarsgård,nm0272173,Colm Feore,Thor,1
+nm0001745,Stellan Skarsgård,nm0252961,Idris Elba,Thor,1
+nm0001745,Stellan Skarsgård,nm0829032,Ray Stevenson,Thor,1
+nm0993507,Kat Dennings,nm0163988,Clark Gregg,Thor,1
+nm0993507,Kat Dennings,nm0272173,Colm Feore,Thor,1
+nm0993507,Kat Dennings,nm0252961,Idris Elba,Thor,1
+nm0993507,Kat Dennings,nm0829032,Ray Stevenson,Thor,1
+nm0163988,Clark Gregg,nm0272173,Colm Feore,Thor,1
+nm0163988,Clark Gregg,nm0252961,Idris Elba,Thor,1
+nm0163988,Clark Gregg,nm0829032,Ray Stevenson,Thor,1
+nm0272173,Colm Feore,nm0252961,Idris Elba,Thor,1
+nm0272173,Colm Feore,nm0829032,Ray Stevenson,Thor,1
+nm0252961,Idris Elba,nm0829032,Ray Stevenson,Thor,1
+nm0000375,Robert Downey Jr.,nm0262635,Chris Evans,The Avengers,1
+nm0000375,Robert Downey Jr.,nm0424060,Scarlett Johansson,The Avengers,1
+nm0000375,Robert Downey Jr.,nm0719637,Jeremy Renner,The Avengers,1
+nm0000375,Robert Downey Jr.,nm0749263,Mark Ruffalo,The Avengers,1
+nm0000375,Robert Downey Jr.,nm1165110,Chris Hemsworth,The Avengers,1
+nm0000375,Robert Downey Jr.,nm1089991,Tom Hiddleston,The Avengers,1
+nm0000375,Robert Downey Jr.,nm0163988,Clark Gregg,The Avengers,1
+nm0000375,Robert Downey Jr.,nm1130627,Cobie Smulders,The Avengers,1
+nm0000375,Robert Downey Jr.,nm0001745,Stellan Skarsgård,The Avengers,1
+nm0262635,Chris Evans,nm0424060,Scarlett Johansson,The Avengers,1
+nm0262635,Chris Evans,nm0719637,Jeremy Renner,The Avengers,1
+nm0262635,Chris Evans,nm0749263,Mark Ruffalo,The Avengers,1
+nm0262635,Chris Evans,nm1165110,Chris Hemsworth,The Avengers,1
+nm0262635,Chris Evans,nm1089991,Tom Hiddleston,The Avengers,1
+nm0262635,Chris Evans,nm0163988,Clark Gregg,The Avengers,1
+nm0262635,Chris Evans,nm1130627,Cobie Smulders,The Avengers,1
+nm0262635,Chris Evans,nm0001745,Stellan Skarsgård,The Avengers,1
+nm0424060,Scarlett Johansson,nm0719637,Jeremy Renner,The Avengers,1
+nm0424060,Scarlett Johansson,nm0749263,Mark Ruffalo,The Avengers,1
+nm0424060,Scarlett Johansson,nm1165110,Chris Hemsworth,The Avengers,1
+nm0424060,Scarlett Johansson,nm1089991,Tom Hiddleston,The Avengers,1
+nm0424060,Scarlett Johansson,nm0163988,Clark Gregg,The Avengers,1
+nm0424060,Scarlett Johansson,nm1130627,Cobie Smulders,The Avengers,1
+nm0424060,Scarlett Johansson,nm0001745,Stellan Skarsgård,The Avengers,1
+nm0719637,Jeremy Renner,nm0749263,Mark Ruffalo,The Avengers,1
+nm0719637,Jeremy Renner,nm1165110,Chris Hemsworth,The Avengers,1
+nm0719637,Jeremy Renner,nm1089991,Tom Hiddleston,The Avengers,1
+nm0719637,Jeremy Renner,nm0163988,Clark Gregg,The Avengers,1
+nm0719637,Jeremy Renner,nm1130627,Cobie Smulders,The Avengers,1
+nm0719637,Jeremy Renner,nm0001745,Stellan Skarsgård,The Avengers,1
+nm0749263,Mark Ruffalo,nm1165110,Chris Hemsworth,The Avengers,1
+nm0749263,Mark Ruffalo,nm1089991,Tom Hiddleston,The Avengers,1
+nm0749263,Mark Ruffalo,nm0163988,Clark Gregg,The Avengers,1
+nm0749263,Mark Ruffalo,nm1130627,Cobie Smulders,The Avengers,1
+nm0749263,Mark Ruffalo,nm0001745,Stellan Skarsgård,The Avengers,1
+nm1165110,Chris Hemsworth,nm1089991,Tom Hiddleston,The Avengers,1
+nm1165110,Chris Hemsworth,nm0163988,Clark Gregg,The Avengers,1
+nm1165110,Chris Hemsworth,nm1130627,Cobie Smulders,The Avengers,1
+nm1165110,Chris Hemsworth,nm0001745,Stellan Skarsgård,The Avengers,1
+nm1089991,Tom Hiddleston,nm0163988,Clark Gregg,The Avengers,1
+nm1089991,Tom Hiddleston,nm1130627,Cobie Smulders,The Avengers,1
+nm1089991,Tom Hiddleston,nm0001745,Stellan Skarsgård,The Avengers,1
+nm0163988,Clark Gregg,nm1130627,Cobie Smulders,The Avengers,1
+nm0163988,Clark Gregg,nm0001745,Stellan Skarsgård,The Avengers,1
+nm1130627,Cobie Smulders,nm0001745,Stellan Skarsgård,The Avengers,1
+nm1165110,Chris Hemsworth,nm0000204,Natalie Portman,Thor: Love and Thunder,1
+nm1165110,Chris Hemsworth,nm0000288,Christian Bale,Thor: Love and Thunder,1
+nm1165110,Chris Hemsworth,nm1935086,Tessa Thompson,Thor: Love and Thunder,1
+nm1165110,Chris Hemsworth,nm0169806,Taika Waititi,Thor: Love and Thunder,1
+nm1165110,Chris Hemsworth,nm0000128,Russell Crowe,Thor: Love and Thunder,1
+nm1165110,Chris Hemsworth,nm1526352,Jaimie Alexander,Thor: Love and Thunder,1
+nm1165110,Chris Hemsworth,nm0252961,Idris Elba,Thor: Love and Thunder,1
+nm1165110,Chris Hemsworth,nm0695435,Chris Pratt,Thor: Love and Thunder,1
+nm1165110,Chris Hemsworth,nm1176985,Dave Bautista,Thor: Love and Thunder,1
+nm0000204,Natalie Portman,nm0000288,Christian Bale,Thor: Love and Thunder,1
+nm0000204,Natalie Portman,nm1935086,Tessa Thompson,Thor: Love and Thunder,1
+nm0000204,Natalie Portman,nm0169806,Taika Waititi,Thor: Love and Thunder,1
+nm0000204,Natalie Portman,nm0000128,Russell Crowe,Thor: Love and Thunder,1
+nm0000204,Natalie Portman,nm1526352,Jaimie Alexander,Thor: Love and Thunder,1
+nm0000204,Natalie Portman,nm0252961,Idris Elba,Thor: Love and Thunder,1
+nm0000204,Natalie Portman,nm0695435,Chris Pratt,Thor: Love and Thunder,1
+nm0000204,Natalie Portman,nm1176985,Dave Bautista,Thor: Love and Thunder,1
+nm0000288,Christian Bale,nm1935086,Tessa Thompson,Thor: Love and Thunder,1
+nm0000288,Christian Bale,nm0169806,Taika Waititi,Thor: Love and Thunder,1
+nm0000288,Christian Bale,nm0000128,Russell Crowe,Thor: Love and Thunder,1
+nm0000288,Christian Bale,nm1526352,Jaimie Alexander,Thor: Love and Thunder,1
+nm0000288,Christian Bale,nm0252961,Idris Elba,Thor: Love and Thunder,1
+nm0000288,Christian Bale,nm0695435,Chris Pratt,Thor: Love and Thunder,1
+nm0000288,Christian Bale,nm1176985,Dave Bautista,Thor: Love and Thunder,1
+nm1935086,Tessa Thompson,nm0169806,Taika Waititi,Thor: Love and Thunder,1
+nm1935086,Tessa Thompson,nm0000128,Russell Crowe,Thor: Love and Thunder,1
+nm1935086,Tessa Thompson,nm1526352,Jaimie Alexander,Thor: Love and Thunder,1
+nm1935086,Tessa Thompson,nm0252961,Idris Elba,Thor: Love and Thunder,1
+nm1935086,Tessa Thompson,nm0695435,Chris Pratt,Thor: Love and Thunder,1
+nm1935086,Tessa Thompson,nm1176985,Dave Bautista,Thor: Love and Thunder,1
+nm0169806,Taika Waititi,nm0000128,Russell Crowe,Thor: Love and Thunder,1
+nm0169806,Taika Waititi,nm1526352,Jaimie Alexander,Thor: Love and Thunder,1
+nm0169806,Taika Waititi,nm0252961,Idris Elba,Thor: Love and Thunder,1
+nm0169806,Taika Waititi,nm0695435,Chris Pratt,Thor: Love and Thunder,1
+nm0169806,Taika Waititi,nm1176985,Dave Bautista,Thor: Love and Thunder,1
+nm0000128,Russell Crowe,nm1526352,Jaimie Alexander,Thor: Love and Thunder,1
+nm0000128,Russell Crowe,nm0252961,Idris Elba,Thor: Love and Thunder,1
+nm0000128,Russell Crowe,nm0695435,Chris Pratt,Thor: Love and Thunder,1
+nm0000128,Russell Crowe,nm1176985,Dave Bautista,Thor: Love and Thunder,1
+nm1526352,Jaimie Alexander,nm0252961,Idris Elba,Thor: Love and Thunder,1
+nm1526352,Jaimie Alexander,nm0695435,Chris Pratt,Thor: Love and Thunder,1
+nm1526352,Jaimie Alexander,nm1176985,Dave Bautista,Thor: Love and Thunder,1
+nm0252961,Idris Elba,nm0695435,Chris Pratt,Thor: Love and Thunder,1
+nm0252961,Idris Elba,nm1176985,Dave Bautista,Thor: Love and Thunder,1
+nm0695435,Chris Pratt,nm1176985,Dave Bautista,Thor: Love and Thunder,1
+nm0488953,Brie Larson,nm3500582,Teyonah Parris,The Marvels,1
+nm0488953,Brie Larson,nm11940123,Iman Vellani,The Marvels,1
+nm0488953,Brie Larson,nm0000168,Samuel L. Jackson,The Marvels,1
+nm0488953,Brie Larson,nm1534698,Zawe Ashton,The Marvels,1
+nm0488953,Brie Larson,nm0507207,Gary Lewis,The Marvels,1
+nm0488953,Brie Larson,nm6124994,Park Seo-joon,The Marvels,1
+nm0488953,Brie Larson,nm2801210,Zenobia Shroff,The Marvels,1
+nm0488953,Brie Larson,nm1018245,Mohan Kapur,The Marvels,1
+nm0488953,Brie Larson,nm5248294,Saagar Shaikh,The Marvels,1
+nm3500582,Teyonah Parris,nm11940123,Iman Vellani,The Marvels,1
+nm3500582,Teyonah Parris,nm0000168,Samuel L. Jackson,The Marvels,1
+nm3500582,Teyonah Parris,nm1534698,Zawe Ashton,The Marvels,1
+nm3500582,Teyonah Parris,nm0507207,Gary Lewis,The Marvels,1
+nm3500582,Teyonah Parris,nm6124994,Park Seo-joon,The Marvels,1
+nm3500582,Teyonah Parris,nm2801210,Zenobia Shroff,The Marvels,1
+nm3500582,Teyonah Parris,nm1018245,Mohan Kapur,The Marvels,1
+nm3500582,Teyonah Parris,nm5248294,Saagar Shaikh,The Marvels,1
+nm11940123,Iman Vellani,nm0000168,Samuel L. Jackson,The Marvels,1
+nm11940123,Iman Vellani,nm1534698,Zawe Ashton,The Marvels,1
+nm11940123,Iman Vellani,nm0507207,Gary Lewis,The Marvels,1
+nm11940123,Iman Vellani,nm6124994,Park Seo-joon,The Marvels,1
+nm11940123,Iman Vellani,nm2801210,Zenobia Shroff,The Marvels,1
+nm11940123,Iman Vellani,nm1018245,Mohan Kapur,The Marvels,1
+nm11940123,Iman Vellani,nm5248294,Saagar Shaikh,The Marvels,1
+nm0000168,Samuel L. Jackson,nm1534698,Zawe Ashton,The Marvels,1
+nm0000168,Samuel L. Jackson,nm0507207,Gary Lewis,The Marvels,1
+nm0000168,Samuel L. Jackson,nm6124994,Park Seo-joon,The Marvels,1
+nm0000168,Samuel L. Jackson,nm2801210,Zenobia Shroff,The Marvels,1
+nm0000168,Samuel L. Jackson,nm1018245,Mohan Kapur,The Marvels,1
+nm0000168,Samuel L. Jackson,nm5248294,Saagar Shaikh,The Marvels,1
+nm1534698,Zawe Ashton,nm0507207,Gary Lewis,The Marvels,1
+nm1534698,Zawe Ashton,nm6124994,Park Seo-joon,The Marvels,1
+nm1534698,Zawe Ashton,nm2801210,Zenobia Shroff,The Marvels,1
+nm1534698,Zawe Ashton,nm1018245,Mohan Kapur,The Marvels,1
+nm1534698,Zawe Ashton,nm5248294,Saagar Shaikh,The Marvels,1
+nm0507207,Gary Lewis,nm6124994,Park Seo-joon,The Marvels,1
+nm0507207,Gary Lewis,nm2801210,Zenobia Shroff,The Marvels,1
+nm0507207,Gary Lewis,nm1018245,Mohan Kapur,The Marvels,1
+nm0507207,Gary Lewis,nm5248294,Saagar Shaikh,The Marvels,1
+nm6124994,Park Seo-joon,nm2801210,Zenobia Shroff,The Marvels,1
+nm6124994,Park Seo-joon,nm1018245,Mohan Kapur,The Marvels,1
+nm6124994,Park Seo-joon,nm5248294,Saagar Shaikh,The Marvels,1
+nm2801210,Zenobia Shroff,nm1018245,Mohan Kapur,The Marvels,1
+nm2801210,Zenobia Shroff,nm5248294,Saagar Shaikh,The Marvels,1
+nm1018245,Mohan Kapur,nm5248294,Saagar Shaikh,The Marvels,1
+nm4043618,Tom Holland,nm3918035,Zendaya,Spider-Man: No Way Home,1
+nm4043618,Tom Holland,nm1212722,Benedict Cumberbatch,Spider-Man: No Way Home,1
+nm4043618,Tom Holland,nm8188622,Jacob Batalon,Spider-Man: No Way Home,1
+nm4043618,Tom Holland,nm0269463,Jon Favreau,Spider-Man: No Way Home,1
+nm4043618,Tom Holland,nm0004937,Jamie Foxx,Spider-Man: No Way Home,1
+nm4043618,Tom Holland,nm0000353,Willem Dafoe,Spider-Man: No Way Home,1
+nm4043618,Tom Holland,nm0000547,Alfred Molina,Spider-Man: No Way Home,1
+nm4043618,Tom Holland,nm0938950,Benedict Wong,Spider-Man: No Way Home,1
+nm4043618,Tom Holland,nm1727825,Tony Revolori,Spider-Man: No Way Home,1
+nm3918035,Zendaya,nm1212722,Benedict Cumberbatch,Spider-Man: No Way Home,1
+nm3918035,Zendaya,nm8188622,Jacob Batalon,Spider-Man: No Way Home,1
+nm3918035,Zendaya,nm0269463,Jon Favreau,Spider-Man: No Way Home,1
+nm3918035,Zendaya,nm0004937,Jamie Foxx,Spider-Man: No Way Home,1
+nm3918035,Zendaya,nm0000353,Willem Dafoe,Spider-Man: No Way Home,1
+nm3918035,Zendaya,nm0000547,Alfred Molina,Spider-Man: No Way Home,1
+nm3918035,Zendaya,nm0938950,Benedict Wong,Spider-Man: No Way Home,1
+nm3918035,Zendaya,nm1727825,Tony Revolori,Spider-Man: No Way Home,1
+nm1212722,Benedict Cumberbatch,nm8188622,Jacob Batalon,Spider-Man: No Way Home,1
+nm1212722,Benedict Cumberbatch,nm0269463,Jon Favreau,Spider-Man: No Way Home,1
+nm1212722,Benedict Cumberbatch,nm0004937,Jamie Foxx,Spider-Man: No Way Home,1
+nm1212722,Benedict Cumberbatch,nm0000353,Willem Dafoe,Spider-Man: No Way Home,1
+nm1212722,Benedict Cumberbatch,nm0000547,Alfred Molina,Spider-Man: No Way Home,1
+nm1212722,Benedict Cumberbatch,nm0938950,Benedict Wong,Spider-Man: No Way Home,1
+nm1212722,Benedict Cumberbatch,nm1727825,Tony Revolori,Spider-Man: No Way Home,1
+nm8188622,Jacob Batalon,nm0269463,Jon Favreau,Spider-Man: No Way Home,1
+nm8188622,Jacob Batalon,nm0004937,Jamie Foxx,Spider-Man: No Way Home,1
+nm8188622,Jacob Batalon,nm0000353,Willem Dafoe,Spider-Man: No Way Home,1
+nm8188622,Jacob Batalon,nm0000547,Alfred Molina,Spider-Man: No Way Home,1
+nm8188622,Jacob Batalon,nm0938950,Benedict Wong,Spider-Man: No Way Home,1
+nm8188622,Jacob Batalon,nm1727825,Tony Revolori,Spider-Man: No Way Home,1
+nm0269463,Jon Favreau,nm0004937,Jamie Foxx,Spider-Man: No Way Home,1
+nm0269463,Jon Favreau,nm0000353,Willem Dafoe,Spider-Man: No Way Home,1
+nm0269463,Jon Favreau,nm0000547,Alfred Molina,Spider-Man: No Way Home,1
+nm0269463,Jon Favreau,nm0938950,Benedict Wong,Spider-Man: No Way Home,1
+nm0269463,Jon Favreau,nm1727825,Tony Revolori,Spider-Man: No Way Home,1
+nm0004937,Jamie Foxx,nm0000353,Willem Dafoe,Spider-Man: No Way Home,1
+nm0004937,Jamie Foxx,nm0000547,Alfred Molina,Spider-Man: No Way Home,1
+nm0004937,Jamie Foxx,nm0938950,Benedict Wong,Spider-Man: No Way Home,1
+nm0004937,Jamie Foxx,nm1727825,Tony Revolori,Spider-Man: No Way Home,1
+nm0000353,Willem Dafoe,nm0000547,Alfred Molina,Spider-Man: No Way Home,1
+nm0000353,Willem Dafoe,nm0938950,Benedict Wong,Spider-Man: No Way Home,1
+nm0000353,Willem Dafoe,nm1727825,Tony Revolori,Spider-Man: No Way Home,1
+nm0000547,Alfred Molina,nm0938950,Benedict Wong,Spider-Man: No Way Home,1
+nm0000547,Alfred Molina,nm1727825,Tony Revolori,Spider-Man: No Way Home,1
+nm0938950,Benedict Wong,nm1727825,Tony Revolori,Spider-Man: No Way Home,1
+nm1212722,Benedict Cumberbatch,nm0252230,Chiwetel Ejiofor,Doctor Strange,1
+nm1212722,Benedict Cumberbatch,nm1046097,Rachel McAdams,Doctor Strange,1
+nm1212722,Benedict Cumberbatch,nm0938950,Benedict Wong,Doctor Strange,1
+nm1212722,Benedict Cumberbatch,nm0586568,Mads Mikkelsen,Doctor Strange,1
+nm1212722,Benedict Cumberbatch,nm0842770,Tilda Swinton,Doctor Strange,1
+nm1212722,Benedict Cumberbatch,nm0836121,Michael Stuhlbarg,Doctor Strange,1
+nm1212722,Benedict Cumberbatch,nm0000973,Benjamin Bratt,Doctor Strange,1
+nm1212722,Benedict Cumberbatch,nm0012078,Scott Adkins,Doctor Strange,1
+nm1212722,Benedict Cumberbatch,nm2333360,Zara Phythian,Doctor Strange,1
+nm0252230,Chiwetel Ejiofor,nm1046097,Rachel McAdams,Doctor Strange,1
+nm0252230,Chiwetel Ejiofor,nm0938950,Benedict Wong,Doctor Strange,1
+nm0252230,Chiwetel Ejiofor,nm0586568,Mads Mikkelsen,Doctor Strange,1
+nm0252230,Chiwetel Ejiofor,nm0842770,Tilda Swinton,Doctor Strange,1
+nm0252230,Chiwetel Ejiofor,nm0836121,Michael Stuhlbarg,Doctor Strange,1
+nm0252230,Chiwetel Ejiofor,nm0000973,Benjamin Bratt,Doctor Strange,1
+nm0252230,Chiwetel Ejiofor,nm0012078,Scott Adkins,Doctor Strange,1
+nm0252230,Chiwetel Ejiofor,nm2333360,Zara Phythian,Doctor Strange,1
+nm1046097,Rachel McAdams,nm0938950,Benedict Wong,Doctor Strange,1
+nm1046097,Rachel McAdams,nm0586568,Mads Mikkelsen,Doctor Strange,1
+nm1046097,Rachel McAdams,nm0842770,Tilda Swinton,Doctor Strange,1
+nm1046097,Rachel McAdams,nm0836121,Michael Stuhlbarg,Doctor Strange,1
+nm1046097,Rachel McAdams,nm0000973,Benjamin Bratt,Doctor Strange,1
+nm1046097,Rachel McAdams,nm0012078,Scott Adkins,Doctor Strange,1
+nm1046097,Rachel McAdams,nm2333360,Zara Phythian,Doctor Strange,1
+nm0938950,Benedict Wong,nm0586568,Mads Mikkelsen,Doctor Strange,1
+nm0938950,Benedict Wong,nm0842770,Tilda Swinton,Doctor Strange,1
+nm0938950,Benedict Wong,nm0836121,Michael Stuhlbarg,Doctor Strange,1
+nm0938950,Benedict Wong,nm0000973,Benjamin Bratt,Doctor Strange,1
+nm0938950,Benedict Wong,nm0012078,Scott Adkins,Doctor Strange,1
+nm0938950,Benedict Wong,nm2333360,Zara Phythian,Doctor Strange,1
+nm0586568,Mads Mikkelsen,nm0842770,Tilda Swinton,Doctor Strange,1
+nm0586568,Mads Mikkelsen,nm0836121,Michael Stuhlbarg,Doctor Strange,1
+nm0586568,Mads Mikkelsen,nm0000973,Benjamin Bratt,Doctor Strange,1
+nm0586568,Mads Mikkelsen,nm0012078,Scott Adkins,Doctor Strange,1
+nm0586568,Mads Mikkelsen,nm2333360,Zara Phythian,Doctor Strange,1
+nm0842770,Tilda Swinton,nm0836121,Michael Stuhlbarg,Doctor Strange,1
+nm0842770,Tilda Swinton,nm0000973,Benjamin Bratt,Doctor Strange,1
+nm0842770,Tilda Swinton,nm0012078,Scott Adkins,Doctor Strange,1
+nm0842770,Tilda Swinton,nm2333360,Zara Phythian,Doctor Strange,1
+nm0836121,Michael Stuhlbarg,nm0000973,Benjamin Bratt,Doctor Strange,1
+nm0836121,Michael Stuhlbarg,nm0012078,Scott Adkins,Doctor Strange,1
+nm0836121,Michael Stuhlbarg,nm2333360,Zara Phythian,Doctor Strange,1
+nm0000973,Benjamin Bratt,nm0012078,Scott Adkins,Doctor Strange,1
+nm0000973,Benjamin Bratt,nm2333360,Zara Phythian,Doctor Strange,1
+nm0012078,Scott Adkins,nm2333360,Zara Phythian,Doctor Strange,1
+nm0000375,Robert Downey Jr.,nm0000620,Mickey Rourke,Iron Man 2,1
+nm0000375,Robert Downey Jr.,nm0000569,Gwyneth Paltrow,Iron Man 2,1
+nm0000375,Robert Downey Jr.,nm0000332,Don Cheadle,Iron Man 2,1
+nm0000375,Robert Downey Jr.,nm0424060,Scarlett Johansson,Iron Man 2,1
+nm0000375,Robert Downey Jr.,nm0005377,Sam Rockwell,Iron Man 2,1
+nm0000375,Robert Downey Jr.,nm0000168,Samuel L. Jackson,Iron Man 2,1
+nm0000375,Robert Downey Jr.,nm0163988,Clark Gregg,Iron Man 2,1
+nm0000375,Robert Downey Jr.,nm0805476,John Slattery,Iron Man 2,1
+nm0000375,Robert Downey Jr.,nm0788009,Garry Shandling,Iron Man 2,1
+nm0000620,Mickey Rourke,nm0000569,Gwyneth Paltrow,Iron Man 2,1
+nm0000620,Mickey Rourke,nm0000332,Don Cheadle,Iron Man 2,1
+nm0000620,Mickey Rourke,nm0424060,Scarlett Johansson,Iron Man 2,1
+nm0000620,Mickey Rourke,nm0005377,Sam Rockwell,Iron Man 2,1
+nm0000620,Mickey Rourke,nm0000168,Samuel L. Jackson,Iron Man 2,1
+nm0000620,Mickey Rourke,nm0163988,Clark Gregg,Iron Man 2,1
+nm0000620,Mickey Rourke,nm0805476,John Slattery,Iron Man 2,1
+nm0000620,Mickey Rourke,nm0788009,Garry Shandling,Iron Man 2,1
+nm0000569,Gwyneth Paltrow,nm0000332,Don Cheadle,Iron Man 2,1
+nm0000569,Gwyneth Paltrow,nm0424060,Scarlett Johansson,Iron Man 2,1
+nm0000569,Gwyneth Paltrow,nm0005377,Sam Rockwell,Iron Man 2,1
+nm0000569,Gwyneth Paltrow,nm0000168,Samuel L. Jackson,Iron Man 2,1
+nm0000569,Gwyneth Paltrow,nm0163988,Clark Gregg,Iron Man 2,1
+nm0000569,Gwyneth Paltrow,nm0805476,John Slattery,Iron Man 2,1
+nm0000569,Gwyneth Paltrow,nm0788009,Garry Shandling,Iron Man 2,1
+nm0000332,Don Cheadle,nm0424060,Scarlett Johansson,Iron Man 2,1
+nm0000332,Don Cheadle,nm0005377,Sam Rockwell,Iron Man 2,1
+nm0000332,Don Cheadle,nm0000168,Samuel L. Jackson,Iron Man 2,1
+nm0000332,Don Cheadle,nm0163988,Clark Gregg,Iron Man 2,1
+nm0000332,Don Cheadle,nm0805476,John Slattery,Iron Man 2,1
+nm0000332,Don Cheadle,nm0788009,Garry Shandling,Iron Man 2,1
+nm0424060,Scarlett Johansson,nm0005377,Sam Rockwell,Iron Man 2,1
+nm0424060,Scarlett Johansson,nm0000168,Samuel L. Jackson,Iron Man 2,1
+nm0424060,Scarlett Johansson,nm0163988,Clark Gregg,Iron Man 2,1
+nm0424060,Scarlett Johansson,nm0805476,John Slattery,Iron Man 2,1
+nm0424060,Scarlett Johansson,nm0788009,Garry Shandling,Iron Man 2,1
+nm0005377,Sam Rockwell,nm0000168,Samuel L. Jackson,Iron Man 2,1
+nm0005377,Sam Rockwell,nm0163988,Clark Gregg,Iron Man 2,1
+nm0005377,Sam Rockwell,nm0805476,John Slattery,Iron Man 2,1
+nm0005377,Sam Rockwell,nm0788009,Garry Shandling,Iron Man 2,1
+nm0000168,Samuel L. Jackson,nm0163988,Clark Gregg,Iron Man 2,1
+nm0000168,Samuel L. Jackson,nm0805476,John Slattery,Iron Man 2,1
+nm0000168,Samuel L. Jackson,nm0788009,Garry Shandling,Iron Man 2,1
+nm0163988,Clark Gregg,nm0805476,John Slattery,Iron Man 2,1
+nm0163988,Clark Gregg,nm0788009,Garry Shandling,Iron Man 2,1
+nm0805476,John Slattery,nm0788009,Garry Shandling,Iron Man 2,1
+nm1569276,Chadwick Boseman,nm0430107,Michael B. Jordan,Black Panther,1
+nm1569276,Chadwick Boseman,nm2143282,Lupita Nyong'o,Black Panther,1
+nm1569276,Chadwick Boseman,nm1775091,Danai Gurira,Black Panther,1
+nm1569276,Chadwick Boseman,nm0293509,Martin Freeman,Black Panther,1
+nm1569276,Chadwick Boseman,nm2257207,Daniel Kaluuya,Black Panther,1
+nm1569276,Chadwick Boseman,nm4004793,Letitia Wright,Black Panther,1
+nm1569276,Chadwick Boseman,nm6328300,Winston Duke,Black Panther,1
+nm1569276,Chadwick Boseman,nm1250791,Sterling K. Brown,Black Panther,1
+nm1569276,Chadwick Boseman,nm0000291,Angela Bassett,Black Panther,1
+nm0430107,Michael B. Jordan,nm2143282,Lupita Nyong'o,Black Panther,1
+nm0430107,Michael B. Jordan,nm1775091,Danai Gurira,Black Panther,1
+nm0430107,Michael B. Jordan,nm0293509,Martin Freeman,Black Panther,1
+nm0430107,Michael B. Jordan,nm2257207,Daniel Kaluuya,Black Panther,1
+nm0430107,Michael B. Jordan,nm4004793,Letitia Wright,Black Panther,1
+nm0430107,Michael B. Jordan,nm6328300,Winston Duke,Black Panther,1
+nm0430107,Michael B. Jordan,nm1250791,Sterling K. Brown,Black Panther,1
+nm0430107,Michael B. Jordan,nm0000291,Angela Bassett,Black Panther,1
+nm2143282,Lupita Nyong'o,nm1775091,Danai Gurira,Black Panther,1
+nm2143282,Lupita Nyong'o,nm0293509,Martin Freeman,Black Panther,1
+nm2143282,Lupita Nyong'o,nm2257207,Daniel Kaluuya,Black Panther,1
+nm2143282,Lupita Nyong'o,nm4004793,Letitia Wright,Black Panther,1
+nm2143282,Lupita Nyong'o,nm6328300,Winston Duke,Black Panther,1
+nm2143282,Lupita Nyong'o,nm1250791,Sterling K. Brown,Black Panther,1
+nm2143282,Lupita Nyong'o,nm0000291,Angela Bassett,Black Panther,1
+nm1775091,Danai Gurira,nm0293509,Martin Freeman,Black Panther,1
+nm1775091,Danai Gurira,nm2257207,Daniel Kaluuya,Black Panther,1
+nm1775091,Danai Gurira,nm4004793,Letitia Wright,Black Panther,1
+nm1775091,Danai Gurira,nm6328300,Winston Duke,Black Panther,1
+nm1775091,Danai Gurira,nm1250791,Sterling K. Brown,Black Panther,1
+nm1775091,Danai Gurira,nm0000291,Angela Bassett,Black Panther,1
+nm0293509,Martin Freeman,nm2257207,Daniel Kaluuya,Black Panther,1
+nm0293509,Martin Freeman,nm4004793,Letitia Wright,Black Panther,1
+nm0293509,Martin Freeman,nm6328300,Winston Duke,Black Panther,1
+nm0293509,Martin Freeman,nm1250791,Sterling K. Brown,Black Panther,1
+nm0293509,Martin Freeman,nm0000291,Angela Bassett,Black Panther,1
+nm2257207,Daniel Kaluuya,nm4004793,Letitia Wright,Black Panther,1
+nm2257207,Daniel Kaluuya,nm6328300,Winston Duke,Black Panther,1
+nm2257207,Daniel Kaluuya,nm1250791,Sterling K. Brown,Black Panther,1
+nm2257207,Daniel Kaluuya,nm0000291,Angela Bassett,Black Panther,1
+nm4004793,Letitia Wright,nm6328300,Winston Duke,Black Panther,1
+nm4004793,Letitia Wright,nm1250791,Sterling K. Brown,Black Panther,1
+nm4004793,Letitia Wright,nm0000291,Angela Bassett,Black Panther,1
+nm6328300,Winston Duke,nm1250791,Sterling K. Brown,Black Panther,1
+nm6328300,Winston Duke,nm0000291,Angela Bassett,Black Panther,1
+nm1250791,Sterling K. Brown,nm0000291,Angela Bassett,Black Panther,1
+nm0262635,Chris Evans,nm0000168,Samuel L. Jackson,Captain America: The Winter Soldier,1
+nm0262635,Chris Evans,nm0424060,Scarlett Johansson,Captain America: The Winter Soldier,1
+nm0262635,Chris Evans,nm0000602,Robert Redford,Captain America: The Winter Soldier,1
+nm0262635,Chris Evans,nm1659221,Sebastian Stan,Captain America: The Winter Soldier,1
+nm0262635,Chris Evans,nm1107001,Anthony Mackie,Captain America: The Winter Soldier,1
+nm0262635,Chris Evans,nm1130627,Cobie Smulders,Captain America: The Winter Soldier,1
+nm0262635,Chris Evans,nm0342029,Frank Grillo,Captain America: The Winter Soldier,1
+nm0262635,Chris Evans,nm0380073,Maximiliano Hernández,Captain America: The Winter Soldier,1
+nm0262635,Chris Evans,nm0885840,Emily VanCamp,Captain America: The Winter Soldier,1
+nm0000168,Samuel L. Jackson,nm0424060,Scarlett Johansson,Captain America: The Winter Soldier,1
+nm0000168,Samuel L. Jackson,nm0000602,Robert Redford,Captain America: The Winter Soldier,1
+nm0000168,Samuel L. Jackson,nm1659221,Sebastian Stan,Captain America: The Winter Soldier,1
+nm0000168,Samuel L. Jackson,nm1107001,Anthony Mackie,Captain America: The Winter Soldier,1
+nm0000168,Samuel L. Jackson,nm1130627,Cobie Smulders,Captain America: The Winter Soldier,1
+nm0000168,Samuel L. Jackson,nm0342029,Frank Grillo,Captain America: The Winter Soldier,1
+nm0000168,Samuel L. Jackson,nm0380073,Maximiliano Hernández,Captain America: The Winter Soldier,1
+nm0000168,Samuel L. Jackson,nm0885840,Emily VanCamp,Captain America: The Winter Soldier,1
+nm0424060,Scarlett Johansson,nm0000602,Robert Redford,Captain America: The Winter Soldier,1
+nm0424060,Scarlett Johansson,nm1659221,Sebastian Stan,Captain America: The Winter Soldier,1
+nm0424060,Scarlett Johansson,nm1107001,Anthony Mackie,Captain America: The Winter Soldier,1
+nm0424060,Scarlett Johansson,nm1130627,Cobie Smulders,Captain America: The Winter Soldier,1
+nm0424060,Scarlett Johansson,nm0342029,Frank Grillo,Captain America: The Winter Soldier,1
+nm0424060,Scarlett Johansson,nm0380073,Maximiliano Hernández,Captain America: The Winter Soldier,1
+nm0424060,Scarlett Johansson,nm0885840,Emily VanCamp,Captain America: The Winter Soldier,1
+nm0000602,Robert Redford,nm1659221,Sebastian Stan,Captain America: The Winter Soldier,1
+nm0000602,Robert Redford,nm1107001,Anthony Mackie,Captain America: The Winter Soldier,1
+nm0000602,Robert Redford,nm1130627,Cobie Smulders,Captain America: The Winter Soldier,1
+nm0000602,Robert Redford,nm0342029,Frank Grillo,Captain America: The Winter Soldier,1
+nm0000602,Robert Redford,nm0380073,Maximiliano Hernández,Captain America: The Winter Soldier,1
+nm0000602,Robert Redford,nm0885840,Emily VanCamp,Captain America: The Winter Soldier,1
+nm1659221,Sebastian Stan,nm1107001,Anthony Mackie,Captain America: The Winter Soldier,1
+nm1659221,Sebastian Stan,nm1130627,Cobie Smulders,Captain America: The Winter Soldier,1
+nm1659221,Sebastian Stan,nm0342029,Frank Grillo,Captain America: The Winter Soldier,1
+nm1659221,Sebastian Stan,nm0380073,Maximiliano Hernández,Captain America: The Winter Soldier,1
+nm1659221,Sebastian Stan,nm0885840,Emily VanCamp,Captain America: The Winter Soldier,1
+nm1107001,Anthony Mackie,nm1130627,Cobie Smulders,Captain America: The Winter Soldier,1
+nm1107001,Anthony Mackie,nm0342029,Frank Grillo,Captain America: The Winter Soldier,1
+nm1107001,Anthony Mackie,nm0380073,Maximiliano Hernández,Captain America: The Winter Soldier,1
+nm1107001,Anthony Mackie,nm0885840,Emily VanCamp,Captain America: The Winter Soldier,1
+nm1130627,Cobie Smulders,nm0342029,Frank Grillo,Captain America: The Winter Soldier,1
+nm1130627,Cobie Smulders,nm0380073,Maximiliano Hernández,Captain America: The Winter Soldier,1
+nm1130627,Cobie Smulders,nm0885840,Emily VanCamp,Captain America: The Winter Soldier,1
+nm0342029,Frank Grillo,nm0380073,Maximiliano Hernández,Captain America: The Winter Soldier,1
+nm0342029,Frank Grillo,nm0885840,Emily VanCamp,Captain America: The Winter Soldier,1
+nm0380073,Maximiliano Hernández,nm0885840,Emily VanCamp,Captain America: The Winter Soldier,1
+nm1165110,Chris Hemsworth,nm0000204,Natalie Portman,Thor: The Dark World,1
+nm1165110,Chris Hemsworth,nm1089991,Tom Hiddleston,Thor: The Dark World,1
+nm1165110,Chris Hemsworth,nm0001745,Stellan Skarsgård,Thor: The Dark World,1
+nm1165110,Chris Hemsworth,nm0000164,Anthony Hopkins,Thor: The Dark World,1
+nm1165110,Chris Hemsworth,nm0001172,Christopher Eccleston,Thor: The Dark World,1
+nm1165110,Chris Hemsworth,nm1526352,Jaimie Alexander,Thor: The Dark World,1
+nm1165110,Chris Hemsworth,nm1157048,Zachary Levi,Thor: The Dark World,1
+nm1165110,Chris Hemsworth,nm0829032,Ray Stevenson,Thor: The Dark World,1
+nm1165110,Chris Hemsworth,nm0038355,Tadanobu Asano,Thor: The Dark World,1
+nm0000204,Natalie Portman,nm1089991,Tom Hiddleston,Thor: The Dark World,1
+nm0000204,Natalie Portman,nm0001745,Stellan Skarsgård,Thor: The Dark World,1
+nm0000204,Natalie Portman,nm0000164,Anthony Hopkins,Thor: The Dark World,1
+nm0000204,Natalie Portman,nm0001172,Christopher Eccleston,Thor: The Dark World,1
+nm0000204,Natalie Portman,nm1526352,Jaimie Alexander,Thor: The Dark World,1
+nm0000204,Natalie Portman,nm1157048,Zachary Levi,Thor: The Dark World,1
+nm0000204,Natalie Portman,nm0829032,Ray Stevenson,Thor: The Dark World,1
+nm0000204,Natalie Portman,nm0038355,Tadanobu Asano,Thor: The Dark World,1
+nm1089991,Tom Hiddleston,nm0001745,Stellan Skarsgård,Thor: The Dark World,1
+nm1089991,Tom Hiddleston,nm0000164,Anthony Hopkins,Thor: The Dark World,1
+nm1089991,Tom Hiddleston,nm0001172,Christopher Eccleston,Thor: The Dark World,1
+nm1089991,Tom Hiddleston,nm1526352,Jaimie Alexander,Thor: The Dark World,1
+nm1089991,Tom Hiddleston,nm1157048,Zachary Levi,Thor: The Dark World,1
+nm1089991,Tom Hiddleston,nm0829032,Ray Stevenson,Thor: The Dark World,1
+nm1089991,Tom Hiddleston,nm0038355,Tadanobu Asano,Thor: The Dark World,1
+nm0001745,Stellan Skarsgård,nm0000164,Anthony Hopkins,Thor: The Dark World,1
+nm0001745,Stellan Skarsgård,nm0001172,Christopher Eccleston,Thor: The Dark World,1
+nm0001745,Stellan Skarsgård,nm1526352,Jaimie Alexander,Thor: The Dark World,1
+nm0001745,Stellan Skarsgård,nm1157048,Zachary Levi,Thor: The Dark World,1
+nm0001745,Stellan Skarsgård,nm0829032,Ray Stevenson,Thor: The Dark World,1
+nm0001745,Stellan Skarsgård,nm0038355,Tadanobu Asano,Thor: The Dark World,1
+nm0000164,Anthony Hopkins,nm0001172,Christopher Eccleston,Thor: The Dark World,1
+nm0000164,Anthony Hopkins,nm1526352,Jaimie Alexander,Thor: The Dark World,1
+nm0000164,Anthony Hopkins,nm1157048,Zachary Levi,Thor: The Dark World,1
+nm0000164,Anthony Hopkins,nm0829032,Ray Stevenson,Thor: The Dark World,1
+nm0000164,Anthony Hopkins,nm0038355,Tadanobu Asano,Thor: The Dark World,1
+nm0001172,Christopher Eccleston,nm1526352,Jaimie Alexander,Thor: The Dark World,1
+nm0001172,Christopher Eccleston,nm1157048,Zachary Levi,Thor: The Dark World,1
+nm0001172,Christopher Eccleston,nm0829032,Ray Stevenson,Thor: The Dark World,1
+nm0001172,Christopher Eccleston,nm0038355,Tadanobu Asano,Thor: The Dark World,1
+nm1526352,Jaimie Alexander,nm1157048,Zachary Levi,Thor: The Dark World,1
+nm1526352,Jaimie Alexander,nm0829032,Ray Stevenson,Thor: The Dark World,1
+nm1526352,Jaimie Alexander,nm0038355,Tadanobu Asano,Thor: The Dark World,1
+nm1157048,Zachary Levi,nm0829032,Ray Stevenson,Thor: The Dark World,1
+nm1157048,Zachary Levi,nm0038355,Tadanobu Asano,Thor: The Dark World,1
+nm0829032,Ray Stevenson,nm0038355,Tadanobu Asano,Thor: The Dark World,1
+nm0695435,Chris Pratt,nm0004874,Vin Diesel,Guardians of the Galaxy,1
+nm0695435,Chris Pratt,nm0177896,Bradley Cooper,Guardians of the Galaxy,1
+nm0695435,Chris Pratt,nm0757855,Zoe Saldana,Guardians of the Galaxy,1
+nm0695435,Chris Pratt,nm1176985,Dave Bautista,Guardians of the Galaxy,1
+nm0695435,Chris Pratt,nm1195855,Lee Pace,Guardians of the Galaxy,1
+nm0695435,Chris Pratt,nm0740264,Michael Rooker,Guardians of the Galaxy,1
+nm0695435,Chris Pratt,nm2394794,Karen Gillan,Guardians of the Galaxy,1
+nm0695435,Chris Pratt,nm0005023,Djimon Hounsou,Guardians of the Galaxy,1
+nm0695435,Chris Pratt,nm0000604,John C. Reilly,Guardians of the Galaxy,1
+nm0004874,Vin Diesel,nm0177896,Bradley Cooper,Guardians of the Galaxy,1
+nm0004874,Vin Diesel,nm0757855,Zoe Saldana,Guardians of the Galaxy,1
+nm0004874,Vin Diesel,nm1176985,Dave Bautista,Guardians of the Galaxy,1
+nm0004874,Vin Diesel,nm1195855,Lee Pace,Guardians of the Galaxy,1
+nm0004874,Vin Diesel,nm0740264,Michael Rooker,Guardians of the Galaxy,1
+nm0004874,Vin Diesel,nm2394794,Karen Gillan,Guardians of the Galaxy,1
+nm0004874,Vin Diesel,nm0005023,Djimon Hounsou,Guardians of the Galaxy,1
+nm0004874,Vin Diesel,nm0000604,John C. Reilly,Guardians of the Galaxy,1
+nm0177896,Bradley Cooper,nm0757855,Zoe Saldana,Guardians of the Galaxy,1
+nm0177896,Bradley Cooper,nm1176985,Dave Bautista,Guardians of the Galaxy,1
+nm0177896,Bradley Cooper,nm1195855,Lee Pace,Guardians of the Galaxy,1
+nm0177896,Bradley Cooper,nm0740264,Michael Rooker,Guardians of the Galaxy,1
+nm0177896,Bradley Cooper,nm2394794,Karen Gillan,Guardians of the Galaxy,1
+nm0177896,Bradley Cooper,nm0005023,Djimon Hounsou,Guardians of the Galaxy,1
+nm0177896,Bradley Cooper,nm0000604,John C. Reilly,Guardians of the Galaxy,1
+nm0757855,Zoe Saldana,nm1176985,Dave Bautista,Guardians of the Galaxy,1
+nm0757855,Zoe Saldana,nm1195855,Lee Pace,Guardians of the Galaxy,1
+nm0757855,Zoe Saldana,nm0740264,Michael Rooker,Guardians of the Galaxy,1
+nm0757855,Zoe Saldana,nm2394794,Karen Gillan,Guardians of the Galaxy,1
+nm0757855,Zoe Saldana,nm0005023,Djimon Hounsou,Guardians of the Galaxy,1
+nm0757855,Zoe Saldana,nm0000604,John C. Reilly,Guardians of the Galaxy,1
+nm1176985,Dave Bautista,nm1195855,Lee Pace,Guardians of the Galaxy,1
+nm1176985,Dave Bautista,nm0740264,Michael Rooker,Guardians of the Galaxy,1
+nm1176985,Dave Bautista,nm2394794,Karen Gillan,Guardians of the Galaxy,1
+nm1176985,Dave Bautista,nm0005023,Djimon Hounsou,Guardians of the Galaxy,1
+nm1176985,Dave Bautista,nm0000604,John C. Reilly,Guardians of the Galaxy,1
+nm1195855,Lee Pace,nm0740264,Michael Rooker,Guardians of the Galaxy,1
+nm1195855,Lee Pace,nm2394794,Karen Gillan,Guardians of the Galaxy,1
+nm1195855,Lee Pace,nm0005023,Djimon Hounsou,Guardians of the Galaxy,1
+nm1195855,Lee Pace,nm0000604,John C. Reilly,Guardians of the Galaxy,1
+nm0740264,Michael Rooker,nm2394794,Karen Gillan,Guardians of the Galaxy,1
+nm0740264,Michael Rooker,nm0005023,Djimon Hounsou,Guardians of the Galaxy,1
+nm0740264,Michael Rooker,nm0000604,John C. Reilly,Guardians of the Galaxy,1
+nm2394794,Karen Gillan,nm0005023,Djimon Hounsou,Guardians of the Galaxy,1
+nm2394794,Karen Gillan,nm0000604,John C. Reilly,Guardians of the Galaxy,1
+nm0005023,Djimon Hounsou,nm0000604,John C. Reilly,Guardians of the Galaxy,1
+nm4043618,Tom Holland,nm0000474,Michael Keaton,Spider-Man: Homecoming,1
+nm4043618,Tom Holland,nm0000375,Robert Downey Jr.,Spider-Man: Homecoming,1
+nm4043618,Tom Holland,nm0000673,Marisa Tomei,Spider-Man: Homecoming,1
+nm4043618,Tom Holland,nm0269463,Jon Favreau,Spider-Man: Homecoming,1
+nm4043618,Tom Holland,nm0000569,Gwyneth Paltrow,Spider-Man: Homecoming,1
+nm4043618,Tom Holland,nm3918035,Zendaya,Spider-Man: Homecoming,1
+nm4043618,Tom Holland,nm2255973,Donald Glover,Spider-Man: Homecoming,1
+nm4043618,Tom Holland,nm8188622,Jacob Batalon,Spider-Man: Homecoming,1
+nm4043618,Tom Holland,nm5637553,Laura Harrier,Spider-Man: Homecoming,1
+nm0000474,Michael Keaton,nm0000375,Robert Downey Jr.,Spider-Man: Homecoming,1
+nm0000474,Michael Keaton,nm0000673,Marisa Tomei,Spider-Man: Homecoming,1
+nm0000474,Michael Keaton,nm0269463,Jon Favreau,Spider-Man: Homecoming,1
+nm0000474,Michael Keaton,nm0000569,Gwyneth Paltrow,Spider-Man: Homecoming,1
+nm0000474,Michael Keaton,nm3918035,Zendaya,Spider-Man: Homecoming,1
+nm0000474,Michael Keaton,nm2255973,Donald Glover,Spider-Man: Homecoming,1
+nm0000474,Michael Keaton,nm8188622,Jacob Batalon,Spider-Man: Homecoming,1
+nm0000474,Michael Keaton,nm5637553,Laura Harrier,Spider-Man: Homecoming,1
+nm0000375,Robert Downey Jr.,nm0000673,Marisa Tomei,Spider-Man: Homecoming,1
+nm0000375,Robert Downey Jr.,nm0269463,Jon Favreau,Spider-Man: Homecoming,1
+nm0000375,Robert Downey Jr.,nm0000569,Gwyneth Paltrow,Spider-Man: Homecoming,1
+nm0000375,Robert Downey Jr.,nm3918035,Zendaya,Spider-Man: Homecoming,1
+nm0000375,Robert Downey Jr.,nm2255973,Donald Glover,Spider-Man: Homecoming,1
+nm0000375,Robert Downey Jr.,nm8188622,Jacob Batalon,Spider-Man: Homecoming,1
+nm0000375,Robert Downey Jr.,nm5637553,Laura Harrier,Spider-Man: Homecoming,1
+nm0000673,Marisa Tomei,nm0269463,Jon Favreau,Spider-Man: Homecoming,1
+nm0000673,Marisa Tomei,nm0000569,Gwyneth Paltrow,Spider-Man: Homecoming,1
+nm0000673,Marisa Tomei,nm3918035,Zendaya,Spider-Man: Homecoming,1
+nm0000673,Marisa Tomei,nm2255973,Donald Glover,Spider-Man: Homecoming,1
+nm0000673,Marisa Tomei,nm8188622,Jacob Batalon,Spider-Man: Homecoming,1
+nm0000673,Marisa Tomei,nm5637553,Laura Harrier,Spider-Man: Homecoming,1
+nm0269463,Jon Favreau,nm0000569,Gwyneth Paltrow,Spider-Man: Homecoming,1
+nm0269463,Jon Favreau,nm3918035,Zendaya,Spider-Man: Homecoming,1
+nm0269463,Jon Favreau,nm2255973,Donald Glover,Spider-Man: Homecoming,1
+nm0269463,Jon Favreau,nm8188622,Jacob Batalon,Spider-Man: Homecoming,1
+nm0269463,Jon Favreau,nm5637553,Laura Harrier,Spider-Man: Homecoming,1
+nm0000569,Gwyneth Paltrow,nm3918035,Zendaya,Spider-Man: Homecoming,1
+nm0000569,Gwyneth Paltrow,nm2255973,Donald Glover,Spider-Man: Homecoming,1
+nm0000569,Gwyneth Paltrow,nm8188622,Jacob Batalon,Spider-Man: Homecoming,1
+nm0000569,Gwyneth Paltrow,nm5637553,Laura Harrier,Spider-Man: Homecoming,1
+nm3918035,Zendaya,nm2255973,Donald Glover,Spider-Man: Homecoming,1
+nm3918035,Zendaya,nm8188622,Jacob Batalon,Spider-Man: Homecoming,1
+nm3918035,Zendaya,nm5637553,Laura Harrier,Spider-Man: Homecoming,1
+nm2255973,Donald Glover,nm8188622,Jacob Batalon,Spider-Man: Homecoming,1
+nm2255973,Donald Glover,nm5637553,Laura Harrier,Spider-Man: Homecoming,1
+nm8188622,Jacob Batalon,nm5637553,Laura Harrier,Spider-Man: Homecoming,1
+nm0000375,Robert Downey Jr.,nm0262635,Chris Evans,Avengers: Age of Ultron,1
+nm0000375,Robert Downey Jr.,nm0749263,Mark Ruffalo,Avengers: Age of Ultron,1
+nm0000375,Robert Downey Jr.,nm1165110,Chris Hemsworth,Avengers: Age of Ultron,1
+nm0000375,Robert Downey Jr.,nm0424060,Scarlett Johansson,Avengers: Age of Ultron,1
+nm0000375,Robert Downey Jr.,nm0719637,Jeremy Renner,Avengers: Age of Ultron,1
+nm0000375,Robert Downey Jr.,nm0000652,James Spader,Avengers: Age of Ultron,1
+nm0000375,Robert Downey Jr.,nm0000168,Samuel L. Jackson,Avengers: Age of Ultron,1
+nm0000375,Robert Downey Jr.,nm0000332,Don Cheadle,Avengers: Age of Ultron,1
+nm0000375,Robert Downey Jr.,nm1093951,Aaron Taylor-Johnson,Avengers: Age of Ultron,1
+nm0262635,Chris Evans,nm0749263,Mark Ruffalo,Avengers: Age of Ultron,1
+nm0262635,Chris Evans,nm1165110,Chris Hemsworth,Avengers: Age of Ultron,1
+nm0262635,Chris Evans,nm0424060,Scarlett Johansson,Avengers: Age of Ultron,1
+nm0262635,Chris Evans,nm0719637,Jeremy Renner,Avengers: Age of Ultron,1
+nm0262635,Chris Evans,nm0000652,James Spader,Avengers: Age of Ultron,1
+nm0262635,Chris Evans,nm0000168,Samuel L. Jackson,Avengers: Age of Ultron,1
+nm0262635,Chris Evans,nm0000332,Don Cheadle,Avengers: Age of Ultron,1
+nm0262635,Chris Evans,nm1093951,Aaron Taylor-Johnson,Avengers: Age of Ultron,1
+nm0749263,Mark Ruffalo,nm1165110,Chris Hemsworth,Avengers: Age of Ultron,1
+nm0749263,Mark Ruffalo,nm0424060,Scarlett Johansson,Avengers: Age of Ultron,1
+nm0749263,Mark Ruffalo,nm0719637,Jeremy Renner,Avengers: Age of Ultron,1
+nm0749263,Mark Ruffalo,nm0000652,James Spader,Avengers: Age of Ultron,1
+nm0749263,Mark Ruffalo,nm0000168,Samuel L. Jackson,Avengers: Age of Ultron,1
+nm0749263,Mark Ruffalo,nm0000332,Don Cheadle,Avengers: Age of Ultron,1
+nm0749263,Mark Ruffalo,nm1093951,Aaron Taylor-Johnson,Avengers: Age of Ultron,1
+nm1165110,Chris Hemsworth,nm0424060,Scarlett Johansson,Avengers: Age of Ultron,1
+nm1165110,Chris Hemsworth,nm0719637,Jeremy Renner,Avengers: Age of Ultron,1
+nm1165110,Chris Hemsworth,nm0000652,James Spader,Avengers: Age of Ultron,1
+nm1165110,Chris Hemsworth,nm0000168,Samuel L. Jackson,Avengers: Age of Ultron,1
+nm1165110,Chris Hemsworth,nm0000332,Don Cheadle,Avengers: Age of Ultron,1
+nm1165110,Chris Hemsworth,nm1093951,Aaron Taylor-Johnson,Avengers: Age of Ultron,1
+nm0424060,Scarlett Johansson,nm0719637,Jeremy Renner,Avengers: Age of Ultron,1
+nm0424060,Scarlett Johansson,nm0000652,James Spader,Avengers: Age of Ultron,1
+nm0424060,Scarlett Johansson,nm0000168,Samuel L. Jackson,Avengers: Age of Ultron,1
+nm0424060,Scarlett Johansson,nm0000332,Don Cheadle,Avengers: Age of Ultron,1
+nm0424060,Scarlett Johansson,nm1093951,Aaron Taylor-Johnson,Avengers: Age of Ultron,1
+nm0719637,Jeremy Renner,nm0000652,James Spader,Avengers: Age of Ultron,1
+nm0719637,Jeremy Renner,nm0000168,Samuel L. Jackson,Avengers: Age of Ultron,1
+nm0719637,Jeremy Renner,nm0000332,Don Cheadle,Avengers: Age of Ultron,1
+nm0719637,Jeremy Renner,nm1093951,Aaron Taylor-Johnson,Avengers: Age of Ultron,1
+nm0000652,James Spader,nm0000168,Samuel L. Jackson,Avengers: Age of Ultron,1
+nm0000652,James Spader,nm0000332,Don Cheadle,Avengers: Age of Ultron,1
+nm0000652,James Spader,nm1093951,Aaron Taylor-Johnson,Avengers: Age of Ultron,1
+nm0000168,Samuel L. Jackson,nm0000332,Don Cheadle,Avengers: Age of Ultron,1
+nm0000168,Samuel L. Jackson,nm1093951,Aaron Taylor-Johnson,Avengers: Age of Ultron,1
+nm0000332,Don Cheadle,nm1093951,Aaron Taylor-Johnson,Avengers: Age of Ultron,1
+nm0424060,Scarlett Johansson,nm6073955,Florence Pugh,Black Widow,1
+nm0424060,Scarlett Johansson,nm1092086,David Harbour,Black Widow,1
+nm0424060,Scarlett Johansson,nm0001838,Rachel Weisz,Black Widow,1
+nm0424060,Scarlett Johansson,nm0935653,Ray Winstone,Black Widow,1
+nm0424060,Scarlett Johansson,nm8349839,Ever Anderson,Black Widow,1
+nm0424060,Scarlett Johansson,nm8627157,Violet McGraw,Black Widow,1
+nm0424060,Scarlett Johansson,nm1282966,O-T Fagbenle,Black Widow,1
+nm0424060,Scarlett Johansson,nm0000458,William Hurt,Black Widow,1
+nm0424060,Scarlett Johansson,nm1385871,Olga Kurylenko,Black Widow,1
+nm6073955,Florence Pugh,nm1092086,David Harbour,Black Widow,1
+nm6073955,Florence Pugh,nm0001838,Rachel Weisz,Black Widow,1
+nm6073955,Florence Pugh,nm0935653,Ray Winstone,Black Widow,1
+nm6073955,Florence Pugh,nm8349839,Ever Anderson,Black Widow,1
+nm6073955,Florence Pugh,nm8627157,Violet McGraw,Black Widow,1
+nm6073955,Florence Pugh,nm1282966,O-T Fagbenle,Black Widow,1
+nm6073955,Florence Pugh,nm0000458,William Hurt,Black Widow,1
+nm6073955,Florence Pugh,nm1385871,Olga Kurylenko,Black Widow,1
+nm1092086,David Harbour,nm0001838,Rachel Weisz,Black Widow,1
+nm1092086,David Harbour,nm0935653,Ray Winstone,Black Widow,1
+nm1092086,David Harbour,nm8349839,Ever Anderson,Black Widow,1
+nm1092086,David Harbour,nm8627157,Violet McGraw,Black Widow,1
+nm1092086,David Harbour,nm1282966,O-T Fagbenle,Black Widow,1
+nm1092086,David Harbour,nm0000458,William Hurt,Black Widow,1
+nm1092086,David Harbour,nm1385871,Olga Kurylenko,Black Widow,1
+nm0001838,Rachel Weisz,nm0935653,Ray Winstone,Black Widow,1
+nm0001838,Rachel Weisz,nm8349839,Ever Anderson,Black Widow,1
+nm0001838,Rachel Weisz,nm8627157,Violet McGraw,Black Widow,1
+nm0001838,Rachel Weisz,nm1282966,O-T Fagbenle,Black Widow,1
+nm0001838,Rachel Weisz,nm0000458,William Hurt,Black Widow,1
+nm0001838,Rachel Weisz,nm1385871,Olga Kurylenko,Black Widow,1
+nm0935653,Ray Winstone,nm8349839,Ever Anderson,Black Widow,1
+nm0935653,Ray Winstone,nm8627157,Violet McGraw,Black Widow,1
+nm0935653,Ray Winstone,nm1282966,O-T Fagbenle,Black Widow,1
+nm0935653,Ray Winstone,nm0000458,William Hurt,Black Widow,1
+nm0935653,Ray Winstone,nm1385871,Olga Kurylenko,Black Widow,1
+nm8349839,Ever Anderson,nm8627157,Violet McGraw,Black Widow,1
+nm8349839,Ever Anderson,nm1282966,O-T Fagbenle,Black Widow,1
+nm8349839,Ever Anderson,nm0000458,William Hurt,Black Widow,1
+nm8349839,Ever Anderson,nm1385871,Olga Kurylenko,Black Widow,1
+nm8627157,Violet McGraw,nm1282966,O-T Fagbenle,Black Widow,1
+nm8627157,Violet McGraw,nm0000458,William Hurt,Black Widow,1
+nm8627157,Violet McGraw,nm1385871,Olga Kurylenko,Black Widow,1
+nm1282966,O-T Fagbenle,nm0000458,William Hurt,Black Widow,1
+nm1282966,O-T Fagbenle,nm1385871,Olga Kurylenko,Black Widow,1
+nm0000458,William Hurt,nm1385871,Olga Kurylenko,Black Widow,1
+nm0262635,Chris Evans,nm0000375,Robert Downey Jr.,Captain America: Civil War,1
+nm0262635,Chris Evans,nm0424060,Scarlett Johansson,Captain America: Civil War,1
+nm0262635,Chris Evans,nm1659221,Sebastian Stan,Captain America: Civil War,1
+nm0262635,Chris Evans,nm1107001,Anthony Mackie,Captain America: Civil War,1
+nm0262635,Chris Evans,nm0000332,Don Cheadle,Captain America: Civil War,1
+nm0262635,Chris Evans,nm0719637,Jeremy Renner,Captain America: Civil War,1
+nm0262635,Chris Evans,nm1569276,Chadwick Boseman,Captain America: Civil War,1
+nm0262635,Chris Evans,nm0079273,Paul Bettany,Captain America: Civil War,1
+nm0262635,Chris Evans,nm0647634,Elizabeth Olsen,Captain America: Civil War,1
+nm0000375,Robert Downey Jr.,nm0424060,Scarlett Johansson,Captain America: Civil War,1
+nm0000375,Robert Downey Jr.,nm1659221,Sebastian Stan,Captain America: Civil War,1
+nm0000375,Robert Downey Jr.,nm1107001,Anthony Mackie,Captain America: Civil War,1
+nm0000375,Robert Downey Jr.,nm0000332,Don Cheadle,Captain America: Civil War,1
+nm0000375,Robert Downey Jr.,nm0719637,Jeremy Renner,Captain America: Civil War,1
+nm0000375,Robert Downey Jr.,nm1569276,Chadwick Boseman,Captain America: Civil War,1
+nm0000375,Robert Downey Jr.,nm0079273,Paul Bettany,Captain America: Civil War,1
+nm0000375,Robert Downey Jr.,nm0647634,Elizabeth Olsen,Captain America: Civil War,1
+nm0424060,Scarlett Johansson,nm1659221,Sebastian Stan,Captain America: Civil War,1
+nm0424060,Scarlett Johansson,nm1107001,Anthony Mackie,Captain America: Civil War,1
+nm0424060,Scarlett Johansson,nm0000332,Don Cheadle,Captain America: Civil War,1
+nm0424060,Scarlett Johansson,nm0719637,Jeremy Renner,Captain America: Civil War,1
+nm0424060,Scarlett Johansson,nm1569276,Chadwick Boseman,Captain America: Civil War,1
+nm0424060,Scarlett Johansson,nm0079273,Paul Bettany,Captain America: Civil War,1
+nm0424060,Scarlett Johansson,nm0647634,Elizabeth Olsen,Captain America: Civil War,1
+nm1659221,Sebastian Stan,nm1107001,Anthony Mackie,Captain America: Civil War,1
+nm1659221,Sebastian Stan,nm0000332,Don Cheadle,Captain America: Civil War,1
+nm1659221,Sebastian Stan,nm0719637,Jeremy Renner,Captain America: Civil War,1
+nm1659221,Sebastian Stan,nm1569276,Chadwick Boseman,Captain America: Civil War,1
+nm1659221,Sebastian Stan,nm0079273,Paul Bettany,Captain America: Civil War,1
+nm1659221,Sebastian Stan,nm0647634,Elizabeth Olsen,Captain America: Civil War,1
+nm1107001,Anthony Mackie,nm0000332,Don Cheadle,Captain America: Civil War,1
+nm1107001,Anthony Mackie,nm0719637,Jeremy Renner,Captain America: Civil War,1
+nm1107001,Anthony Mackie,nm1569276,Chadwick Boseman,Captain America: Civil War,1
+nm1107001,Anthony Mackie,nm0079273,Paul Bettany,Captain America: Civil War,1
+nm1107001,Anthony Mackie,nm0647634,Elizabeth Olsen,Captain America: Civil War,1
+nm0000332,Don Cheadle,nm0719637,Jeremy Renner,Captain America: Civil War,1
+nm0000332,Don Cheadle,nm1569276,Chadwick Boseman,Captain America: Civil War,1
+nm0000332,Don Cheadle,nm0079273,Paul Bettany,Captain America: Civil War,1
+nm0000332,Don Cheadle,nm0647634,Elizabeth Olsen,Captain America: Civil War,1
+nm0719637,Jeremy Renner,nm1569276,Chadwick Boseman,Captain America: Civil War,1
+nm0719637,Jeremy Renner,nm0079273,Paul Bettany,Captain America: Civil War,1
+nm0719637,Jeremy Renner,nm0647634,Elizabeth Olsen,Captain America: Civil War,1
+nm1569276,Chadwick Boseman,nm0079273,Paul Bettany,Captain America: Civil War,1
+nm1569276,Chadwick Boseman,nm0647634,Elizabeth Olsen,Captain America: Civil War,1
+nm0079273,Paul Bettany,nm0647634,Elizabeth Olsen,Captain America: Civil War,1
+nm1165110,Chris Hemsworth,nm1089991,Tom Hiddleston,Thor: Ragnarok,1
+nm1165110,Chris Hemsworth,nm0000949,Cate Blanchett,Thor: Ragnarok,1
+nm1165110,Chris Hemsworth,nm0749263,Mark Ruffalo,Thor: Ragnarok,1
+nm1165110,Chris Hemsworth,nm0252961,Idris Elba,Thor: Ragnarok,1
+nm1165110,Chris Hemsworth,nm0000156,Jeff Goldblum,Thor: Ragnarok,1
+nm1165110,Chris Hemsworth,nm1935086,Tessa Thompson,Thor: Ragnarok,1
+nm1165110,Chris Hemsworth,nm0881631,Karl Urban,Thor: Ragnarok,1
+nm1165110,Chris Hemsworth,nm0000164,Anthony Hopkins,Thor: Ragnarok,1
+nm1165110,Chris Hemsworth,nm1212722,Benedict Cumberbatch,Thor: Ragnarok,1
+nm1089991,Tom Hiddleston,nm0000949,Cate Blanchett,Thor: Ragnarok,1
+nm1089991,Tom Hiddleston,nm0749263,Mark Ruffalo,Thor: Ragnarok,1
+nm1089991,Tom Hiddleston,nm0252961,Idris Elba,Thor: Ragnarok,1
+nm1089991,Tom Hiddleston,nm0000156,Jeff Goldblum,Thor: Ragnarok,1
+nm1089991,Tom Hiddleston,nm1935086,Tessa Thompson,Thor: Ragnarok,1
+nm1089991,Tom Hiddleston,nm0881631,Karl Urban,Thor: Ragnarok,1
+nm1089991,Tom Hiddleston,nm0000164,Anthony Hopkins,Thor: Ragnarok,1
+nm1089991,Tom Hiddleston,nm1212722,Benedict Cumberbatch,Thor: Ragnarok,1
+nm0000949,Cate Blanchett,nm0749263,Mark Ruffalo,Thor: Ragnarok,1
+nm0000949,Cate Blanchett,nm0252961,Idris Elba,Thor: Ragnarok,1
+nm0000949,Cate Blanchett,nm0000156,Jeff Goldblum,Thor: Ragnarok,1
+nm0000949,Cate Blanchett,nm1935086,Tessa Thompson,Thor: Ragnarok,1
+nm0000949,Cate Blanchett,nm0881631,Karl Urban,Thor: Ragnarok,1
+nm0000949,Cate Blanchett,nm0000164,Anthony Hopkins,Thor: Ragnarok,1
+nm0000949,Cate Blanchett,nm1212722,Benedict Cumberbatch,Thor: Ragnarok,1
+nm0749263,Mark Ruffalo,nm0252961,Idris Elba,Thor: Ragnarok,1
+nm0749263,Mark Ruffalo,nm0000156,Jeff Goldblum,Thor: Ragnarok,1
+nm0749263,Mark Ruffalo,nm1935086,Tessa Thompson,Thor: Ragnarok,1
+nm0749263,Mark Ruffalo,nm0881631,Karl Urban,Thor: Ragnarok,1
+nm0749263,Mark Ruffalo,nm0000164,Anthony Hopkins,Thor: Ragnarok,1
+nm0749263,Mark Ruffalo,nm1212722,Benedict Cumberbatch,Thor: Ragnarok,1
+nm0252961,Idris Elba,nm0000156,Jeff Goldblum,Thor: Ragnarok,1
+nm0252961,Idris Elba,nm1935086,Tessa Thompson,Thor: Ragnarok,1
+nm0252961,Idris Elba,nm0881631,Karl Urban,Thor: Ragnarok,1
+nm0252961,Idris Elba,nm0000164,Anthony Hopkins,Thor: Ragnarok,1
+nm0252961,Idris Elba,nm1212722,Benedict Cumberbatch,Thor: Ragnarok,1
+nm0000156,Jeff Goldblum,nm1935086,Tessa Thompson,Thor: Ragnarok,1
+nm0000156,Jeff Goldblum,nm0881631,Karl Urban,Thor: Ragnarok,1
+nm0000156,Jeff Goldblum,nm0000164,Anthony Hopkins,Thor: Ragnarok,1
+nm0000156,Jeff Goldblum,nm1212722,Benedict Cumberbatch,Thor: Ragnarok,1
+nm1935086,Tessa Thompson,nm0881631,Karl Urban,Thor: Ragnarok,1
+nm1935086,Tessa Thompson,nm0000164,Anthony Hopkins,Thor: Ragnarok,1
+nm1935086,Tessa Thompson,nm1212722,Benedict Cumberbatch,Thor: Ragnarok,1
+nm0881631,Karl Urban,nm0000164,Anthony Hopkins,Thor: Ragnarok,1
+nm0881631,Karl Urban,nm1212722,Benedict Cumberbatch,Thor: Ragnarok,1
+nm0000164,Anthony Hopkins,nm1212722,Benedict Cumberbatch,Thor: Ragnarok,1
+nm0695435,Chris Pratt,nm0757855,Zoe Saldana,Guardians of the Galaxy Vol. 2,1
+nm0695435,Chris Pratt,nm1176985,Dave Bautista,Guardians of the Galaxy Vol. 2,1
+nm0695435,Chris Pratt,nm0004874,Vin Diesel,Guardians of the Galaxy Vol. 2,1
+nm0695435,Chris Pratt,nm0177896,Bradley Cooper,Guardians of the Galaxy Vol. 2,1
+nm0695435,Chris Pratt,nm0740264,Michael Rooker,Guardians of the Galaxy Vol. 2,1
+nm0695435,Chris Pratt,nm2394794,Karen Gillan,Guardians of the Galaxy Vol. 2,1
+nm0695435,Chris Pratt,nm2962353,Pom Klementieff,Guardians of the Galaxy Vol. 2,1
+nm0695435,Chris Pratt,nm0000230,Sylvester Stallone,Guardians of the Galaxy Vol. 2,1
+nm0695435,Chris Pratt,nm0000621,Kurt Russell,Guardians of the Galaxy Vol. 2,1
+nm0757855,Zoe Saldana,nm1176985,Dave Bautista,Guardians of the Galaxy Vol. 2,1
+nm0757855,Zoe Saldana,nm0004874,Vin Diesel,Guardians of the Galaxy Vol. 2,1
+nm0757855,Zoe Saldana,nm0177896,Bradley Cooper,Guardians of the Galaxy Vol. 2,1
+nm0757855,Zoe Saldana,nm0740264,Michael Rooker,Guardians of the Galaxy Vol. 2,1
+nm0757855,Zoe Saldana,nm2394794,Karen Gillan,Guardians of the Galaxy Vol. 2,1
+nm0757855,Zoe Saldana,nm2962353,Pom Klementieff,Guardians of the Galaxy Vol. 2,1
+nm0757855,Zoe Saldana,nm0000230,Sylvester Stallone,Guardians of the Galaxy Vol. 2,1
+nm0757855,Zoe Saldana,nm0000621,Kurt Russell,Guardians of the Galaxy Vol. 2,1
+nm1176985,Dave Bautista,nm0004874,Vin Diesel,Guardians of the Galaxy Vol. 2,1
+nm1176985,Dave Bautista,nm0177896,Bradley Cooper,Guardians of the Galaxy Vol. 2,1
+nm1176985,Dave Bautista,nm0740264,Michael Rooker,Guardians of the Galaxy Vol. 2,1
+nm1176985,Dave Bautista,nm2394794,Karen Gillan,Guardians of the Galaxy Vol. 2,1
+nm1176985,Dave Bautista,nm2962353,Pom Klementieff,Guardians of the Galaxy Vol. 2,1
+nm1176985,Dave Bautista,nm0000230,Sylvester Stallone,Guardians of the Galaxy Vol. 2,1
+nm1176985,Dave Bautista,nm0000621,Kurt Russell,Guardians of the Galaxy Vol. 2,1
+nm0004874,Vin Diesel,nm0177896,Bradley Cooper,Guardians of the Galaxy Vol. 2,1
+nm0004874,Vin Diesel,nm0740264,Michael Rooker,Guardians of the Galaxy Vol. 2,1
+nm0004874,Vin Diesel,nm2394794,Karen Gillan,Guardians of the Galaxy Vol. 2,1
+nm0004874,Vin Diesel,nm2962353,Pom Klementieff,Guardians of the Galaxy Vol. 2,1
+nm0004874,Vin Diesel,nm0000230,Sylvester Stallone,Guardians of the Galaxy Vol. 2,1
+nm0004874,Vin Diesel,nm0000621,Kurt Russell,Guardians of the Galaxy Vol. 2,1
+nm0177896,Bradley Cooper,nm0740264,Michael Rooker,Guardians of the Galaxy Vol. 2,1
+nm0177896,Bradley Cooper,nm2394794,Karen Gillan,Guardians of the Galaxy Vol. 2,1
+nm0177896,Bradley Cooper,nm2962353,Pom Klementieff,Guardians of the Galaxy Vol. 2,1
+nm0177896,Bradley Cooper,nm0000230,Sylvester Stallone,Guardians of the Galaxy Vol. 2,1
+nm0177896,Bradley Cooper,nm0000621,Kurt Russell,Guardians of the Galaxy Vol. 2,1
+nm0740264,Michael Rooker,nm2394794,Karen Gillan,Guardians of the Galaxy Vol. 2,1
+nm0740264,Michael Rooker,nm2962353,Pom Klementieff,Guardians of the Galaxy Vol. 2,1
+nm0740264,Michael Rooker,nm0000230,Sylvester Stallone,Guardians of the Galaxy Vol. 2,1
+nm0740264,Michael Rooker,nm0000621,Kurt Russell,Guardians of the Galaxy Vol. 2,1
+nm2394794,Karen Gillan,nm2962353,Pom Klementieff,Guardians of the Galaxy Vol. 2,1
+nm2394794,Karen Gillan,nm0000230,Sylvester Stallone,Guardians of the Galaxy Vol. 2,1
+nm2394794,Karen Gillan,nm0000621,Kurt Russell,Guardians of the Galaxy Vol. 2,1
+nm2962353,Pom Klementieff,nm0000230,Sylvester Stallone,Guardians of the Galaxy Vol. 2,1
+nm2962353,Pom Klementieff,nm0000621,Kurt Russell,Guardians of the Galaxy Vol. 2,1
+nm0000230,Sylvester Stallone,nm0000621,Kurt Russell,Guardians of the Galaxy Vol. 2,1
+nm0488953,Brie Larson,nm0000168,Samuel L. Jackson,Captain Marvel,1
+nm0488953,Brie Larson,nm0578853,Ben Mendelsohn,Captain Marvel,1
+nm0488953,Brie Larson,nm0000179,Jude Law,Captain Marvel,1
+nm0488953,Brie Larson,nm0000906,Annette Bening,Captain Marvel,1
+nm0488953,Brie Larson,nm0005023,Djimon Hounsou,Captain Marvel,1
+nm0488953,Brie Larson,nm1195855,Lee Pace,Captain Marvel,1
+nm0488953,Brie Larson,nm2736476,Lashana Lynch,Captain Marvel,1
+nm0488953,Brie Larson,nm2110418,Gemma Chan,Captain Marvel,1
+nm0488953,Brie Larson,nm0163988,Clark Gregg,Captain Marvel,1
+nm0000168,Samuel L. Jackson,nm0578853,Ben Mendelsohn,Captain Marvel,1
+nm0000168,Samuel L. Jackson,nm0000179,Jude Law,Captain Marvel,1
+nm0000168,Samuel L. Jackson,nm0000906,Annette Bening,Captain Marvel,1
+nm0000168,Samuel L. Jackson,nm0005023,Djimon Hounsou,Captain Marvel,1
+nm0000168,Samuel L. Jackson,nm1195855,Lee Pace,Captain Marvel,1
+nm0000168,Samuel L. Jackson,nm2736476,Lashana Lynch,Captain Marvel,1
+nm0000168,Samuel L. Jackson,nm2110418,Gemma Chan,Captain Marvel,1
+nm0000168,Samuel L. Jackson,nm0163988,Clark Gregg,Captain Marvel,1
+nm0578853,Ben Mendelsohn,nm0000179,Jude Law,Captain Marvel,1
+nm0578853,Ben Mendelsohn,nm0000906,Annette Bening,Captain Marvel,1
+nm0578853,Ben Mendelsohn,nm0005023,Djimon Hounsou,Captain Marvel,1
+nm0578853,Ben Mendelsohn,nm1195855,Lee Pace,Captain Marvel,1
+nm0578853,Ben Mendelsohn,nm2736476,Lashana Lynch,Captain Marvel,1
+nm0578853,Ben Mendelsohn,nm2110418,Gemma Chan,Captain Marvel,1
+nm0578853,Ben Mendelsohn,nm0163988,Clark Gregg,Captain Marvel,1
+nm0000179,Jude Law,nm0000906,Annette Bening,Captain Marvel,1
+nm0000179,Jude Law,nm0005023,Djimon Hounsou,Captain Marvel,1
+nm0000179,Jude Law,nm1195855,Lee Pace,Captain Marvel,1
+nm0000179,Jude Law,nm2736476,Lashana Lynch,Captain Marvel,1
+nm0000179,Jude Law,nm2110418,Gemma Chan,Captain Marvel,1
+nm0000179,Jude Law,nm0163988,Clark Gregg,Captain Marvel,1
+nm0000906,Annette Bening,nm0005023,Djimon Hounsou,Captain Marvel,1
+nm0000906,Annette Bening,nm1195855,Lee Pace,Captain Marvel,1
+nm0000906,Annette Bening,nm2736476,Lashana Lynch,Captain Marvel,1
+nm0000906,Annette Bening,nm2110418,Gemma Chan,Captain Marvel,1
+nm0000906,Annette Bening,nm0163988,Clark Gregg,Captain Marvel,1
+nm0005023,Djimon Hounsou,nm1195855,Lee Pace,Captain Marvel,1
+nm0005023,Djimon Hounsou,nm2736476,Lashana Lynch,Captain Marvel,1
+nm0005023,Djimon Hounsou,nm2110418,Gemma Chan,Captain Marvel,1
+nm0005023,Djimon Hounsou,nm0163988,Clark Gregg,Captain Marvel,1
+nm1195855,Lee Pace,nm2736476,Lashana Lynch,Captain Marvel,1
+nm1195855,Lee Pace,nm2110418,Gemma Chan,Captain Marvel,1
+nm1195855,Lee Pace,nm0163988,Clark Gregg,Captain Marvel,1
+nm2736476,Lashana Lynch,nm2110418,Gemma Chan,Captain Marvel,1
+nm2736476,Lashana Lynch,nm0163988,Clark Gregg,Captain Marvel,1
+nm2110418,Gemma Chan,nm0163988,Clark Gregg,Captain Marvel,1
+nm0000375,Robert Downey Jr.,nm1165110,Chris Hemsworth,Avengers: Infinity War,1
+nm0000375,Robert Downey Jr.,nm0749263,Mark Ruffalo,Avengers: Infinity War,1
+nm0000375,Robert Downey Jr.,nm0262635,Chris Evans,Avengers: Infinity War,1
+nm0000375,Robert Downey Jr.,nm0424060,Scarlett Johansson,Avengers: Infinity War,1
+nm0000375,Robert Downey Jr.,nm0000332,Don Cheadle,Avengers: Infinity War,1
+nm0000375,Robert Downey Jr.,nm1212722,Benedict Cumberbatch,Avengers: Infinity War,1
+nm0000375,Robert Downey Jr.,nm4043618,Tom Holland,Avengers: Infinity War,1
+nm0000375,Robert Downey Jr.,nm1569276,Chadwick Boseman,Avengers: Infinity War,1
+nm0000375,Robert Downey Jr.,nm0757855,Zoe Saldana,Avengers: Infinity War,1
+nm1165110,Chris Hemsworth,nm0749263,Mark Ruffalo,Avengers: Infinity War,1
+nm1165110,Chris Hemsworth,nm0262635,Chris Evans,Avengers: Infinity War,1
+nm1165110,Chris Hemsworth,nm0424060,Scarlett Johansson,Avengers: Infinity War,1
+nm1165110,Chris Hemsworth,nm0000332,Don Cheadle,Avengers: Infinity War,1
+nm1165110,Chris Hemsworth,nm1212722,Benedict Cumberbatch,Avengers: Infinity War,1
+nm1165110,Chris Hemsworth,nm4043618,Tom Holland,Avengers: Infinity War,1
+nm1165110,Chris Hemsworth,nm1569276,Chadwick Boseman,Avengers: Infinity War,1
+nm1165110,Chris Hemsworth,nm0757855,Zoe Saldana,Avengers: Infinity War,1
+nm0749263,Mark Ruffalo,nm0262635,Chris Evans,Avengers: Infinity War,1
+nm0749263,Mark Ruffalo,nm0424060,Scarlett Johansson,Avengers: Infinity War,1
+nm0749263,Mark Ruffalo,nm0000332,Don Cheadle,Avengers: Infinity War,1
+nm0749263,Mark Ruffalo,nm1212722,Benedict Cumberbatch,Avengers: Infinity War,1
+nm0749263,Mark Ruffalo,nm4043618,Tom Holland,Avengers: Infinity War,1
+nm0749263,Mark Ruffalo,nm1569276,Chadwick Boseman,Avengers: Infinity War,1
+nm0749263,Mark Ruffalo,nm0757855,Zoe Saldana,Avengers: Infinity War,1
+nm0262635,Chris Evans,nm0424060,Scarlett Johansson,Avengers: Infinity War,1
+nm0262635,Chris Evans,nm0000332,Don Cheadle,Avengers: Infinity War,1
+nm0262635,Chris Evans,nm1212722,Benedict Cumberbatch,Avengers: Infinity War,1
+nm0262635,Chris Evans,nm4043618,Tom Holland,Avengers: Infinity War,1
+nm0262635,Chris Evans,nm1569276,Chadwick Boseman,Avengers: Infinity War,1
+nm0262635,Chris Evans,nm0757855,Zoe Saldana,Avengers: Infinity War,1
+nm0424060,Scarlett Johansson,nm0000332,Don Cheadle,Avengers: Infinity War,1
+nm0424060,Scarlett Johansson,nm1212722,Benedict Cumberbatch,Avengers: Infinity War,1
+nm0424060,Scarlett Johansson,nm4043618,Tom Holland,Avengers: Infinity War,1
+nm0424060,Scarlett Johansson,nm1569276,Chadwick Boseman,Avengers: Infinity War,1
+nm0424060,Scarlett Johansson,nm0757855,Zoe Saldana,Avengers: Infinity War,1
+nm0000332,Don Cheadle,nm1212722,Benedict Cumberbatch,Avengers: Infinity War,1
+nm0000332,Don Cheadle,nm4043618,Tom Holland,Avengers: Infinity War,1
+nm0000332,Don Cheadle,nm1569276,Chadwick Boseman,Avengers: Infinity War,1
+nm0000332,Don Cheadle,nm0757855,Zoe Saldana,Avengers: Infinity War,1
+nm1212722,Benedict Cumberbatch,nm4043618,Tom Holland,Avengers: Infinity War,1
+nm1212722,Benedict Cumberbatch,nm1569276,Chadwick Boseman,Avengers: Infinity War,1
+nm1212722,Benedict Cumberbatch,nm0757855,Zoe Saldana,Avengers: Infinity War,1
+nm4043618,Tom Holland,nm1569276,Chadwick Boseman,Avengers: Infinity War,1
+nm4043618,Tom Holland,nm0757855,Zoe Saldana,Avengers: Infinity War,1
+nm1569276,Chadwick Boseman,nm0757855,Zoe Saldana,Avengers: Infinity War,1
+nm0000375,Robert Downey Jr.,nm0262635,Chris Evans,Avengers: Endgame,1
+nm0000375,Robert Downey Jr.,nm0749263,Mark Ruffalo,Avengers: Endgame,1
+nm0000375,Robert Downey Jr.,nm1165110,Chris Hemsworth,Avengers: Endgame,1
+nm0000375,Robert Downey Jr.,nm0424060,Scarlett Johansson,Avengers: Endgame,1
+nm0000375,Robert Downey Jr.,nm0719637,Jeremy Renner,Avengers: Endgame,1
+nm0000375,Robert Downey Jr.,nm0000332,Don Cheadle,Avengers: Endgame,1
+nm0000375,Robert Downey Jr.,nm0748620,Paul Rudd,Avengers: Endgame,1
+nm0000375,Robert Downey Jr.,nm1212722,Benedict Cumberbatch,Avengers: Endgame,1
+nm0000375,Robert Downey Jr.,nm1569276,Chadwick Boseman,Avengers: Endgame,1
+nm0262635,Chris Evans,nm0749263,Mark Ruffalo,Avengers: Endgame,1
+nm0262635,Chris Evans,nm1165110,Chris Hemsworth,Avengers: Endgame,1
+nm0262635,Chris Evans,nm0424060,Scarlett Johansson,Avengers: Endgame,1
+nm0262635,Chris Evans,nm0719637,Jeremy Renner,Avengers: Endgame,1
+nm0262635,Chris Evans,nm0000332,Don Cheadle,Avengers: Endgame,1
+nm0262635,Chris Evans,nm0748620,Paul Rudd,Avengers: Endgame,1
+nm0262635,Chris Evans,nm1212722,Benedict Cumberbatch,Avengers: Endgame,1
+nm0262635,Chris Evans,nm1569276,Chadwick Boseman,Avengers: Endgame,1
+nm0749263,Mark Ruffalo,nm1165110,Chris Hemsworth,Avengers: Endgame,1
+nm0749263,Mark Ruffalo,nm0424060,Scarlett Johansson,Avengers: Endgame,1
+nm0749263,Mark Ruffalo,nm0719637,Jeremy Renner,Avengers: Endgame,1
+nm0749263,Mark Ruffalo,nm0000332,Don Cheadle,Avengers: Endgame,1
+nm0749263,Mark Ruffalo,nm0748620,Paul Rudd,Avengers: Endgame,1
+nm0749263,Mark Ruffalo,nm1212722,Benedict Cumberbatch,Avengers: Endgame,1
+nm0749263,Mark Ruffalo,nm1569276,Chadwick Boseman,Avengers: Endgame,1
+nm1165110,Chris Hemsworth,nm0424060,Scarlett Johansson,Avengers: Endgame,1
+nm1165110,Chris Hemsworth,nm0719637,Jeremy Renner,Avengers: Endgame,1
+nm1165110,Chris Hemsworth,nm0000332,Don Cheadle,Avengers: Endgame,1
+nm1165110,Chris Hemsworth,nm0748620,Paul Rudd,Avengers: Endgame,1
+nm1165110,Chris Hemsworth,nm1212722,Benedict Cumberbatch,Avengers: Endgame,1
+nm1165110,Chris Hemsworth,nm1569276,Chadwick Boseman,Avengers: Endgame,1
+nm0424060,Scarlett Johansson,nm0719637,Jeremy Renner,Avengers: Endgame,1
+nm0424060,Scarlett Johansson,nm0000332,Don Cheadle,Avengers: Endgame,1
+nm0424060,Scarlett Johansson,nm0748620,Paul Rudd,Avengers: Endgame,1
+nm0424060,Scarlett Johansson,nm1212722,Benedict Cumberbatch,Avengers: Endgame,1
+nm0424060,Scarlett Johansson,nm1569276,Chadwick Boseman,Avengers: Endgame,1
+nm0719637,Jeremy Renner,nm0000332,Don Cheadle,Avengers: Endgame,1
+nm0719637,Jeremy Renner,nm0748620,Paul Rudd,Avengers: Endgame,1
+nm0719637,Jeremy Renner,nm1212722,Benedict Cumberbatch,Avengers: Endgame,1
+nm0719637,Jeremy Renner,nm1569276,Chadwick Boseman,Avengers: Endgame,1
+nm0000332,Don Cheadle,nm0748620,Paul Rudd,Avengers: Endgame,1
+nm0000332,Don Cheadle,nm1212722,Benedict Cumberbatch,Avengers: Endgame,1
+nm0000332,Don Cheadle,nm1569276,Chadwick Boseman,Avengers: Endgame,1
+nm0748620,Paul Rudd,nm1212722,Benedict Cumberbatch,Avengers: Endgame,1
+nm0748620,Paul Rudd,nm1569276,Chadwick Boseman,Avengers: Endgame,1
+nm1212722,Benedict Cumberbatch,nm1569276,Chadwick Boseman,Avengers: Endgame,1
+nm0005351,Ryan Reynolds,nm0413168,Hugh Jackman,Deadpool & Wolverine,1
+nm0005351,Ryan Reynolds,nm10128408,Emma Corrin,Deadpool & Wolverine,1
+nm0005351,Ryan Reynolds,nm0532193,Matthew Macfadyen,Deadpool & Wolverine,1
+nm0005351,Ryan Reynolds,nm6748436,Dafne Keen,Deadpool & Wolverine,1
+nm0005351,Ryan Reynolds,nm0269463,Jon Favreau,Deadpool & Wolverine,1
+nm0005351,Ryan Reynolds,nm1072555,Morena Baccarin,Deadpool & Wolverine,1
+nm0005351,Ryan Reynolds,nm3008739,Rob Delaney,Deadpool & Wolverine,1
+nm0005351,Ryan Reynolds,nm0880081,Leslie Uggams,Deadpool & Wolverine,1
+nm0005351,Ryan Reynolds,nm0004950,Jennifer Garner,Deadpool & Wolverine,1
+nm0413168,Hugh Jackman,nm10128408,Emma Corrin,Deadpool & Wolverine,1
+nm0413168,Hugh Jackman,nm0532193,Matthew Macfadyen,Deadpool & Wolverine,1
+nm0413168,Hugh Jackman,nm6748436,Dafne Keen,Deadpool & Wolverine,1
+nm0413168,Hugh Jackman,nm0269463,Jon Favreau,Deadpool & Wolverine,1
+nm0413168,Hugh Jackman,nm1072555,Morena Baccarin,Deadpool & Wolverine,1
+nm0413168,Hugh Jackman,nm3008739,Rob Delaney,Deadpool & Wolverine,1
+nm0413168,Hugh Jackman,nm0880081,Leslie Uggams,Deadpool & Wolverine,1
+nm0413168,Hugh Jackman,nm0004950,Jennifer Garner,Deadpool & Wolverine,1
+nm10128408,Emma Corrin,nm0532193,Matthew Macfadyen,Deadpool & Wolverine,1
+nm10128408,Emma Corrin,nm6748436,Dafne Keen,Deadpool & Wolverine,1
+nm10128408,Emma Corrin,nm0269463,Jon Favreau,Deadpool & Wolverine,1
+nm10128408,Emma Corrin,nm1072555,Morena Baccarin,Deadpool & Wolverine,1
+nm10128408,Emma Corrin,nm3008739,Rob Delaney,Deadpool & Wolverine,1
+nm10128408,Emma Corrin,nm0880081,Leslie Uggams,Deadpool & Wolverine,1
+nm10128408,Emma Corrin,nm0004950,Jennifer Garner,Deadpool & Wolverine,1
+nm0532193,Matthew Macfadyen,nm6748436,Dafne Keen,Deadpool & Wolverine,1
+nm0532193,Matthew Macfadyen,nm0269463,Jon Favreau,Deadpool & Wolverine,1
+nm0532193,Matthew Macfadyen,nm1072555,Morena Baccarin,Deadpool & Wolverine,1
+nm0532193,Matthew Macfadyen,nm3008739,Rob Delaney,Deadpool & Wolverine,1
+nm0532193,Matthew Macfadyen,nm0880081,Leslie Uggams,Deadpool & Wolverine,1
+nm0532193,Matthew Macfadyen,nm0004950,Jennifer Garner,Deadpool & Wolverine,1
+nm6748436,Dafne Keen,nm0269463,Jon Favreau,Deadpool & Wolverine,1
+nm6748436,Dafne Keen,nm1072555,Morena Baccarin,Deadpool & Wolverine,1
+nm6748436,Dafne Keen,nm3008739,Rob Delaney,Deadpool & Wolverine,1
+nm6748436,Dafne Keen,nm0880081,Leslie Uggams,Deadpool & Wolverine,1
+nm6748436,Dafne Keen,nm0004950,Jennifer Garner,Deadpool & Wolverine,1
+nm0269463,Jon Favreau,nm1072555,Morena Baccarin,Deadpool & Wolverine,1
+nm0269463,Jon Favreau,nm3008739,Rob Delaney,Deadpool & Wolverine,1
+nm0269463,Jon Favreau,nm0880081,Leslie Uggams,Deadpool & Wolverine,1
+nm0269463,Jon Favreau,nm0004950,Jennifer Garner,Deadpool & Wolverine,1
+nm1072555,Morena Baccarin,nm3008739,Rob Delaney,Deadpool & Wolverine,1
+nm1072555,Morena Baccarin,nm0880081,Leslie Uggams,Deadpool & Wolverine,1
+nm1072555,Morena Baccarin,nm0004950,Jennifer Garner,Deadpool & Wolverine,1
+nm3008739,Rob Delaney,nm0880081,Leslie Uggams,Deadpool & Wolverine,1
+nm3008739,Rob Delaney,nm0004950,Jennifer Garner,Deadpool & Wolverine,1
+nm0880081,Leslie Uggams,nm0004950,Jennifer Garner,Deadpool & Wolverine,1
+nm0695435,Chris Pratt,nm1030244,Chukwudi Iwuji,Guardians of the Galaxy Vol. 3,1
+nm0695435,Chris Pratt,nm0177896,Bradley Cooper,Guardians of the Galaxy Vol. 3,1
+nm0695435,Chris Pratt,nm2962353,Pom Klementieff,Guardians of the Galaxy Vol. 3,1
+nm0695435,Chris Pratt,nm1176985,Dave Bautista,Guardians of the Galaxy Vol. 3,1
+nm0695435,Chris Pratt,nm2394794,Karen Gillan,Guardians of the Galaxy Vol. 3,1
+nm0695435,Chris Pratt,nm0004874,Vin Diesel,Guardians of the Galaxy Vol. 3,1
+nm0695435,Chris Pratt,nm5837211,Austin Freeman,Guardians of the Galaxy Vol. 3,1
+nm0695435,Chris Pratt,nm0002888,Stephen Blackehart,Guardians of the Galaxy Vol. 3,1
+nm0695435,Chris Pratt,nm0741893,Terence Rosemore,Guardians of the Galaxy Vol. 3,1
+nm1030244,Chukwudi Iwuji,nm0177896,Bradley Cooper,Guardians of the Galaxy Vol. 3,1
+nm1030244,Chukwudi Iwuji,nm2962353,Pom Klementieff,Guardians of the Galaxy Vol. 3,1
+nm1030244,Chukwudi Iwuji,nm1176985,Dave Bautista,Guardians of the Galaxy Vol. 3,1
+nm1030244,Chukwudi Iwuji,nm2394794,Karen Gillan,Guardians of the Galaxy Vol. 3,1
+nm1030244,Chukwudi Iwuji,nm0004874,Vin Diesel,Guardians of the Galaxy Vol. 3,1
+nm1030244,Chukwudi Iwuji,nm5837211,Austin Freeman,Guardians of the Galaxy Vol. 3,1
+nm1030244,Chukwudi Iwuji,nm0002888,Stephen Blackehart,Guardians of the Galaxy Vol. 3,1
+nm1030244,Chukwudi Iwuji,nm0741893,Terence Rosemore,Guardians of the Galaxy Vol. 3,1
+nm0177896,Bradley Cooper,nm2962353,Pom Klementieff,Guardians of the Galaxy Vol. 3,1
+nm0177896,Bradley Cooper,nm1176985,Dave Bautista,Guardians of the Galaxy Vol. 3,1
+nm0177896,Bradley Cooper,nm2394794,Karen Gillan,Guardians of the Galaxy Vol. 3,1
+nm0177896,Bradley Cooper,nm0004874,Vin Diesel,Guardians of the Galaxy Vol. 3,1
+nm0177896,Bradley Cooper,nm5837211,Austin Freeman,Guardians of the Galaxy Vol. 3,1
+nm0177896,Bradley Cooper,nm0002888,Stephen Blackehart,Guardians of the Galaxy Vol. 3,1
+nm0177896,Bradley Cooper,nm0741893,Terence Rosemore,Guardians of the Galaxy Vol. 3,1
+nm2962353,Pom Klementieff,nm1176985,Dave Bautista,Guardians of the Galaxy Vol. 3,1
+nm2962353,Pom Klementieff,nm2394794,Karen Gillan,Guardians of the Galaxy Vol. 3,1
+nm2962353,Pom Klementieff,nm0004874,Vin Diesel,Guardians of the Galaxy Vol. 3,1
+nm2962353,Pom Klementieff,nm5837211,Austin Freeman,Guardians of the Galaxy Vol. 3,1
+nm2962353,Pom Klementieff,nm0002888,Stephen Blackehart,Guardians of the Galaxy Vol. 3,1
+nm2962353,Pom Klementieff,nm0741893,Terence Rosemore,Guardians of the Galaxy Vol. 3,1
+nm1176985,Dave Bautista,nm2394794,Karen Gillan,Guardians of the Galaxy Vol. 3,1
+nm1176985,Dave Bautista,nm0004874,Vin Diesel,Guardians of the Galaxy Vol. 3,1
+nm1176985,Dave Bautista,nm5837211,Austin Freeman,Guardians of the Galaxy Vol. 3,1
+nm1176985,Dave Bautista,nm0002888,Stephen Blackehart,Guardians of the Galaxy Vol. 3,1
+nm1176985,Dave Bautista,nm0741893,Terence Rosemore,Guardians of the Galaxy Vol. 3,1
+nm2394794,Karen Gillan,nm0004874,Vin Diesel,Guardians of the Galaxy Vol. 3,1
+nm2394794,Karen Gillan,nm5837211,Austin Freeman,Guardians of the Galaxy Vol. 3,1
+nm2394794,Karen Gillan,nm0002888,Stephen Blackehart,Guardians of the Galaxy Vol. 3,1
+nm2394794,Karen Gillan,nm0741893,Terence Rosemore,Guardians of the Galaxy Vol. 3,1
+nm0004874,Vin Diesel,nm5837211,Austin Freeman,Guardians of the Galaxy Vol. 3,1
+nm0004874,Vin Diesel,nm0002888,Stephen Blackehart,Guardians of the Galaxy Vol. 3,1
+nm0004874,Vin Diesel,nm0741893,Terence Rosemore,Guardians of the Galaxy Vol. 3,1
+nm5837211,Austin Freeman,nm0002888,Stephen Blackehart,Guardians of the Galaxy Vol. 3,1
+nm5837211,Austin Freeman,nm0741893,Terence Rosemore,Guardians of the Galaxy Vol. 3,1
+nm0002888,Stephen Blackehart,nm0741893,Terence Rosemore,Guardians of the Galaxy Vol. 3,1
+nm2110418,Gemma Chan,nm0534635,Richard Madden,Eternals,1
+nm2110418,Gemma Chan,nm0001401,Angelina Jolie,Eternals,1
+nm2110418,Gemma Chan,nm0000161,Salma Hayek,Eternals,1
+nm2110418,Gemma Chan,nm3229685,Kit Harington,Eternals,1
+nm2110418,Gemma Chan,nm3529685,Kumail Nanjiani,Eternals,1
+nm2110418,Gemma Chan,nm7186321,Lia McHugh,Eternals,1
+nm2110418,Gemma Chan,nm3109964,Brian Tyree Henry,Eternals,1
+nm2110418,Gemma Chan,nm4248765,Lauren Ridloff,Eternals,1
+nm2110418,Gemma Chan,nm4422686,Barry Keoghan,Eternals,1
+nm0534635,Richard Madden,nm0001401,Angelina Jolie,Eternals,1
+nm0534635,Richard Madden,nm0000161,Salma Hayek,Eternals,1
+nm0534635,Richard Madden,nm3229685,Kit Harington,Eternals,1
+nm0534635,Richard Madden,nm3529685,Kumail Nanjiani,Eternals,1
+nm0534635,Richard Madden,nm7186321,Lia McHugh,Eternals,1
+nm0534635,Richard Madden,nm3109964,Brian Tyree Henry,Eternals,1
+nm0534635,Richard Madden,nm4248765,Lauren Ridloff,Eternals,1
+nm0534635,Richard Madden,nm4422686,Barry Keoghan,Eternals,1
+nm0001401,Angelina Jolie,nm0000161,Salma Hayek,Eternals,1
+nm0001401,Angelina Jolie,nm3229685,Kit Harington,Eternals,1
+nm0001401,Angelina Jolie,nm3529685,Kumail Nanjiani,Eternals,1
+nm0001401,Angelina Jolie,nm7186321,Lia McHugh,Eternals,1
+nm0001401,Angelina Jolie,nm3109964,Brian Tyree Henry,Eternals,1
+nm0001401,Angelina Jolie,nm4248765,Lauren Ridloff,Eternals,1
+nm0001401,Angelina Jolie,nm4422686,Barry Keoghan,Eternals,1
+nm0000161,Salma Hayek,nm3229685,Kit Harington,Eternals,1
+nm0000161,Salma Hayek,nm3529685,Kumail Nanjiani,Eternals,1
+nm0000161,Salma Hayek,nm7186321,Lia McHugh,Eternals,1
+nm0000161,Salma Hayek,nm3109964,Brian Tyree Henry,Eternals,1
+nm0000161,Salma Hayek,nm4248765,Lauren Ridloff,Eternals,1
+nm0000161,Salma Hayek,nm4422686,Barry Keoghan,Eternals,1
+nm3229685,Kit Harington,nm3529685,Kumail Nanjiani,Eternals,1
+nm3229685,Kit Harington,nm7186321,Lia McHugh,Eternals,1
+nm3229685,Kit Harington,nm3109964,Brian Tyree Henry,Eternals,1
+nm3229685,Kit Harington,nm4248765,Lauren Ridloff,Eternals,1
+nm3229685,Kit Harington,nm4422686,Barry Keoghan,Eternals,1
+nm3529685,Kumail Nanjiani,nm7186321,Lia McHugh,Eternals,1
+nm3529685,Kumail Nanjiani,nm3109964,Brian Tyree Henry,Eternals,1
+nm3529685,Kumail Nanjiani,nm4248765,Lauren Ridloff,Eternals,1
+nm3529685,Kumail Nanjiani,nm4422686,Barry Keoghan,Eternals,1
+nm7186321,Lia McHugh,nm3109964,Brian Tyree Henry,Eternals,1
+nm7186321,Lia McHugh,nm4248765,Lauren Ridloff,Eternals,1
+nm7186321,Lia McHugh,nm4422686,Barry Keoghan,Eternals,1
+nm3109964,Brian Tyree Henry,nm4248765,Lauren Ridloff,Eternals,1
+nm3109964,Brian Tyree Henry,nm4422686,Barry Keoghan,Eternals,1
+nm4248765,Lauren Ridloff,nm4422686,Barry Keoghan,Eternals,1
+nm4004793,Letitia Wright,nm2143282,Lupita Nyong'o,Black Panther: Wakanda Forever,1
+nm4004793,Letitia Wright,nm1775091,Danai Gurira,Black Panther: Wakanda Forever,1
+nm4004793,Letitia Wright,nm6328300,Winston Duke,Black Panther: Wakanda Forever,1
+nm4004793,Letitia Wright,nm0000291,Angela Bassett,Black Panther: Wakanda Forever,1
+nm4004793,Letitia Wright,nm2204178,Tenoch Huerta,Black Panther: Wakanda Forever,1
+nm4004793,Letitia Wright,nm0293509,Martin Freeman,Black Panther: Wakanda Forever,1
+nm4004793,Letitia Wright,nm0000506,Julia Louis-Dreyfus,Black Panther: Wakanda Forever,1
+nm4004793,Letitia Wright,nm9584861,Dominique Thorne,Black Panther: Wakanda Forever,1
+nm4004793,Letitia Wright,nm0441042,Florence Kasumba,Black Panther: Wakanda Forever,1
+nm2143282,Lupita Nyong'o,nm1775091,Danai Gurira,Black Panther: Wakanda Forever,1
+nm2143282,Lupita Nyong'o,nm6328300,Winston Duke,Black Panther: Wakanda Forever,1
+nm2143282,Lupita Nyong'o,nm0000291,Angela Bassett,Black Panther: Wakanda Forever,1
+nm2143282,Lupita Nyong'o,nm2204178,Tenoch Huerta,Black Panther: Wakanda Forever,1
+nm2143282,Lupita Nyong'o,nm0293509,Martin Freeman,Black Panther: Wakanda Forever,1
+nm2143282,Lupita Nyong'o,nm0000506,Julia Louis-Dreyfus,Black Panther: Wakanda Forever,1
+nm2143282,Lupita Nyong'o,nm9584861,Dominique Thorne,Black Panther: Wakanda Forever,1
+nm2143282,Lupita Nyong'o,nm0441042,Florence Kasumba,Black Panther: Wakanda Forever,1
+nm1775091,Danai Gurira,nm6328300,Winston Duke,Black Panther: Wakanda Forever,1
+nm1775091,Danai Gurira,nm0000291,Angela Bassett,Black Panther: Wakanda Forever,1
+nm1775091,Danai Gurira,nm2204178,Tenoch Huerta,Black Panther: Wakanda Forever,1
+nm1775091,Danai Gurira,nm0293509,Martin Freeman,Black Panther: Wakanda Forever,1
+nm1775091,Danai Gurira,nm0000506,Julia Louis-Dreyfus,Black Panther: Wakanda Forever,1
+nm1775091,Danai Gurira,nm9584861,Dominique Thorne,Black Panther: Wakanda Forever,1
+nm1775091,Danai Gurira,nm0441042,Florence Kasumba,Black Panther: Wakanda Forever,1
+nm6328300,Winston Duke,nm0000291,Angela Bassett,Black Panther: Wakanda Forever,1
+nm6328300,Winston Duke,nm2204178,Tenoch Huerta,Black Panther: Wakanda Forever,1
+nm6328300,Winston Duke,nm0293509,Martin Freeman,Black Panther: Wakanda Forever,1
+nm6328300,Winston Duke,nm0000506,Julia Louis-Dreyfus,Black Panther: Wakanda Forever,1
+nm6328300,Winston Duke,nm9584861,Dominique Thorne,Black Panther: Wakanda Forever,1
+nm6328300,Winston Duke,nm0441042,Florence Kasumba,Black Panther: Wakanda Forever,1
+nm0000291,Angela Bassett,nm2204178,Tenoch Huerta,Black Panther: Wakanda Forever,1
+nm0000291,Angela Bassett,nm0293509,Martin Freeman,Black Panther: Wakanda Forever,1
+nm0000291,Angela Bassett,nm0000506,Julia Louis-Dreyfus,Black Panther: Wakanda Forever,1
+nm0000291,Angela Bassett,nm9584861,Dominique Thorne,Black Panther: Wakanda Forever,1
+nm0000291,Angela Bassett,nm0441042,Florence Kasumba,Black Panther: Wakanda Forever,1
+nm2204178,Tenoch Huerta,nm0293509,Martin Freeman,Black Panther: Wakanda Forever,1
+nm2204178,Tenoch Huerta,nm0000506,Julia Louis-Dreyfus,Black Panther: Wakanda Forever,1
+nm2204178,Tenoch Huerta,nm9584861,Dominique Thorne,Black Panther: Wakanda Forever,1
+nm2204178,Tenoch Huerta,nm0441042,Florence Kasumba,Black Panther: Wakanda Forever,1
+nm0293509,Martin Freeman,nm0000506,Julia Louis-Dreyfus,Black Panther: Wakanda Forever,1
+nm0293509,Martin Freeman,nm9584861,Dominique Thorne,Black Panther: Wakanda Forever,1
+nm0293509,Martin Freeman,nm0441042,Florence Kasumba,Black Panther: Wakanda Forever,1
+nm0000506,Julia Louis-Dreyfus,nm9584861,Dominique Thorne,Black Panther: Wakanda Forever,1
+nm0000506,Julia Louis-Dreyfus,nm0441042,Florence Kasumba,Black Panther: Wakanda Forever,1
+nm9584861,Dominique Thorne,nm0441042,Florence Kasumba,Black Panther: Wakanda Forever,1
+nm1212722,Benedict Cumberbatch,nm0647634,Elizabeth Olsen,Doctor Strange in the Multiverse of Madness,1
+nm1212722,Benedict Cumberbatch,nm0252230,Chiwetel Ejiofor,Doctor Strange in the Multiverse of Madness,1
+nm1212722,Benedict Cumberbatch,nm0938950,Benedict Wong,Doctor Strange in the Multiverse of Madness,1
+nm1212722,Benedict Cumberbatch,nm7961780,Xochitl Gomez,Doctor Strange in the Multiverse of Madness,1
+nm1212722,Benedict Cumberbatch,nm1046097,Rachel McAdams,Doctor Strange in the Multiverse of Madness,1
+nm1212722,Benedict Cumberbatch,nm4810527,Jett Klyne,Doctor Strange in the Multiverse of Madness,1
+nm1212722,Benedict Cumberbatch,nm6623135,Julian Hilliard,Doctor Strange in the Multiverse of Madness,1
+nm1212722,Benedict Cumberbatch,nm0836121,Michael Stuhlbarg,Doctor Strange in the Multiverse of Madness,1
+nm1212722,Benedict Cumberbatch,nm2017943,Hayley Atwell,Doctor Strange in the Multiverse of Madness,1
+nm0647634,Elizabeth Olsen,nm0252230,Chiwetel Ejiofor,Doctor Strange in the Multiverse of Madness,1
+nm0647634,Elizabeth Olsen,nm0938950,Benedict Wong,Doctor Strange in the Multiverse of Madness,1
+nm0647634,Elizabeth Olsen,nm7961780,Xochitl Gomez,Doctor Strange in the Multiverse of Madness,1
+nm0647634,Elizabeth Olsen,nm1046097,Rachel McAdams,Doctor Strange in the Multiverse of Madness,1
+nm0647634,Elizabeth Olsen,nm4810527,Jett Klyne,Doctor Strange in the Multiverse of Madness,1
+nm0647634,Elizabeth Olsen,nm6623135,Julian Hilliard,Doctor Strange in the Multiverse of Madness,1
+nm0647634,Elizabeth Olsen,nm0836121,Michael Stuhlbarg,Doctor Strange in the Multiverse of Madness,1
+nm0647634,Elizabeth Olsen,nm2017943,Hayley Atwell,Doctor Strange in the Multiverse of Madness,1
+nm0252230,Chiwetel Ejiofor,nm0938950,Benedict Wong,Doctor Strange in the Multiverse of Madness,1
+nm0252230,Chiwetel Ejiofor,nm7961780,Xochitl Gomez,Doctor Strange in the Multiverse of Madness,1
+nm0252230,Chiwetel Ejiofor,nm1046097,Rachel McAdams,Doctor Strange in the Multiverse of Madness,1
+nm0252230,Chiwetel Ejiofor,nm4810527,Jett Klyne,Doctor Strange in the Multiverse of Madness,1
+nm0252230,Chiwetel Ejiofor,nm6623135,Julian Hilliard,Doctor Strange in the Multiverse of Madness,1
+nm0252230,Chiwetel Ejiofor,nm0836121,Michael Stuhlbarg,Doctor Strange in the Multiverse of Madness,1
+nm0252230,Chiwetel Ejiofor,nm2017943,Hayley Atwell,Doctor Strange in the Multiverse of Madness,1
+nm0938950,Benedict Wong,nm7961780,Xochitl Gomez,Doctor Strange in the Multiverse of Madness,1
+nm0938950,Benedict Wong,nm1046097,Rachel McAdams,Doctor Strange in the Multiverse of Madness,1
+nm0938950,Benedict Wong,nm4810527,Jett Klyne,Doctor Strange in the Multiverse of Madness,1
+nm0938950,Benedict Wong,nm6623135,Julian Hilliard,Doctor Strange in the Multiverse of Madness,1
+nm0938950,Benedict Wong,nm0836121,Michael Stuhlbarg,Doctor Strange in the Multiverse of Madness,1
+nm0938950,Benedict Wong,nm2017943,Hayley Atwell,Doctor Strange in the Multiverse of Madness,1
+nm7961780,Xochitl Gomez,nm1046097,Rachel McAdams,Doctor Strange in the Multiverse of Madness,1
+nm7961780,Xochitl Gomez,nm4810527,Jett Klyne,Doctor Strange in the Multiverse of Madness,1
+nm7961780,Xochitl Gomez,nm6623135,Julian Hilliard,Doctor Strange in the Multiverse of Madness,1
+nm7961780,Xochitl Gomez,nm0836121,Michael Stuhlbarg,Doctor Strange in the Multiverse of Madness,1
+nm7961780,Xochitl Gomez,nm2017943,Hayley Atwell,Doctor Strange in the Multiverse of Madness,1
+nm1046097,Rachel McAdams,nm4810527,Jett Klyne,Doctor Strange in the Multiverse of Madness,1
+nm1046097,Rachel McAdams,nm6623135,Julian Hilliard,Doctor Strange in the Multiverse of Madness,1
+nm1046097,Rachel McAdams,nm0836121,Michael Stuhlbarg,Doctor Strange in the Multiverse of Madness,1
+nm1046097,Rachel McAdams,nm2017943,Hayley Atwell,Doctor Strange in the Multiverse of Madness,1
+nm4810527,Jett Klyne,nm6623135,Julian Hilliard,Doctor Strange in the Multiverse of Madness,1
+nm4810527,Jett Klyne,nm0836121,Michael Stuhlbarg,Doctor Strange in the Multiverse of Madness,1
+nm4810527,Jett Klyne,nm2017943,Hayley Atwell,Doctor Strange in the Multiverse of Madness,1
+nm6623135,Julian Hilliard,nm0836121,Michael Stuhlbarg,Doctor Strange in the Multiverse of Madness,1
+nm6623135,Julian Hilliard,nm2017943,Hayley Atwell,Doctor Strange in the Multiverse of Madness,1
+nm0836121,Michael Stuhlbarg,nm2017943,Hayley Atwell,Doctor Strange in the Multiverse of Madness,1
