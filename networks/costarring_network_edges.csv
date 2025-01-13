@@ -1,4 +1,4 @@
-source;source_name;target;target_name;weight;type
+source;source_name;target;target_name;relationship;type
 nm0000949;Cate Blanchett;nm0935653;Ray Winstone;-1;undirected
 nm0695435;Chris Pratt;nm0339460;Judy Greer;-1;undirected
 nm0001838;Rachel Weisz;nm0001804;Stanley Tucci;-1;undirected
@@ -10,25 +10,21 @@ nm1093951;Aaron Taylor-Johnson;nm2810287;David Dastmalchian;-1;undirected
 nm0000195;Bill Murray;nm0000353;Willem Dafoe;-1;undirected
 nm0413168;Hugh Jackman;nm1431940;Evangeline Lilly;-1;undirected
 nm0413168;Hugh Jackman;nm1107001;Anthony Mackie;-1;undirected
-nm0000474;Michael Keaton;nm0000474;Michael Keaton;-1;undirected
 nm0000652;James Spader;nm0000169;Tommy Lee Jones;-1;undirected
 nm0757855;Zoe Saldana;nm0000458;William Hurt;-1;undirected
 nm1157048;Zachary Levi;nm0005023;Djimon Hounsou;-1;undirected
 nm0000604;John C. Reilly;nm0000161;Salma Hayek;-1;undirected
 nm0000604;John C. Reilly;nm0829032;Ray Stevenson;-1;undirected
 nm0000161;Salma Hayek;nm0829032;Ray Stevenson;-1;undirected
-nm0413168;Hugh Jackman;nm0413168;Hugh Jackman;-1;undirected
 nm0413168;Hugh Jackman;nm0005351;Ryan Reynolds;-1;undirected
 nm0413168;Hugh Jackman;nm0005351;Ryan Reynolds;-1;undirected
 nm0262635;Chris Evans;nm0005023;Djimon Hounsou;-1;undirected
 nm0000204;Natalie Portman;nm0424060;Scarlett Johansson;-1;undirected
 nm0000204;Natalie Portman;nm1212722;Benedict Cumberbatch;-1;undirected
-nm0000288;Christian Bale;nm0000288;Christian Bale;-1;undirected
 nm0350453;Jake Gyllenhaal;nm0000547;Alfred Molina;-1;undirected
 nm0000128;Russell Crowe;nm1046097;Rachel McAdams;-1;undirected
 nm0424060;Scarlett Johansson;nm0842770;Tilda Swinton;-1;undirected
 nm0424060;Scarlett Johansson;nm0842770;Tilda Swinton;-1;undirected
-nm0842770;Tilda Swinton;nm0842770;Tilda Swinton;-1;undirected
 nm0000156;Jeff Goldblum;nm0000353;Willem Dafoe;-1;undirected
 nm0252961;Idris Elba;nm0757855;Zoe Saldana;-1;undirected
 nm0252961;Idris Elba;nm0262635;Chris Evans;-1;undirected
@@ -65,12 +61,10 @@ nm1107001;Anthony Mackie;nm1431940;Evangeline Lilly;-1;undirected
 nm0915989;Hugo Weaving;nm0339460;Judy Greer;-1;undirected
 nm0293509;Martin Freeman;nm0035514;Richard Armitage;-1;undirected
 nm0001401;Angelina Jolie;nm0252230;Chiwetel Ejiofor;-1;undirected
-nm0000204;Natalie Portman;nm0000204;Natalie Portman;-1;undirected
 nm0000204;Natalie Portman;nm1659221;Sebastian Stan;-1;undirected
 nm0000204;Natalie Portman;nm1659221;Sebastian Stan;-1;undirected
 nm0000204;Natalie Portman;nm1659221;Sebastian Stan;-1;undirected
 nm0000204;Natalie Portman;nm1659221;Sebastian Stan;-1;undirected
-nm1659221;Sebastian Stan;nm1659221;Sebastian Stan;-1;undirected
 nm0000128;Russell Crowe;nm0000949;Cate Blanchett;-1;undirected
 nm0000128;Russell Crowe;nm0532193;Matthew Macfadyen;-1;undirected
 nm0000128;Russell Crowe;nm0000458;William Hurt;-1;undirected
@@ -92,18 +86,11 @@ nm0000179;Jude Law;nm1046097;Rachel McAdams;-1;undirected
 nm0134072;Bobby Cannavale;nm2962353;Pom Klementieff;-1;undirected
 nm0001804;Stanley Tucci;nm0134072;Bobby Cannavale;-1;undirected
 nm0262635;Chris Evans;nm0169806;Taika Waititi;-1;undirected
-nm0842770;Tilda Swinton;nm0842770;Tilda Swinton;-1;undirected
-nm0842770;Tilda Swinton;nm0842770;Tilda Swinton;-1;undirected
-nm0842770;Tilda Swinton;nm0842770;Tilda Swinton;-1;undirected
-nm0757855;Zoe Saldana;nm0757855;Zoe Saldana;-1;undirected
 nm6328300;Winston Duke;nm0938950;Benedict Wong;-1;undirected
-nm0001172;Christopher Eccleston;nm0001172;Christopher Eccleston;-1;undirected
 nm1212722;Benedict Cumberbatch;nm0429363;Toby Jones;-1;undirected
 nm6073955;Florence Pugh;nm2110418;Gemma Chan;-1;undirected
-nm1659221;Sebastian Stan;nm1659221;Sebastian Stan;-1;undirected
 nm1107001;Anthony Mackie;nm0740264;Michael Rooker;-1;undirected
 nm0000652;James Spader;nm0993507;Kat Dennings;-1;undirected
-nm0000313;Jeff Bridges;nm0000313;Jeff Bridges;-1;undirected
 nm0324658;Walton Goggins;nm0350453;Jake Gyllenhaal;-1;undirected
 nm0430107;Michael B. Jordan;nm1935086;Tessa Thompson;-1;undirected
 nm0430107;Michael B. Jordan;nm3718007;Jonathan Majors;-1;undirected
@@ -114,22 +101,18 @@ nm3229685;Kit Harington;nm0005023;Djimon Hounsou;-1;undirected
 nm0000906;Annette Bening;nm0000168;Samuel L. Jackson;-1;undirected
 nm0000620;Mickey Rourke;nm0000673;Marisa Tomei;-1;undirected
 nm0079273;Paul Bettany;nm0339460;Judy Greer;-1;undirected
-nm0005351;Ryan Reynolds;nm0005351;Ryan Reynolds;-1;undirected
 nm0005351;Ryan Reynolds;nm0169806;Taika Waititi;-1;undirected
 nm0005351;Ryan Reynolds;nm0000291;Angela Bassett;-1;undirected
 nm0005351;Ryan Reynolds;nm0169806;Taika Waititi;-1;undirected
 nm0005351;Ryan Reynolds;nm0000291;Angela Bassett;-1;undirected
 nm0169806;Taika Waititi;nm0000291;Angela Bassett;-1;undirected
 nm0252961;Idris Elba;nm1939267;Tip 'T.I.' Harris;-1;undirected
-nm0001570;Edward Norton;nm0001570;Edward Norton;-1;undirected
 nm0000332;Don Cheadle;nm1092086;David Harbour;-1;undirected
 nm0748620;Paul Rudd;nm0269463;Jon Favreau;-1;undirected
 nm0001570;Edward Norton;nm1176985;Dave Bautista;-1;undirected
 nm3918035;Zendaya;nm0001745;Stellan Skarsgård;-1;undirected
-nm0740264;Michael Rooker;nm0740264;Michael Rooker;-1;undirected
 nm0000164;Anthony Hopkins;nm0429363;Toby Jones;-1;undirected
 nm0293509;Martin Freeman;nm0035514;Richard Armitage;-1;undirected
-nm0000620;Mickey Rourke;nm0000620;Mickey Rourke;-1;undirected
 nm0005377;Sam Rockwell;nm0938950;Benedict Wong;-1;undirected
 nm0000673;Marisa Tomei;nm0671567;Michael Peña;-1;undirected
 nm0000547;Alfred Molina;nm0935653;Ray Winstone;-1;undirected
@@ -144,7 +127,6 @@ nm0000288;Christian Bale;nm0757855;Zoe Saldana;-1;undirected
 nm0429363;Toby Jones;nm1534698;Zawe Ashton;-1;undirected
 nm0000230;Sylvester Stallone;nm0846687;Faran Tahir;-1;undirected
 nm0000458;William Hurt;nm0252230;Chiwetel Ejiofor;-1;undirected
-nm0915989;Hugo Weaving;nm0915989;Hugo Weaving;-1;undirected
 nm0000375;Robert Downey Jr.;nm0004937;Jamie Foxx;-1;undirected
 nm0000353;Willem Dafoe;nm0671567;Michael Peña;-1;undirected
 nm0000474;Michael Keaton;nm0000168;Samuel L. Jackson;-1;undirected
@@ -155,10 +137,8 @@ nm0177896;Bradley Cooper;nm1046097;Rachel McAdams;-1;undirected
 nm0177896;Bradley Cooper;nm0000195;Bill Murray;-1;undirected
 nm1046097;Rachel McAdams;nm0000195;Bill Murray;-1;undirected
 nm0177896;Bradley Cooper;nm0429363;Toby Jones;-1;undirected
-nm1093951;Aaron Taylor-Johnson;nm1093951;Aaron Taylor-Johnson;-1;undirected
 nm2110418;Gemma Chan;nm1030244;Chukwudi Iwuji;-1;undirected
 nm1093951;Aaron Taylor-Johnson;nm3109964;Brian Tyree Henry;-1;undirected
-nm1002641;Dominic Cooper;nm1002641;Dominic Cooper;-1;undirected
 nm2110418;Gemma Chan;nm1526352;Jaimie Alexander;-1;undirected
 nm2394794;Karen Gillan;nm0252230;Chiwetel Ejiofor;-1;undirected
 nm2394794;Karen Gillan;nm1089991;Tom Hiddleston;-1;undirected
@@ -175,16 +155,10 @@ nm0004937;Jamie Foxx;nm0012078;Scott Adkins;-1;undirected
 nm0000604;John C. Reilly;nm0000673;Marisa Tomei;-1;undirected
 nm2143282;Lupita Nyong'o;nm0005023;Djimon Hounsou;-1;undirected
 nm0935653;Ray Winstone;nm0000291;Angela Bassett;-1;undirected
-nm0000288;Christian Bale;nm0000288;Christian Bale;-1;undirected
 nm0004950;Jennifer Garner;nm0123092;Ty Burrell;-1;undirected
 nm1212722;Benedict Cumberbatch;nm1092086;David Harbour;-1;undirected
 nm2394794;Karen Gillan;nm3008739;Rob Delaney;-1;undirected
 nm0671567;Michael Peña;nm3008739;Rob Delaney;-1;undirected
-nm1157048;Zachary Levi;nm1157048;Zachary Levi;-1;undirected
-nm0915989;Hugo Weaving;nm0915989;Hugo Weaving;-1;undirected
-nm0915989;Hugo Weaving;nm0915989;Hugo Weaving;-1;undirected
-nm0915989;Hugo Weaving;nm0915989;Hugo Weaving;-1;undirected
-nm0000602;Robert Redford;nm0000602;Robert Redford;-1;undirected
 nm0000602;Robert Redford;nm0001804;Stanley Tucci;-1;undirected
 nm0000602;Robert Redford;nm0005024;Terrence Howard;-1;undirected
 nm0000602;Robert Redford;nm0001804;Stanley Tucci;-1;undirected
@@ -193,13 +167,11 @@ nm0001804;Stanley Tucci;nm0005024;Terrence Howard;-1;undirected
 nm0000474;Michael Keaton;nm0829032;Ray Stevenson;-1;undirected
 nm0000474;Michael Keaton;nm0000168;Samuel L. Jackson;-1;undirected
 nm0829032;Ray Stevenson;nm0000168;Samuel L. Jackson;-1;undirected
-nm0842770;Tilda Swinton;nm0842770;Tilda Swinton;-1;undirected
 nm0339460;Judy Greer;nm1195855;Lee Pace;-1;undirected
 nm0413168;Hugh Jackman;nm0350453;Jake Gyllenhaal;-1;undirected
 nm0413168;Hugh Jackman;nm0005024;Terrence Howard;-1;undirected
 nm0350453;Jake Gyllenhaal;nm0005024;Terrence Howard;-1;undirected
 nm0000620;Mickey Rourke;nm0000195;Bill Murray;-1;undirected
-nm1935086;Tessa Thompson;nm1935086;Tessa Thompson;-1;undirected
 nm0757855;Zoe Saldana;nm1212722;Benedict Cumberbatch;-1;undirected
 nm0757855;Zoe Saldana;nm0881631;Karl Urban;-1;undirected
 nm1212722;Benedict Cumberbatch;nm0881631;Karl Urban;-1;undirected
@@ -211,11 +183,8 @@ nm0000288;Christian Bale;nm0429363;Toby Jones;-1;undirected
 nm0424060;Scarlett Johansson;nm0001570;Edward Norton;-1;undirected
 nm0749263;Mark Ruffalo;nm0000353;Willem Dafoe;-1;undirected
 nm0000161;Salma Hayek;nm0293509;Martin Freeman;-1;undirected
-nm0005351;Ryan Reynolds;nm0005351;Ryan Reynolds;-1;undirected
-nm2810287;David Dastmalchian;nm2810287;David Dastmalchian;-1;undirected
 nm0413168;Hugh Jackman;nm0000179;Jude Law;-1;undirected
 nm0252961;Idris Elba;nm0938950;Benedict Wong;-1;undirected
-nm2204178;Tenoch Huerta;nm2204178;Tenoch Huerta;-1;undirected
 nm0740264;Michael Rooker;nm1385871;Olga Kurylenko;-1;undirected
 nm0413168;Hugh Jackman;nm3918035;Zendaya;-1;undirected
 nm0000156;Jeff Goldblum;nm0000168;Samuel L. Jackson;-1;undirected
@@ -239,13 +208,9 @@ nm0671567;Michael Peña;nm0005023;Djimon Hounsou;-1;undirected
 nm0000288;Christian Bale;nm0578853;Ben Mendelsohn;-1;undirected
 nm4810527;Jett Klyne;nm0035514;Richard Armitage;-1;undirected
 nm0005024;Terrence Howard;nm0000239;Liv Tyler;-1;undirected
-nm0005351;Ryan Reynolds;nm0005351;Ryan Reynolds;-1;undirected
-nm0005351;Ryan Reynolds;nm0005351;Ryan Reynolds;-1;undirected
-nm0005351;Ryan Reynolds;nm0005351;Ryan Reynolds;-1;undirected
 nm1212722;Benedict Cumberbatch;nm1089991;Tom Hiddleston;-1;undirected
 nm1385871;Olga Kurylenko;nm1046097;Rachel McAdams;-1;undirected
 nm0000179;Jude Law;nm0000569;Gwyneth Paltrow;-1;undirected
-nm0001745;Stellan Skarsgård;nm0001745;Stellan Skarsgård;-1;undirected
 nm0001745;Stellan Skarsgård;nm0586568;Mads Mikkelsen;-1;undirected
 nm0001745;Stellan Skarsgård;nm0586568;Mads Mikkelsen;-1;undirected
 nm1157048;Zachary Levi;nm0000547;Alfred Molina;-1;undirected
@@ -255,7 +220,6 @@ nm0342029;Frank Grillo;nm0012078;Scott Adkins;-1;undirected
 nm0000161;Salma Hayek;nm0000547;Alfred Molina;-1;undirected
 nm0000604;John C. Reilly;nm0046223;Sayed Badreya;-1;undirected
 nm0000949;Cate Blanchett;nm0005023;Djimon Hounsou;-1;undirected
-nm1093951;Aaron Taylor-Johnson;nm1093951;Aaron Taylor-Johnson;-1;undirected
 nm0000949;Cate Blanchett;nm0534635;Richard Madden;-1;undirected
 nm0000949;Cate Blanchett;nm0001745;Stellan Skarsgård;-1;undirected
 nm0534635;Richard Madden;nm0001745;Stellan Skarsgård;-1;undirected
@@ -265,7 +229,6 @@ nm0001838;Rachel Weisz;nm0000164;Anthony Hopkins;-1;undirected
 nm0000179;Jude Law;nm0000164;Anthony Hopkins;-1;undirected
 nm0342029;Frank Grillo;nm1526352;Jaimie Alexander;-1;undirected
 nm1093951;Aaron Taylor-Johnson;nm6328300;Winston Duke;-1;undirected
-nm0000973;Benjamin Bratt;nm0000973;Benjamin Bratt;-1;undirected
 nm0001838;Rachel Weisz;nm1089991;Tom Hiddleston;-1;undirected
 nm0262635;Chris Evans;nm0842770;Tilda Swinton;-1;undirected
 nm0413168;Hugh Jackman;nm0000128;Russell Crowe;-1;undirected
@@ -287,7 +250,6 @@ nm0004950;Jennifer Garner;nm0134072;Bobby Cannavale;-1;undirected
 nm0000179;Jude Law;nm1093951;Aaron Taylor-Johnson;-1;undirected
 nm0000179;Jude Law;nm0532193;Matthew Macfadyen;-1;undirected
 nm1093951;Aaron Taylor-Johnson;nm0532193;Matthew Macfadyen;-1;undirected
-nm1212722;Benedict Cumberbatch;nm1212722;Benedict Cumberbatch;-1;undirected
 nm0252230;Chiwetel Ejiofor;nm1526352;Jaimie Alexander;-1;undirected
 nm0350453;Jake Gyllenhaal;nm1046097;Rachel McAdams;-1;undirected
 nm0424060;Scarlett Johansson;nm0695435;Chris Pratt;-1;undirected
@@ -300,7 +262,6 @@ nm0177896;Bradley Cooper;nm0671567;Michael Peña;-1;undirected
 nm0177896;Bradley Cooper;nm0671567;Michael Peña;-1;undirected
 nm0719637;Jeremy Renner;nm0671567;Michael Peña;-1;undirected
 nm0719637;Jeremy Renner;nm0671567;Michael Peña;-1;undirected
-nm0671567;Michael Peña;nm0671567;Michael Peña;-1;undirected
 nm2394794;Karen Gillan;nm0507207;Gary Lewis;-1;undirected
 nm0000168;Samuel L. Jackson;nm0004753;Leslie Bibb;-1;undirected
 nm0177896;Bradley Cooper;nm0578853;Ben Mendelsohn;-1;undirected
@@ -319,10 +280,8 @@ nm1176985;Dave Bautista;nm2810287;David Dastmalchian;-1;undirected
 nm0005351;Ryan Reynolds;nm0000168;Samuel L. Jackson;-1;undirected
 nm0005351;Ryan Reynolds;nm0671567;Michael Peña;-1;undirected
 nm0000168;Samuel L. Jackson;nm0671567;Michael Peña;-1;undirected
-nm0004937;Jamie Foxx;nm0004937;Jamie Foxx;-1;undirected
 nm0004937;Jamie Foxx;nm0272173;Colm Feore;-1;undirected
 nm0004937;Jamie Foxx;nm0272173;Colm Feore;-1;undirected
-nm0413168;Hugh Jackman;nm0413168;Hugh Jackman;-1;undirected
 nm0749263;Mark Ruffalo;nm0000474;Michael Keaton;-1;undirected
 nm0749263;Mark Ruffalo;nm1046097;Rachel McAdams;-1;undirected
 nm0749263;Mark Ruffalo;nm0805476;John Slattery;-1;undirected
@@ -336,7 +295,6 @@ nm0805476;John Slattery;nm0001804;Stanley Tucci;-1;undirected
 nm0005377;Sam Rockwell;nm0836121;Michael Stuhlbarg;-1;undirected
 nm0647634;Elizabeth Olsen;nm0163988;Clark Gregg;-1;undirected
 nm0749263;Mark Ruffalo;nm0000569;Gwyneth Paltrow;-1;undirected
-nm0719637;Jeremy Renner;nm0719637;Jeremy Renner;-1;undirected
 nm0000128;Russell Crowe;nm0000164;Anthony Hopkins;-1;undirected
 nm0000128;Russell Crowe;nm0935653;Ray Winstone;-1;undirected
 nm0000164;Anthony Hopkins;nm0935653;Ray Winstone;-1;undirected
@@ -353,7 +311,6 @@ nm4043618;Tom Holland;nm0586568;Mads Mikkelsen;-1;undirected
 nm0000168;Samuel L. Jackson;nm0829032;Ray Stevenson;-1;undirected
 nm0005377;Sam Rockwell;nm0000619;Tim Roth;-1;undirected
 nm0005377;Sam Rockwell;nm0000619;Tim Roth;-1;undirected
-nm0000619;Tim Roth;nm0000619;Tim Roth;-1;undirected
 nm1002641;Dominic Cooper;nm0005024;Terrence Howard;-1;undirected
 nm0000288;Christian Bale;nm0000949;Cate Blanchett;-1;undirected
 nm0000288;Christian Bale;nm0000204;Natalie Portman;-1;undirected
@@ -361,17 +318,12 @@ nm0000949;Cate Blanchett;nm0000204;Natalie Portman;-1;undirected
 nm0748620;Paul Rudd;nm3529685;Kumail Nanjiani;-1;undirected
 nm1212722;Benedict Cumberbatch;nm0532193;Matthew Macfadyen;-1;undirected
 nm4043618;Tom Holland;nm0532193;Matthew Macfadyen;-1;undirected
-nm0000547;Alfred Molina;nm0000547;Alfred Molina;-1;undirected
 nm0000195;Bill Murray;nm0005024;Terrence Howard;-1;undirected
 nm0000195;Bill Murray;nm0000949;Cate Blanchett;-1;undirected
 nm0578853;Ben Mendelsohn;nm9584861;Dominique Thorne;-1;undirected
 nm1569276;Chadwick Boseman;nm0004950;Jennifer Garner;-1;undirected
 nm0424060;Scarlett Johansson;nm0488953;Brie Larson;-1;undirected
 nm1935086;Tessa Thompson;nm3500582;Teyonah Parris;-1;undirected
-nm0000353;Willem Dafoe;nm0000353;Willem Dafoe;-1;undirected
-nm0000353;Willem Dafoe;nm0000353;Willem Dafoe;-1;undirected
-nm0000353;Willem Dafoe;nm0000353;Willem Dafoe;-1;undirected
-nm2204178;Tenoch Huerta;nm2204178;Tenoch Huerta;-1;undirected
 nm0000179;Jude Law;nm0578853;Ben Mendelsohn;-1;undirected
 nm0123092;Ty Burrell;nm0252961;Idris Elba;-1;undirected
 nm0000353;Willem Dafoe;nm0000156;Jeff Goldblum;-1;undirected
@@ -397,7 +349,6 @@ nm1107001;Anthony Mackie;nm1072555;Morena Baccarin;-1;undirected
 nm0880081;Leslie Uggams;nm1250791;Sterling K. Brown;-1;undirected
 nm0252961;Idris Elba;nm0534635;Richard Madden;-1;undirected
 nm1002641;Dominic Cooper;nm0000474;Michael Keaton;-1;undirected
-nm1165110;Chris Hemsworth;nm1165110;Chris Hemsworth;-1;undirected
 nm0001745;Stellan Skarsgård;nm0000353;Willem Dafoe;-1;undirected
 nm0000949;Cate Blanchett;nm3229685;Kit Harington;-1;undirected
 nm0695435;Chris Pratt;nm1130627;Cobie Smulders;-1;undirected
@@ -422,13 +373,11 @@ nm3109964;Brian Tyree Henry;nm0938950;Benedict Wong;-1;undirected
 nm0000474;Michael Keaton;nm0001570;Edward Norton;-1;undirected
 nm0424060;Scarlett Johansson;nm0169806;Taika Waititi;-1;undirected
 nm0169806;Taika Waititi;nm0005377;Sam Rockwell;-1;undirected
-nm8349839;Ever Anderson;nm8349839;Ever Anderson;-1;undirected
 nm0000547;Alfred Molina;nm0000673;Marisa Tomei;-1;undirected
 nm0000949;Cate Blanchett;nm1046097;Rachel McAdams;-1;undirected
 nm0881631;Karl Urban;nm0757855;Zoe Saldana;-1;undirected
 nm0881631;Karl Urban;nm0252961;Idris Elba;-1;undirected
 nm0757855;Zoe Saldana;nm0252961;Idris Elba;-1;undirected
-nm0038355;Tadanobu Asano;nm0038355;Tadanobu Asano;-1;undirected
 nm0000602;Robert Redford;nm0881631;Karl Urban;-1;undirected
 nm0000204;Natalie Portman;nm0938950;Benedict Wong;-1;undirected
 nm1935086;Tessa Thompson;nm0938950;Benedict Wong;-1;undirected
@@ -438,9 +387,7 @@ nm0269463;Jon Favreau;nm0134072;Bobby Cannavale;-1;undirected
 nm0000375;Robert Downey Jr.;nm0134072;Bobby Cannavale;-1;undirected
 nm0424060;Scarlett Johansson;nm0134072;Bobby Cannavale;-1;undirected
 nm0000949;Cate Blanchett;nm3008739;Rob Delaney;-1;undirected
-nm0842770;Tilda Swinton;nm0842770;Tilda Swinton;-1;undirected
 nm0004937;Jamie Foxx;nm0000291;Angela Bassett;-1;undirected
-nm2143282;Lupita Nyong'o;nm2143282;Lupita Nyong'o;-1;undirected
 nm0005024;Terrence Howard;nm0269463;Jon Favreau;-1;undirected
 nm0000128;Russell Crowe;nm1385871;Olga Kurylenko;-1;undirected
 nm0293509;Martin Freeman;nm1072555;Morena Baccarin;-1;undirected
@@ -460,22 +407,14 @@ nm0429363;Toby Jones;nm0938950;Benedict Wong;-1;undirected
 nm0430107;Michael B. Jordan;nm0000230;Sylvester Stallone;-1;undirected
 nm0430107;Michael B. Jordan;nm1935086;Tessa Thompson;-1;undirected
 nm0000230;Sylvester Stallone;nm1935086;Tessa Thompson;-1;undirected
-nm0005351;Ryan Reynolds;nm0005351;Ryan Reynolds;-1;undirected
-nm0005351;Ryan Reynolds;nm0005351;Ryan Reynolds;-1;undirected
-nm0005351;Ryan Reynolds;nm0005351;Ryan Reynolds;-1;undirected
 nm0004950;Jennifer Garner;nm0339460;Judy Greer;-1;undirected
-nm1212722;Benedict Cumberbatch;nm1212722;Benedict Cumberbatch;-1;undirected
-nm1212722;Benedict Cumberbatch;nm1212722;Benedict Cumberbatch;-1;undirected
-nm1212722;Benedict Cumberbatch;nm1212722;Benedict Cumberbatch;-1;undirected
 nm0915989;Hugo Weaving;nm4422686;Barry Keoghan;-1;undirected
 nm1072555;Morena Baccarin;nm0000973;Benjamin Bratt;-1;undirected
 nm0000161;Salma Hayek;nm0429363;Toby Jones;-1;undirected
 nm0000161;Salma Hayek;nm0000604;John C. Reilly;-1;undirected
 nm0429363;Toby Jones;nm0000604;John C. Reilly;-1;undirected
-nm0413168;Hugh Jackman;nm0413168;Hugh Jackman;-1;undirected
 nm1015684;Corey Stoll;nm0625789;Tim Blake Nelson;-1;undirected
 nm0000164;Anthony Hopkins;nm0001804;Stanley Tucci;-1;undirected
-nm0134072;Bobby Cannavale;nm0134072;Bobby Cannavale;-1;undirected
 nm0000168;Samuel L. Jackson;nm0000621;Kurt Russell;-1;undirected
 nm0000168;Samuel L. Jackson;nm0324658;Walton Goggins;-1;undirected
 nm0000168;Samuel L. Jackson;nm0000619;Tim Roth;-1;undirected
@@ -483,13 +422,11 @@ nm0000621;Kurt Russell;nm0324658;Walton Goggins;-1;undirected
 nm0000621;Kurt Russell;nm0000619;Tim Roth;-1;undirected
 nm0324658;Walton Goggins;nm0000619;Tim Roth;-1;undirected
 nm0424060;Scarlett Johansson;nm0000604;John C. Reilly;-1;undirected
-nm0695435;Chris Pratt;nm0695435;Chris Pratt;-1;undirected
 nm4043618;Tom Holland;nm0035514;Richard Armitage;-1;undirected
 nm0005377;Sam Rockwell;nm0004753;Leslie Bibb;-1;undirected
 nm1939267;Tip 'T.I.' Harris;nm0005024;Terrence Howard;-1;undirected
 nm0293509;Martin Freeman;nm0000547;Alfred Molina;-1;undirected
 nm1002641;Dominic Cooper;nm2110418;Gemma Chan;-1;undirected
-nm0000168;Samuel L. Jackson;nm0000168;Samuel L. Jackson;-1;undirected
 nm0671567;Michael Peña;nm1659221;Sebastian Stan;-1;undirected
 nm0671567;Michael Peña;nm0252230;Chiwetel Ejiofor;-1;undirected
 nm1659221;Sebastian Stan;nm0252230;Chiwetel Ejiofor;-1;undirected
@@ -502,19 +439,16 @@ nm0000168;Samuel L. Jackson;nm0488953;Brie Larson;-1;undirected
 nm0000168;Samuel L. Jackson;nm0000604;John C. Reilly;-1;undirected
 nm0488953;Brie Larson;nm0000604;John C. Reilly;-1;undirected
 nm0578853;Ben Mendelsohn;nm0586568;Mads Mikkelsen;-1;undirected
-nm0000973;Benjamin Bratt;nm0000973;Benjamin Bratt;-1;undirected
 nm2255973;Donald Glover;nm0079273;Paul Bettany;-1;undirected
 nm2255973;Donald Glover;nm0269463;Jon Favreau;-1;undirected
 nm0079273;Paul Bettany;nm0269463;Jon Favreau;-1;undirected
 nm0000128;Russell Crowe;nm3886028;Angourie Rice;-1;undirected
-nm0342029;Frank Grillo;nm0342029;Frank Grillo;-1;undirected
 nm0000619;Tim Roth;nm2810287;David Dastmalchian;-1;undirected
 nm0000949;Cate Blanchett;nm0000602;Robert Redford;-1;undirected
 nm0671567;Michael Peña;nm0000332;Don Cheadle;-1;undirected
 nm0000332;Don Cheadle;nm0134072;Bobby Cannavale;-1;undirected
 nm0000161;Salma Hayek;nm6073955;Florence Pugh;-1;undirected
 nm0000161;Salma Hayek;nm0935653;Ray Winstone;-1;undirected
-nm0842770;Tilda Swinton;nm0842770;Tilda Swinton;-1;undirected
 nm0842770;Tilda Swinton;nm0350453;Jake Gyllenhaal;-1;undirected
 nm0842770;Tilda Swinton;nm0350453;Jake Gyllenhaal;-1;undirected
 nm0339460;Judy Greer;nm3529685;Kumail Nanjiani;-1;undirected
@@ -522,15 +456,10 @@ nm3229685;Kit Harington;nm0000204;Natalie Portman;-1;undirected
 nm0000179;Jude Law;nm0586568;Mads Mikkelsen;-1;undirected
 nm0935653;Ray Winstone;nm0000128;Russell Crowe;-1;undirected
 nm1092086;David Harbour;nm0005023;Djimon Hounsou;-1;undirected
-nm0000949;Cate Blanchett;nm0000949;Cate Blanchett;-1;undirected
-nm0000949;Cate Blanchett;nm0000949;Cate Blanchett;-1;undirected
-nm0000949;Cate Blanchett;nm0000949;Cate Blanchett;-1;undirected
 nm1250791;Sterling K. Brown;nm0000547;Alfred Molina;-1;undirected
-nm0004937;Jamie Foxx;nm0004937;Jamie Foxx;-1;undirected
 nm0004937;Jamie Foxx;nm0578853;Ben Mendelsohn;-1;undirected
 nm0004937;Jamie Foxx;nm0578853;Ben Mendelsohn;-1;undirected
 nm3109964;Brian Tyree Henry;nm3718007;Jonathan Majors;-1;undirected
-nm0350453;Jake Gyllenhaal;nm0350453;Jake Gyllenhaal;-1;undirected
 nm0350453;Jake Gyllenhaal;nm1093951;Aaron Taylor-Johnson;-1;undirected
 nm0350453;Jake Gyllenhaal;nm1093951;Aaron Taylor-Johnson;-1;undirected
 nm3500582;Teyonah Parris;nm0000291;Angela Bassett;-1;undirected
@@ -541,9 +470,6 @@ nm0001401;Angelina Jolie;nm0000201;Michelle Pfeiffer;-1;undirected
 nm0001401;Angelina Jolie;nm0252230;Chiwetel Ejiofor;-1;undirected
 nm0000201;Michelle Pfeiffer;nm0252230;Chiwetel Ejiofor;-1;undirected
 nm0424060;Scarlett Johansson;nm0123092;Ty Burrell;-1;undirected
-nm0000353;Willem Dafoe;nm0000353;Willem Dafoe;-1;undirected
-nm0000353;Willem Dafoe;nm0000353;Willem Dafoe;-1;undirected
-nm0000353;Willem Dafoe;nm0000353;Willem Dafoe;-1;undirected
 nm0695435;Chris Pratt;nm0429363;Toby Jones;-1;undirected
 nm0695435;Chris Pratt;nm0000156;Jeff Goldblum;-1;undirected
 nm0429363;Toby Jones;nm0000156;Jeff Goldblum;-1;undirected
@@ -565,11 +491,7 @@ nm0829032;Ray Stevenson;nm1176985;Dave Bautista;-1;undirected
 nm0647634;Elizabeth Olsen;nm0719637;Jeremy Renner;-1;undirected
 nm0350453;Jake Gyllenhaal;nm0005351;Ryan Reynolds;-1;undirected
 nm3529685;Kumail Nanjiani;nm2801210;Zenobia Shroff;-1;undirected
-nm0005351;Ryan Reynolds;nm0005351;Ryan Reynolds;-1;undirected
-nm0005351;Ryan Reynolds;nm0005351;Ryan Reynolds;-1;undirected
-nm0005351;Ryan Reynolds;nm0005351;Ryan Reynolds;-1;undirected
 nm0000288;Christian Bale;nm3718007;Jonathan Majors;-1;undirected
-nm0293509;Martin Freeman;nm0293509;Martin Freeman;-1;undirected
 nm0000169;Tommy Lee Jones;nm0741893;Terence Rosemore;-1;undirected
 nm1659221;Sebastian Stan;nm0134072;Bobby Cannavale;-1;undirected
 nm1195855;Lee Pace;nm0339460;Judy Greer;-1;undirected
@@ -606,24 +528,19 @@ nm0000230;Sylvester Stallone;nm1935086;Tessa Thompson;-1;undirected
 nm0413168;Hugh Jackman;nm0757855;Zoe Saldana;-1;undirected
 nm0424060;Scarlett Johansson;nm0134072;Bobby Cannavale;-1;undirected
 nm0000230;Sylvester Stallone;nm1176985;Dave Bautista;-1;undirected
-nm0000313;Jeff Bridges;nm0000313;Jeff Bridges;-1;undirected
 nm0000313;Jeff Bridges;nm1165110;Chris Hemsworth;-1;undirected
 nm0000313;Jeff Bridges;nm1165110;Chris Hemsworth;-1;undirected
 nm0252230;Chiwetel Ejiofor;nm0429363;Toby Jones;-1;undirected
 nm0000375;Robert Downey Jr.;nm3529685;Kumail Nanjiani;-1;undirected
 nm0000230;Sylvester Stallone;nm1176985;Dave Bautista;-1;undirected
 nm0000547;Alfred Molina;nm3109964;Brian Tyree Henry;-1;undirected
-nm2143282;Lupita Nyong'o;nm2143282;Lupita Nyong'o;-1;undirected
-nm6328300;Winston Duke;nm6328300;Winston Duke;-1;undirected
 nm0625789;Tim Blake Nelson;nm8188622;Jacob Batalon;-1;undirected
 nm0429363;Toby Jones;nm3718007;Jonathan Majors;-1;undirected
 nm0000353;Willem Dafoe;nm0586568;Mads Mikkelsen;-1;undirected
-nm3886028;Angourie Rice;nm3886028;Angourie Rice;-1;undirected
 nm3886028;Angourie Rice;nm8188622;Jacob Batalon;-1;undirected
 nm3886028;Angourie Rice;nm8188622;Jacob Batalon;-1;undirected
 nm3886028;Angourie Rice;nm8188622;Jacob Batalon;-1;undirected
 nm3886028;Angourie Rice;nm8188622;Jacob Batalon;-1;undirected
-nm8188622;Jacob Batalon;nm8188622;Jacob Batalon;-1;undirected
 nm0350453;Jake Gyllenhaal;nm1534698;Zawe Ashton;-1;undirected
 nm3500582;Teyonah Parris;nm9584861;Dominique Thorne;-1;undirected
 nm4043618;Tom Holland;nm0695435;Chris Pratt;-1;undirected
@@ -647,22 +564,17 @@ nm2143282;Lupita Nyong'o;nm1659221;Sebastian Stan;-1;undirected
 nm0005351;Ryan Reynolds;nm0000168;Samuel L. Jackson;-1;undirected
 nm0005351;Ryan Reynolds;nm0000161;Salma Hayek;-1;undirected
 nm0000168;Samuel L. Jackson;nm0000161;Salma Hayek;-1;undirected
-nm0000164;Anthony Hopkins;nm0000164;Anthony Hopkins;-1;undirected
 nm0000128;Russell Crowe;nm2394794;Karen Gillan;-1;undirected
 nm0000128;Russell Crowe;nm2394794;Karen Gillan;-1;undirected
-nm2394794;Karen Gillan;nm2394794;Karen Gillan;-1;undirected
 nm0000195;Bill Murray;nm0842770;Tilda Swinton;-1;undirected
 nm6073955;Florence Pugh;nm2860379;William Jackson Harper;-1;undirected
-nm1093951;Aaron Taylor-Johnson;nm1093951;Aaron Taylor-Johnson;-1;undirected
 nm1093951;Aaron Taylor-Johnson;nm0000128;Russell Crowe;-1;undirected
 nm1093951;Aaron Taylor-Johnson;nm0000128;Russell Crowe;-1;undirected
 nm2255973;Donald Glover;nm4004793;Letitia Wright;-1;undirected
-nm1165110;Chris Hemsworth;nm1165110;Chris Hemsworth;-1;undirected
 nm1165110;Chris Hemsworth;nm3109964;Brian Tyree Henry;-1;undirected
 nm1165110;Chris Hemsworth;nm3109964;Brian Tyree Henry;-1;undirected
 nm1165110;Chris Hemsworth;nm3109964;Brian Tyree Henry;-1;undirected
 nm1165110;Chris Hemsworth;nm3109964;Brian Tyree Henry;-1;undirected
-nm3109964;Brian Tyree Henry;nm3109964;Brian Tyree Henry;-1;undirected
 nm3109964;Brian Tyree Henry;nm0424060;Scarlett Johansson;-1;undirected
 nm3109964;Brian Tyree Henry;nm0424060;Scarlett Johansson;-1;undirected
 nm0749263;Mark Ruffalo;nm2860379;William Jackson Harper;-1;undirected
@@ -2059,42 +1971,42 @@ nm4810527;Jett Klyne;nm2017943;Hayley Atwell;1;undirected
 nm6623135;Julian Hilliard;nm0836121;Michael Stuhlbarg;1;undirected
 nm6623135;Julian Hilliard;nm2017943;Hayley Atwell;1;undirected
 nm0836121;Michael Stuhlbarg;nm2017943;Hayley Atwell;1;undirected
-nm0413168;Hugh Jackman;nm6748436;Dafne Keen;0;undirected
-nm0000204;Natalie Portman;nm1935086;Tessa Thompson;0;undirected
-nm0000949;Cate Blanchett;nm1212722;Benedict Cumberbatch;0;undirected
-nm1212722;Benedict Cumberbatch;nm4043618;Tom Holland;0;undirected
-nm0748620;Paul Rudd;nm0000195;Bill Murray;0;undirected
-nm0004874;Vin Diesel;nm0000621;Kurt Russell;0;undirected
-nm0000179;Jude Law;nm0005023;Djimon Hounsou;0;undirected
-nm1569276;Chadwick Boseman;nm1250791;Sterling K. Brown;0;undirected
-nm0424060;Scarlett Johansson;nm0005377;Sam Rockwell;0;undirected
-nm0262635;Chris Evans;nm1107001;Anthony Mackie;0;undirected
-nm2143282;Lupita Nyong'o;nm6328300;Winston Duke;0;undirected
-nm1072555;Morena Baccarin;nm3008739;Rob Delaney;0;undirected
-nm0671567;Michael Peña;nm0134072;Bobby Cannavale;0;undirected
-nm0749263;Mark Ruffalo;nm0757855;Zoe Saldana;0;undirected
-nm0488953;Brie Larson;nm0000168;Samuel L. Jackson;0;undirected
-nm0005351;Ryan Reynolds;nm1072555;Morena Baccarin;0;undirected
-nm0004874;Vin Diesel;nm1176985;Dave Bautista;0;undirected
-nm0005351;Ryan Reynolds;nm0004950;Jennifer Garner;0;undirected
-nm1431940;Evangeline Lilly;nm1107001;Anthony Mackie;0;undirected
-nm0000128;Russell Crowe;nm1176985;Dave Bautista;0;undirected
-nm0035514;Richard Armitage;nm0429363;Toby Jones;0;undirected
-nm0012078;Scott Adkins;nm2333360;Zara Phythian;0;undirected
-nm0000375;Robert Downey Jr.;nm0424060;Scarlett Johansson;0;undirected
 nm1165110;Chris Hemsworth;nm1935086;Tessa Thompson;0;undirected
-nm0005351;Ryan Reynolds;nm0880081;Leslie Uggams;0;undirected
-nm0757855;Zoe Saldana;nm0740264;Michael Rooker;0;undirected
+nm1569276;Chadwick Boseman;nm1250791;Sterling K. Brown;0;undirected
+nm0262635;Chris Evans;nm1107001;Anthony Mackie;0;undirected
+nm1212722;Benedict Cumberbatch;nm4043618;Tom Holland;0;undirected
+nm0000128;Russell Crowe;nm1176985;Dave Bautista;0;undirected
+nm0748620;Paul Rudd;nm0000195;Bill Murray;0;undirected
+nm0000949;Cate Blanchett;nm1212722;Benedict Cumberbatch;0;undirected
+nm0005351;Ryan Reynolds;nm0004950;Jennifer Garner;0;undirected
+nm0035514;Richard Armitage;nm0429363;Toby Jones;0;undirected
+nm0342029;Frank Grillo;nm0380073;Maximiliano Hernández;0;undirected
+nm0413168;Hugh Jackman;nm6748436;Dafne Keen;0;undirected
+nm3500582;Teyonah Parris;nm0000168;Samuel L. Jackson;0;undirected
+nm0004874;Vin Diesel;nm0000621;Kurt Russell;0;undirected
+nm0488953;Brie Larson;nm0000168;Samuel L. Jackson;0;undirected
 nm0000168;Samuel L. Jackson;nm0424060;Scarlett Johansson;0;undirected
+nm0000375;Robert Downey Jr.;nm0424060;Scarlett Johansson;0;undirected
+nm1072555;Morena Baccarin;nm3008739;Rob Delaney;0;undirected
+nm0424060;Scarlett Johansson;nm0788009;Garry Shandling;0;undirected
+nm0001570;Edward Norton;nm0625789;Tim Blake Nelson;0;undirected
+nm1431940;Evangeline Lilly;nm1107001;Anthony Mackie;0;undirected
+nm0004874;Vin Diesel;nm1176985;Dave Bautista;0;undirected
+nm0177896;Bradley Cooper;nm0757855;Zoe Saldana;0;undirected
+nm1165110;Chris Hemsworth;nm4043618;Tom Holland;0;undirected
+nm0671567;Michael Peña;nm0134072;Bobby Cannavale;0;undirected
+nm0000204;Natalie Portman;nm1935086;Tessa Thompson;0;undirected
+nm0424060;Scarlett Johansson;nm0005377;Sam Rockwell;0;undirected
+nm0757855;Zoe Saldana;nm0740264;Michael Rooker;0;undirected
+nm0424060;Scarlett Johansson;nm1212722;Benedict Cumberbatch;0;undirected
+nm6073955;Florence Pugh;nm0935653;Ray Winstone;0;undirected
+nm2143282;Lupita Nyong'o;nm6328300;Winston Duke;0;undirected
+nm0012078;Scott Adkins;nm2333360;Zara Phythian;0;undirected
+nm0749263;Mark Ruffalo;nm0757855;Zoe Saldana;0;undirected
+nm0005351;Ryan Reynolds;nm0880081;Leslie Uggams;0;undirected
+nm0000179;Jude Law;nm0005023;Djimon Hounsou;0;undirected
+nm1165110;Chris Hemsworth;nm0424060;Scarlett Johansson;0;undirected
+nm1176985;Dave Bautista;nm2394794;Karen Gillan;0;undirected
 nm0000168;Samuel L. Jackson;nm0005023;Djimon Hounsou;0;undirected
 nm1072555;Morena Baccarin;nm0880081;Leslie Uggams;0;undirected
-nm0424060;Scarlett Johansson;nm0788009;Garry Shandling;0;undirected
-nm0424060;Scarlett Johansson;nm1212722;Benedict Cumberbatch;0;undirected
-nm1165110;Chris Hemsworth;nm4043618;Tom Holland;0;undirected
-nm1165110;Chris Hemsworth;nm0424060;Scarlett Johansson;0;undirected
-nm3500582;Teyonah Parris;nm0000168;Samuel L. Jackson;0;undirected
-nm0342029;Frank Grillo;nm0380073;Maximiliano Hernández;0;undirected
-nm1176985;Dave Bautista;nm2394794;Karen Gillan;0;undirected
-nm0001570;Edward Norton;nm0625789;Tim Blake Nelson;0;undirected
-nm6073955;Florence Pugh;nm0935653;Ray Winstone;0;undirected
-nm0177896;Bradley Cooper;nm0757855;Zoe Saldana;0;undirected
+nm0005351;Ryan Reynolds;nm1072555;Morena Baccarin;0;undirected
